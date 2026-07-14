@@ -6217,3 +6217,194 @@ The Compatibility Framework establishes the universal interoperability standard 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_DEPENDENCY_GRAPH.md
+
+# 💎 Enterprise IMPERIAL Skills Dependency Graph Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Dependency Graph Framework defines the architecture used to model, visualize, validate, and govern relationships between Enterprise IMPERIAL Skills.
+
+Every dependency must exist inside the official Dependency Graph.
+
+Hidden relationships are prohibited.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Explicit Relationships
+- Complete Traceability
+- Continuous Verification
+- Zero Trust
+- Repository Consistency
+- Deterministic Analysis
+
+---
+
+# Objectives
+
+The Dependency Graph provides:
+
+- Relationship Mapping
+- Dependency Analysis
+- Circular Dependency Detection
+- Engineering Impact Analysis
+- Upgrade Planning
+- Repository Intelligence
+- Runtime Optimization
+
+---
+
+# Graph Nodes
+
+Every node represents one governed object.
+
+Supported node types include:
+
+- Enterprise Skill
+- Manifest
+- Policy
+- Permission
+- Runtime
+- AI Passport
+- Verification
+- Registry Entry
+- Audit Record
+
+---
+
+# Graph Edges
+
+Edges represent approved relationships.
+
+Supported relationships include:
+
+- Depends On
+- Requires
+- Uses
+- Validates
+- Authorizes
+- Executes
+- Monitors
+- Produces
+- Consumes
+- References
+
+---
+
+# Dependency Rules
+
+Every dependency must be:
+
+- declared;
+- versioned;
+- verified;
+- documented;
+- auditable.
+
+Implicit dependencies are prohibited.
+
+---
+
+# Circular Dependency Detection
+
+The framework continuously detects:
+
+- direct cycles;
+- indirect cycles;
+- recursive chains;
+- invalid dependency loops.
+
+Circular production dependencies are prohibited.
+
+---
+
+# Impact Analysis
+
+Before any repository change the graph evaluates:
+
+- affected Skills;
+- affected Policies;
+- affected Permissions;
+- affected Runtime;
+- affected Verification;
+- affected Documentation.
+
+Every engineering change must include dependency impact analysis.
+
+---
+
+# Graph Validation
+
+Validation verifies:
+
+- node integrity;
+- edge integrity;
+- version compatibility;
+- repository synchronization;
+- governance consistency.
+
+Validation failure blocks production deployment.
+
+---
+
+# Repository Synchronization
+
+The Dependency Graph remains synchronized with:
+
+- Registry
+- Manifest
+- Catalog
+- Verification
+- Lifecycle
+- Trust Framework
+- Runtime Framework
+
+Synchronization is mandatory.
+
+---
+
+# Audit
+
+Every graph modification records:
+
+- Graph Change ID
+- Timestamp
+- Modified Nodes
+- Modified Edges
+- Reviewer
+- Audit Reference
+
+History remains immutable.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Dependency Graph architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Dependency Graph Framework establishes the universal relationship model for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to understand, validate, optimize, and govern complex engineering dependencies at enterprise scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
