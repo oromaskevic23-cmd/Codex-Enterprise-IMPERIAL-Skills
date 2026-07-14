@@ -5251,3 +5251,196 @@ The Enterprise IMPERIAL Skills Execution Framework becomes the universal executi
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_SANDBOX.md
+
+# 💎 Enterprise IMPERIAL Skills Sandbox Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Sandbox Framework governs how every Enterprise IMPERIAL Skill executes inside isolated, controlled, and verifiable runtime environments.
+
+Every Skill must execute inside an approved sandbox.
+
+Execution outside an approved sandbox is prohibited.
+
+---
+
+# Sandbox Principles
+
+The framework follows:
+
+- Zero Trust
+- Least Privilege
+- Deny By Default
+- Runtime Isolation
+- Explicit Authorization
+- Continuous Monitoring
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Sandbox Framework provides:
+
+- Runtime Isolation
+- Resource Protection
+- Controlled Execution
+- Secure Interaction
+- Failure Containment
+- Deterministic Behaviour
+
+---
+
+# Sandbox Components
+
+Every sandbox contains:
+
+- Runtime Environment
+- Permission Controller
+- Resource Manager
+- Network Policy
+- File System Policy
+- Monitoring Agent
+- Audit Collector
+
+---
+
+# Isolation Rules
+
+Every Enterprise IMPERIAL Skill executes inside an isolated environment.
+
+Isolation protects:
+
+- Operating System
+- Repository
+- Runtime
+- Memory
+- Network
+- Storage
+- Other Skills
+
+Cross-Sandbox access is prohibited.
+
+---
+
+# Resource Limits
+
+Each sandbox defines:
+
+- CPU Limit
+- GPU Limit
+- Memory Limit
+- Storage Limit
+- Network Limit
+- Execution Timeout
+
+Unlimited resources are prohibited.
+
+---
+
+# File System Policy
+
+A Skill may access only explicitly authorized files.
+
+Unauthorized file access is denied.
+
+Repository integrity must never be compromised.
+
+---
+
+# Network Policy
+
+Every network connection requires:
+
+- explicit authorization;
+- policy validation;
+- audit recording.
+
+Unauthorized outbound communication is prohibited.
+
+---
+
+# Runtime Monitoring
+
+Every sandbox continuously monitors:
+
+- CPU
+- GPU
+- Memory
+- Storage
+- Network
+- Runtime Health
+- Policy Compliance
+- Security Events
+
+---
+
+# Sandbox Failure
+
+If sandbox integrity is compromised:
+
+- stop execution;
+- isolate environment;
+- preserve evidence;
+- notify monitoring;
+- record audit;
+- prevent further execution.
+
+---
+
+# AI Passport Integration
+
+Sandbox execution validates:
+
+- AI Passport
+- Trust Tier
+- Permission Scope
+- Organization
+- Operational Status
+
+Execution is denied when validation fails.
+
+---
+
+# Audit
+
+Every sandbox execution records:
+
+- Sandbox ID
+- Skill ID
+- Runtime
+- Timestamp
+- Resource Usage
+- Result
+- Audit Reference
+
+Audit evidence is immutable.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Sandbox architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Sandbox Framework establishes the universal isolation architecture for Enterprise IMPERIAL Skills, ensuring secure execution, runtime containment, deterministic behaviour, and engineering integrity throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
