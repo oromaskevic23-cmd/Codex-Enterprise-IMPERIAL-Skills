@@ -8305,3 +8305,186 @@ The Configuration Framework establishes the universal configuration architecture
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_POLICY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Policy Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Policy Engine Framework governs how Enterprise IMPERIAL Skills evaluate, enforce, and execute architectural, security, governance, runtime, and operational policies.
+
+No Enterprise IMPERIAL Skill may execute without Policy Engine authorization.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Zero Trust
+- Policy-Driven Execution
+- Explicit Authorization
+- Deterministic Decisions
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Policy Engine provides:
+
+- Centralized Policy Evaluation
+- Runtime Decision Making
+- Permission Enforcement
+- Governance Enforcement
+- Security Enforcement
+- Compliance Validation
+
+---
+
+# Policy Sources
+
+Policies may originate only from:
+
+- Repository Policies
+- Governance Policies
+- Security Policies
+- Runtime Policies
+- Permission Policies
+- Approval Gateway Policies
+
+External uncontrolled policies are prohibited.
+
+---
+
+# Policy Evaluation
+
+Before every execution the Policy Engine validates:
+
+- Repository Integrity
+- Manifest
+- AI Passport
+- Trust Tier
+- Permission Model
+- Runtime State
+- Lifecycle Stage
+- Verification Status
+
+Execution is denied if policy evaluation fails.
+
+---
+
+# Policy Decisions
+
+Supported decisions:
+
+- Allow
+- Deny
+- Escalate
+- Require Approval
+- Retry
+- Block
+
+Undefined decisions are prohibited.
+
+---
+
+# Policy Enforcement
+
+The Policy Engine enforces:
+
+- Repository Policies
+- Security Policies
+- Runtime Policies
+- Governance Policies
+- Permission Policies
+- Trust Policies
+
+Policy enforcement is mandatory.
+
+---
+
+# Continuous Evaluation
+
+Policy evaluation continues during execution.
+
+Policy changes may immediately affect:
+
+- permissions;
+- execution;
+- trust;
+- runtime;
+- monitoring.
+
+---
+
+# Failure Handling
+
+When policy evaluation fails:
+
+- deny execution;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Policy Audit
+
+Every policy decision records:
+
+- Policy ID
+- Skill ID
+- Decision
+- Runtime
+- AI Passport
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Policy Engine remains synchronized with:
+
+- Registry
+- Manifest
+- Runtime
+- Verification
+- Trust
+- Governance
+- Audit
+- Approval Gateway
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Policy Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Policy Engine Framework establishes the universal policy enforcement architecture for Enterprise IMPERIAL Skills, enabling secure, deterministic, continuously governed, and enterprise-scale policy execution throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
