@@ -16793,3 +16793,221 @@ The Resource Policy Engine Framework establishes the universal enterprise resour
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_COST_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Cost Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Cost Engine Framework governs how Enterprise IMPERIAL Skills estimate, monitor, optimize, allocate, forecast, and govern operational costs throughout the IMPERIAL Core ecosystem.
+
+Every computational resource has an associated operational cost.
+
+Every cost must remain measurable, explainable, governed, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Cost Transparency
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Evidence Before Optimization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Cost Engine provides:
+
+- Cost Estimation
+- Cost Monitoring
+- Cost Allocation
+- Cost Forecasting
+- Cost Optimization
+- Enterprise Cost Governance
+
+---
+
+# Cost Categories
+
+Supported cost categories include:
+
+- CPU Cost
+- GPU Cost
+- Memory Cost
+- Storage Cost
+- Network Cost
+- AI Model Cost
+- API Cost
+- Infrastructure Cost
+- Operational Cost
+
+---
+
+# Cost Sources
+
+Cost data may originate only from:
+
+- Runtime Engine
+- Resource Manager
+- Scheduler Framework
+- API Engine
+- Monitoring Framework
+- Analytics Engine
+- Approved Billing Systems
+
+Unauthorized cost sources are prohibited.
+
+---
+
+# Cost Pipeline
+
+Every cost calculation follows:
+
+Resource Request
+
+↓
+
+Runtime Allocation
+
+↓
+
+Usage Measurement
+
+↓
+
+Cost Calculation
+
+↓
+
+Optimization Analysis
+
+↓
+
+Reporting
+
+↓
+
+Audit Recording
+
+---
+
+# Cost Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Usage Accuracy
+- Runtime Consistency
+- Verification Status
+- Trust Tier
+- Policy Compliance
+
+Validation failure blocks publication.
+
+---
+
+# Cost Optimization
+
+The framework continuously evaluates:
+
+- Resource Waste
+- Idle Capacity
+- Runtime Efficiency
+- GPU Utilization
+- API Consumption
+- Infrastructure Efficiency
+
+Optimization recommendations require governance approval.
+
+---
+
+# Cost Forecasting
+
+The framework generates:
+
+- Daily Forecasts
+- Weekly Forecasts
+- Monthly Forecasts
+- Capacity Forecasts
+- Budget Forecasts
+- Growth Forecasts
+
+Forecasts are advisory only.
+
+---
+
+# Failure Handling
+
+When cost validation fails:
+
+- reject calculation;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Cost Audit
+
+Every cost operation records:
+
+- Cost ID
+- Runtime ID
+- Resource Type
+- Usage
+- Calculated Cost
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Cost Engine remains synchronized with:
+
+- Runtime Engine
+- Resource Manager
+- Analytics Engine
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Cost Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Cost Engine Framework establishes the universal enterprise cost governance architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to measure, optimize, forecast, and govern operational costs with enterprise-scale transparency and financial intelligence.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
