@@ -2574,3 +2574,204 @@ Architectural integrity must always be preserved.
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# COMPLIANCE.md
+
+# 💎 Enterprise IMPERIAL Skills Compliance Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Compliance Framework ensures that every Enterprise IMPERIAL Skill remains compliant with the approved architecture, governance, engineering standards, security policies, and repository rules throughout its entire lifecycle.
+
+Compliance is mandatory.
+
+No Enterprise IMPERIAL Skill may enter production without compliance validation.
+
+---
+
+# Compliance Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Governance Before Deployment
+- Zero Trust
+- Continuous Verification
+- Continuous Compliance
+- Complete Auditability
+- Evidence Before Trust
+
+---
+
+# Compliance Objectives
+
+Compliance ensures:
+
+- Architectural Consistency
+- Engineering Quality
+- Security Integrity
+- Governance Enforcement
+- Repository Integrity
+- Operational Reliability
+
+---
+
+# Compliance Domains
+
+Every Enterprise IMPERIAL Skill is evaluated across the following domains.
+
+- Architecture
+- Engineering
+- Security
+- Governance
+- Verification
+- Permissions
+- Trust
+- Lifecycle
+- Documentation
+- Audit
+
+---
+
+# Architecture Compliance
+
+Every Skill must preserve:
+
+- Multi-Orchestrator Architecture
+- AI Passport
+- Enterprise IMPERIAL Skills
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Zero Trust
+- Public / Private Boundary
+- CRYPTO IMPERIAL Ecosystem Boundary
+
+Architectural deviation is prohibited.
+
+---
+
+# Engineering Compliance
+
+Engineering compliance verifies:
+
+- repository structure;
+- implementation quality;
+- documentation;
+- version control;
+- maintainability;
+- reproducibility.
+
+---
+
+# Security Compliance
+
+Security compliance verifies:
+
+- authentication;
+- authorization;
+- least privilege;
+- deny-by-default;
+- secret management;
+- repository classification.
+
+---
+
+# Governance Compliance
+
+Governance compliance verifies:
+
+- ownership;
+- lifecycle;
+- approvals;
+- policies;
+- change history;
+- repository standards.
+
+---
+
+# Verification Compliance
+
+Every mandatory verification gate must successfully complete before production deployment.
+
+Verification evidence is permanently retained.
+
+---
+
+# Documentation Compliance
+
+Every Enterprise IMPERIAL Skill must include:
+
+- documentation;
+- manifest;
+- policies;
+- permissions;
+- verification records;
+- audit references.
+
+Incomplete documentation blocks production readiness.
+
+---
+
+# Continuous Compliance
+
+Compliance is continuously evaluated.
+
+Every repository modification may trigger re-evaluation.
+
+Production status never guarantees permanent compliance.
+
+---
+
+# Compliance Failure
+
+When compliance fails:
+
+- deployment stops;
+- approval is suspended;
+- trust cannot increase;
+- issue is recorded;
+- engineering correction begins.
+
+---
+
+# Audit Compliance
+
+Every compliance evaluation records:
+
+- evaluator;
+- date;
+- repository version;
+- affected skills;
+- result;
+- evidence;
+- recommendations.
+
+Audit evidence must remain immutable.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Compliance documentation belongs exclusively to the private engineering boundary.
+
+---
+
+# Long-Term Vision
+
+The Compliance Framework establishes the permanent quality assurance and governance foundation for Enterprise IMPERIAL Skills, ensuring long-term architectural stability, engineering excellence, security, and operational integrity throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
