@@ -934,3 +934,237 @@ Every repository change should strengthen—not weaken—the overall security po
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# GOVERNANCE.md
+
+# 💎 Enterprise IMPERIAL Skills Governance
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+Governance ensures that every Enterprise IMPERIAL Skill remains controlled, traceable, verifiable, and professionally maintained throughout its entire lifecycle.
+
+Governance is mandatory.
+
+---
+
+# Governance Principles
+
+The repository follows:
+
+- Architecture Before Implementation
+- Governance Before Automation
+- Security Before Deployment
+- Evidence Before Trust
+- Explicit Approval
+- Continuous Improvement
+
+---
+
+# Architectural Authority
+
+The highest architectural authority is:
+
+**Romaskevich Alexander Nikolaevich**
+
+Founder • Owner • Chief Systems Architect
+
+Only the Architect approves changes affecting:
+
+- architecture;
+- governance;
+- security;
+- trust model;
+- repository boundaries;
+- canonical terminology.
+
+---
+
+# Governance Objects
+
+Governance applies to:
+
+- Skills;
+- Skill Manifests;
+- Policies;
+- Permissions;
+- Registries;
+- Verification;
+- Documentation;
+- Automation;
+- Engineering Standards.
+
+---
+
+# Ownership
+
+Every Enterprise IMPERIAL Skill must define:
+
+- Owner
+- Responsible Team
+- Version
+- Status
+- Last Review
+- Verification State
+
+No anonymous skill is permitted.
+
+---
+
+# Lifecycle Governance
+
+Every skill progresses through:
+
+Draft
+
+↓
+
+Engineering
+
+↓
+
+Review
+
+↓
+
+Verification
+
+↓
+
+Approval
+
+↓
+
+Production
+
+↓
+
+Maintenance
+
+↓
+
+Retirement
+
+↓
+
+Archive
+
+No lifecycle stage may be skipped.
+
+---
+
+# Change Management
+
+Every modification must include:
+
+- reason;
+- author;
+- date;
+- affected components;
+- architectural impact;
+- verification result.
+
+Every change must be traceable.
+
+---
+
+# Versioning
+
+Every governed object must have:
+
+- version;
+- revision history;
+- compatibility information;
+- change log.
+
+History must never be rewritten.
+
+---
+
+# Verification Governance
+
+Every Enterprise IMPERIAL Skill requires:
+
+- structural validation;
+- security validation;
+- policy validation;
+- engineering validation;
+- approval.
+
+Verification evidence must remain permanently available.
+
+---
+
+# Trust Governance
+
+Trust is governed.
+
+Trust may only be:
+
+- granted;
+- reduced;
+- suspended;
+- revoked
+
+through approved governance procedures.
+
+---
+
+# Repository Standards
+
+Every repository artifact must be:
+
+- documented;
+- version controlled;
+- reviewable;
+- reproducible;
+- architecture compliant.
+
+---
+
+# Public / Private Governance
+
+Private repositories contain:
+
+- architecture;
+- governance;
+- engineering;
+- implementation;
+- verification.
+
+Public repositories receive only explicitly approved material.
+
+---
+
+# Audit
+
+Every governance action must be recorded.
+
+Examples:
+
+- approvals;
+- reviews;
+- policy changes;
+- trust changes;
+- lifecycle transitions;
+- repository releases.
+
+Audit evidence must remain immutable.
+
+---
+
+# Continuous Governance
+
+Governance evolves continuously while preserving architectural stability.
+
+Every improvement must strengthen quality without violating approved architecture.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
