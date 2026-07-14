@@ -15356,3 +15356,233 @@ The Identity Engine Framework establishes the universal digital identity archite
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_AUTHENTICATION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Authentication Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Authentication Engine Framework governs how Enterprise IMPERIAL Skills verify the identity of users, AI agents, services, orchestrators, runtimes, and enterprise systems before granting access to governed capabilities.
+
+Authentication establishes trust before any interaction.
+
+No authenticated identity means no execution.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Authentication Before Authorization
+- Zero Trust
+- Identity Verification
+- Least Privilege
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Authentication Engine provides:
+
+- Identity Authentication
+- Runtime Authentication
+- Service Authentication
+- Agent Authentication
+- Session Authentication
+- Enterprise Trust Establishment
+
+---
+
+# Authentication Subjects
+
+The framework authenticates:
+
+- AI Agents
+- Enterprise IMPERIAL Skills
+- HANTER
+- Nano Core Agents
+- Executive Orchestrators
+- Runtime Services
+- APIs
+- Connectors
+- Enterprise Users
+
+Unknown identities are prohibited.
+
+---
+
+# Authentication Methods
+
+Supported authentication methods include:
+
+- AI Passport Authentication
+- Mutual TLS
+- OAuth 2.0
+- OpenID Connect
+- JWT
+- X.509 Certificates
+- Hardware Security Modules
+- Enterprise Identity Providers
+
+Authentication methods must be explicitly configured.
+
+---
+
+# Authentication Pipeline
+
+Every authentication request follows:
+
+Authentication Request
+
+↓
+
+Identity Discovery
+
+↓
+
+Credential Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Trust Verification
+
+↓
+
+Policy Evaluation
+
+↓
+
+Authentication Decision
+
+↓
+
+Session Creation
+
+↓
+
+Audit Recording
+
+---
+
+# Authentication Validation
+
+Before authentication succeeds the framework validates:
+
+- Repository Integrity
+- Identity Validity
+- Digital Signature
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Certificate Status
+
+Validation failure denies authentication.
+
+---
+
+# Session Management
+
+Every authenticated session maintains:
+
+- Session ID
+- Identity ID
+- Trust Tier
+- Session Lifetime
+- Authentication Method
+- Runtime Context
+
+Expired sessions are automatically terminated.
+
+---
+
+# Continuous Authentication
+
+The framework continuously evaluates:
+
+- Session Integrity
+- Identity Validity
+- Trust Changes
+- Runtime Behaviour
+- Security Events
+
+Authentication is not a one-time event.
+
+---
+
+# Failure Handling
+
+When authentication fails:
+
+- deny access;
+- terminate session;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require security review.
+
+---
+
+# Authentication Audit
+
+Every authentication operation records:
+
+- Authentication ID
+- Identity ID
+- Authentication Method
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Authentication Engine remains synchronized with:
+
+- Identity Engine
+- AI Passport Framework
+- Policy Engine
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Authentication Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Authentication Engine Framework establishes the universal authentication architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to securely verify millions of digital identities while preserving Zero Trust, enterprise governance, and architectural integrity.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
