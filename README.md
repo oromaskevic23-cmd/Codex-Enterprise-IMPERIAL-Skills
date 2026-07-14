@@ -11186,3 +11186,228 @@ The Intelligence Engine Framework establishes the universal intelligence archite
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_OPTIMIZATION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Optimization Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Optimization Engine Framework governs how Enterprise IMPERIAL Skills improve efficiency, quality, reliability, resource utilization, and operational performance while preserving architectural integrity, governance, security, and deterministic behaviour.
+
+Optimization improves execution.
+
+Optimization never changes architecture without explicit approval.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Optimization Under Governance
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Evidence Before Optimization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Optimization Engine provides:
+
+- Performance Optimization
+- Resource Optimization
+- Workflow Optimization
+- Runtime Optimization
+- Reliability Optimization
+- Cost Optimization
+
+---
+
+# Optimization Sources
+
+Optimization opportunities may originate from:
+
+- Monitoring Framework
+- Observability Framework
+- Intelligence Engine
+- Learning Engine
+- Runtime Engine
+- Resource Manager
+- Verification Framework
+- Approved Engineering Reviews
+
+Unknown optimization sources are prohibited.
+
+---
+
+# Optimization Pipeline
+
+Every optimization request follows:
+
+Observation
+
+↓
+
+Evidence Collection
+
+↓
+
+Performance Analysis
+
+↓
+
+Impact Analysis
+
+↓
+
+Optimization Proposal
+
+↓
+
+Verification
+
+↓
+
+Governance Approval
+
+↓
+
+Implementation
+
+↓
+
+Audit Recording
+
+---
+
+# Optimization Categories
+
+Supported optimization categories include:
+
+- Runtime Optimization
+- Resource Optimization
+- Scheduling Optimization
+- Workflow Optimization
+- Pipeline Optimization
+- Performance Optimization
+- Infrastructure Optimization
+
+---
+
+# Optimization Validation
+
+Before implementation the framework validates:
+
+- Repository Integrity
+- Architecture Consistency
+- AI Passport
+- Trust Tier
+- Policy Compliance
+- Verification Status
+- Compatibility
+
+Validation failure blocks optimization.
+
+---
+
+# Optimization Constraints
+
+The Optimization Engine must never:
+
+- bypass Approval Gateway;
+- violate architectural principles;
+- reduce security;
+- weaken governance;
+- introduce undocumented behaviour;
+- compromise deterministic execution.
+
+---
+
+# Continuous Optimization
+
+The framework continuously evaluates:
+
+- Execution Time
+- Resource Consumption
+- Throughput
+- Latency
+- Reliability
+- Operational Efficiency
+
+Continuous evaluation does not imply automatic implementation.
+
+---
+
+# Failure Handling
+
+When optimization validation fails:
+
+- reject optimization;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Optimization Audit
+
+Every optimization operation records:
+
+- Optimization ID
+- Skill ID
+- Optimization Category
+- Improvement
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Optimization Engine remains synchronized with:
+
+- Runtime Engine
+- Resource Manager
+- Intelligence Engine
+- Learning Engine
+- Verification
+- Monitoring
+- Trust
+- Registry
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Optimization Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Optimization Engine Framework establishes the universal optimization architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to continuously improve enterprise-scale AI capabilities while preserving governance, security, architectural integrity, and operational excellence.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
