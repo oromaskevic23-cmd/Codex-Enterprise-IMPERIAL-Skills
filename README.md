@@ -6585,3 +6585,193 @@ The Composition Framework establishes the universal orchestration model for Ente
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_ORCHESTRATION.md
+
+# 💎 Enterprise IMPERIAL Skills Orchestration Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Orchestration Framework governs how Enterprise IMPERIAL Skills are coordinated across multiple orchestrators, professional teams, Nano Core Agents, and runtime environments.
+
+Orchestration guarantees deterministic, secure, scalable, and governed execution throughout the IMPERIAL Core ecosystem.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Distributed Coordination
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Orchestration Framework provides:
+
+- Distributed Skill Coordination
+- Cross-Team Collaboration
+- Runtime Scheduling
+- Workload Distribution
+- Execution Governance
+- High Availability
+
+---
+
+# Orchestration Levels
+
+The framework supports:
+
+- Executive Orchestrators
+- Domain Orchestrators
+- Team Orchestrators
+- Runtime Orchestrators
+- Emergency Orchestrators
+
+Every orchestrator has clearly defined responsibilities.
+
+---
+
+# Orchestration Flow
+
+Every orchestration request follows:
+
+Request
+
+↓
+
+Capability Analysis
+
+↓
+
+Skill Discovery
+
+↓
+
+Skill Selection
+
+↓
+
+Permission Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Runtime Allocation
+
+↓
+
+Execution
+
+↓
+
+Monitoring
+
+↓
+
+Audit Recording
+
+---
+
+# Scheduling
+
+Scheduling considers:
+
+- Priority
+- Trust Tier
+- Runtime Capacity
+- Agent Availability
+- Policy Constraints
+- Dependency Readiness
+
+Scheduling must remain deterministic.
+
+---
+
+# Coordination
+
+Multiple orchestrators coordinate through:
+
+- Approved Policies
+- Shared Registry
+- Skill Catalog
+- Audit Ledger
+- Approval Gateway
+
+Direct unmanaged orchestration is prohibited.
+
+---
+
+# Failure Management
+
+When orchestration fails:
+
+- isolate affected execution;
+- preserve evidence;
+- reroute when authorized;
+- notify monitoring;
+- record audit.
+
+---
+
+# High Availability
+
+The framework supports:
+
+- multiple orchestrators;
+- workload redistribution;
+- controlled failover;
+- runtime recovery.
+
+No single orchestrator may become a permanent single point of failure.
+
+---
+
+# Repository Synchronization
+
+The Orchestration Framework remains synchronized with:
+
+- Registry
+- Catalog
+- Runtime
+- Monitoring
+- Trust
+- Verification
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Orchestration architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Orchestration Framework establishes the universal coordination architecture for Enterprise IMPERIAL Skills, enabling millions of governed professional AI capabilities to execute safely across federated Multi-Orchestrator environments within the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
