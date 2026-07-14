@@ -11411,3 +11411,226 @@ The Optimization Engine Framework establishes the universal optimization archite
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_ANALYTICS_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Analytics Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Analytics Engine Framework governs how Enterprise IMPERIAL Skills collect, process, analyze, correlate, and present operational, engineering, security, governance, and business analytics.
+
+Analytics transform verified operational evidence into measurable engineering intelligence.
+
+Analytics never replace governance.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Evidence Before Analytics
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Analysis
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Analytics Engine provides:
+
+- Operational Analytics
+- Engineering Analytics
+- Runtime Analytics
+- Security Analytics
+- Governance Analytics
+- Business Analytics
+
+---
+
+# Analytics Sources
+
+Analytics may originate only from:
+
+- Runtime Engine
+- Monitoring Framework
+- Observability Framework
+- Intelligence Engine
+- Audit Framework
+- Verification Framework
+- Resource Manager
+- Workflow Framework
+
+Unknown analytics sources are prohibited.
+
+---
+
+# Analytics Pipeline
+
+Every analytics request follows:
+
+Data Collection
+
+↓
+
+Validation
+
+↓
+
+Normalization
+
+↓
+
+Correlation
+
+↓
+
+Analysis
+
+↓
+
+Visualization
+
+↓
+
+Reporting
+
+↓
+
+Audit Recording
+
+---
+
+# Analytics Categories
+
+Supported analytics categories include:
+
+- Performance Analytics
+- Runtime Analytics
+- Resource Analytics
+- Reliability Analytics
+- Security Analytics
+- Governance Analytics
+- Productivity Analytics
+- Capacity Analytics
+
+---
+
+# Analytics Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Source Authenticity
+- Data Integrity
+- AI Passport
+- Trust Tier
+- Verification Status
+- Policy Compliance
+
+Validation failure blocks publication.
+
+---
+
+# Analytics Outputs
+
+The Analytics Engine produces:
+
+- Metrics
+- Dashboards
+- Reports
+- Trends
+- KPIs
+- Recommendations
+
+Outputs must remain reproducible.
+
+---
+
+# Continuous Analytics
+
+The framework continuously evaluates:
+
+- Execution Trends
+- Runtime Trends
+- Resource Trends
+- Reliability Trends
+- Performance Trends
+- Governance Trends
+
+Continuous evaluation does not imply automatic action.
+
+---
+
+# Failure Handling
+
+When analytics validation fails:
+
+- reject analysis;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Analytics Audit
+
+Every analytics operation records:
+
+- Analytics ID
+- Skill ID
+- Analytics Category
+- Report
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Analytics Engine remains synchronized with:
+
+- Intelligence Engine
+- Monitoring Framework
+- Observability Framework
+- Verification Framework
+- Trust Framework
+- Audit Framework
+- Registry
+- Catalog
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Analytics Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Analytics Engine Framework establishes the universal analytics architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to generate trusted, deterministic, enterprise-scale analytics supporting engineering excellence, operational optimization, governance, and strategic decision-making.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
