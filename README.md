@@ -8488,3 +8488,223 @@ The Policy Engine Framework establishes the universal policy enforcement archite
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_DECISION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Decision Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Decision Engine Framework governs how Enterprise IMPERIAL Skills evaluate conditions, compare alternatives, apply governance rules, and produce deterministic execution decisions.
+
+Every critical decision must be explainable, auditable, and policy compliant.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Evidence Before Decision
+- Explicit Authorization
+- Deterministic Evaluation
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Decision Engine provides:
+
+- Decision Evaluation
+- Rule Processing
+- Context Analysis
+- Policy Compliance
+- Risk Assessment
+- Decision Traceability
+
+---
+
+# Decision Sources
+
+Decision inputs may originate from:
+
+- AI Passport
+- Repository Policies
+- Runtime State
+- Trust Framework
+- Verification Framework
+- Monitoring Framework
+- Approval Gateway
+- Business Rules
+
+Unknown decision sources are prohibited.
+
+---
+
+# Decision Pipeline
+
+Every decision follows:
+
+Context Collection
+
+↓
+
+Policy Evaluation
+
+↓
+
+Trust Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Risk Assessment
+
+↓
+
+Decision Calculation
+
+↓
+
+Execution Authorization
+
+↓
+
+Audit Recording
+
+---
+
+# Decision Types
+
+Supported decision types:
+
+- Allow
+- Deny
+- Escalate
+- Require Approval
+- Retry
+- Defer
+- Block
+- Emergency Stop
+
+Undefined decisions are prohibited.
+
+---
+
+# Risk Evaluation
+
+Every decision evaluates:
+
+- Security Risk
+- Operational Risk
+- Runtime Risk
+- Trust Risk
+- Compliance Risk
+- Repository Risk
+
+Risk assessment is mandatory.
+
+---
+
+# Decision Integrity
+
+Every decision must be:
+
+- deterministic;
+- reproducible;
+- explainable;
+- verifiable;
+- auditable.
+
+Hidden decision logic is prohibited.
+
+---
+
+# Continuous Decision Review
+
+Decision quality is continuously evaluated through:
+
+- Monitoring
+- Verification
+- Audit
+- Governance
+- Engineering Review
+
+Improvement must preserve architectural consistency.
+
+---
+
+# Failure Handling
+
+When decision evaluation fails:
+
+- deny execution;
+- preserve evidence;
+- notify monitoring;
+- record audit;
+- require governance review.
+
+---
+
+# Decision Audit
+
+Every decision records:
+
+- Decision ID
+- Skill ID
+- Decision Type
+- Context
+- Risk Level
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Decision Engine remains synchronized with:
+
+- Policy Engine
+- Approval Gateway
+- Runtime
+- Trust
+- Verification
+- Monitoring
+- Audit
+- Registry
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Decision Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Decision Engine Framework establishes the universal decision architecture for Enterprise IMPERIAL Skills, enabling secure, deterministic, explainable, and enterprise-scale decision making across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
