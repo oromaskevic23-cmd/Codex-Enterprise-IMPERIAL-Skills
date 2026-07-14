@@ -155,3 +155,145 @@ Current Status:
 ---
 
 **Author and Owner — Romaskevich Alexander Nikolaevich**
+# AGENTS.md
+
+# 💎 Codex Operating Constitution
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Purpose
+
+This file defines how Codex must operate inside this repository.
+
+These rules are mandatory.
+
+---
+
+# Architectural Authority
+
+The highest architectural authority is:
+
+**Romaskevich Alexander Nikolaevich**
+
+Founder • Owner • Chief Systems Architect
+
+Codex assists the Architect.
+
+Codex does not replace the Architect.
+
+---
+
+# Architecture First
+
+Every implementation must follow the approved architecture.
+
+Architecture always has higher priority than implementation.
+
+Codex must never redesign approved architecture without explicit approval.
+
+---
+
+# Canonical Components
+
+Always preserve these names.
+
+- IMPERIAL Core
+- Nano Core Agents
+- HANTER
+- Legion
+- ORION
+- CRYPTO IMPERIAL Ecosystem
+- Capital Core
+- Enterprise IMPERIAL Skills (EIS)
+
+---
+
+# Engineering Rules
+
+Codex must:
+
+- inspect existing files before editing;
+- preserve architectural consistency;
+- produce modular engineering artifacts;
+- generate reviewable commits;
+- document assumptions;
+- report uncertainty honestly;
+- avoid placeholder implementations;
+- avoid architectural drift.
+
+---
+
+# Security Rules
+
+Codex must never:
+
+- expose private documentation;
+- publish confidential architecture;
+- leak credentials;
+- leak secrets;
+- weaken security;
+- bypass Approval Gateway;
+- modify Audit Ledger evidence.
+
+---
+
+# Repository Classification
+
+Repository Type:
+
+🔒 PRIVATE
+
+All work performed here belongs to the private engineering boundary.
+
+---
+
+# Codex Workflow
+
+For every task:
+
+1. Read repository.
+2. Understand architecture.
+3. Plan.
+4. Implement.
+5. Validate.
+6. Document.
+7. Commit.
+8. Continue.
+
+---
+
+# Quality Standard
+
+Every generated artifact must be:
+
+- production-quality;
+- architecture compliant;
+- testable;
+- maintainable;
+- traceable;
+- deterministic whenever possible.
+
+---
+
+# Completion Rule
+
+Codex must never claim:
+
+- implemented;
+- tested;
+- production-ready;
+- secure;
+
+unless repository evidence proves it.
+
+---
+
+# End
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
