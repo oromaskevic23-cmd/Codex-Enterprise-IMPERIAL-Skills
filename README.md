@@ -9379,3 +9379,240 @@ The Runtime Engine Framework establishes the universal execution engine for Ente
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_STATE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills State Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The State Engine Framework governs how Enterprise IMPERIAL Skills manage, preserve, synchronize, validate, and recover execution state throughout their operational lifecycle.
+
+Every state transition must remain deterministic, secure, governed, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit State Management
+- Deterministic State Transitions
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The State Engine provides:
+
+- State Management
+- State Synchronization
+- State Persistence
+- State Recovery
+- State Validation
+- Enterprise Reliability
+
+---
+
+# State Model
+
+Every Enterprise IMPERIAL Skill exists in exactly one operational state.
+
+Supported states include:
+
+- Created
+- Initialized
+- Waiting
+- Ready
+- Running
+- Suspended
+- Paused
+- Resuming
+- Completed
+- Failed
+- Cancelled
+- Archived
+
+Undefined states are prohibited.
+
+---
+
+# State Lifecycle
+
+Every state transition follows:
+
+Creation
+
+↓
+
+Initialization
+
+↓
+
+Ready
+
+↓
+
+Execution
+
+↓
+
+Completion
+
+↓
+
+Archive
+
+Failure handling may occur at any stage.
+
+---
+
+# State Validation
+
+Before every transition the framework validates:
+
+- Repository Integrity
+- Manifest
+- Runtime
+- AI Passport
+- Permission Model
+- Trust Tier
+- Verification Status
+- Policy Compliance
+
+Transition is denied if validation fails.
+
+---
+
+# State Persistence
+
+Persistent state includes:
+
+- Runtime Context
+- Execution Progress
+- Variables
+- Dependencies
+- Checkpoints
+- Audit References
+
+State persistence must remain deterministic.
+
+---
+
+# Checkpoints
+
+The framework supports:
+
+- Manual Checkpoints
+- Automatic Checkpoints
+- Recovery Checkpoints
+- Rollback Checkpoints
+
+Checkpoint integrity is mandatory.
+
+---
+
+# Recovery
+
+When runtime interruption occurs the framework performs:
+
+- State Recovery
+- Runtime Validation
+- Integrity Validation
+- Dependency Validation
+- Resume Authorization
+
+Recovery without validation is prohibited.
+
+---
+
+# Synchronization
+
+State synchronization guarantees consistency across:
+
+- Runtime
+- Scheduler
+- Monitoring
+- Workflow
+- Pipeline
+- Automation
+- Audit
+
+State divergence is prohibited.
+
+---
+
+# Failure Handling
+
+When state integrity is lost:
+
+- stop execution;
+- isolate runtime;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# State Audit
+
+Every state transition records:
+
+- State ID
+- Previous State
+- New State
+- Skill ID
+- Runtime
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The State Engine remains synchronized with:
+
+- Runtime Engine
+- Scheduler
+- Workflow
+- Pipeline
+- Monitoring
+- Verification
+- Trust
+- Audit
+- Registry
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+State Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The State Engine Framework establishes the universal operational state architecture for Enterprise IMPERIAL Skills, enabling resilient, deterministic, recoverable, and enterprise-scale execution across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
