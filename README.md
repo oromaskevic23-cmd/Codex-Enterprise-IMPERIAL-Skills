@@ -2180,3 +2180,191 @@ The Lifecycle Framework establishes a governed engineering process that ensures 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# PERMISSIONS.md
+
+# 💎 Enterprise IMPERIAL Skills Permission Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Permission Framework governs how Enterprise IMPERIAL Skills request, receive, use, monitor, and revoke permissions.
+
+Permissions are granted—not assumed.
+
+Every permission must have an explicit purpose.
+
+---
+
+# Permission Principles
+
+The framework follows:
+
+- Zero Trust
+- Least Privilege
+- Deny By Default
+- Explicit Authorization
+- Complete Auditability
+- Continuous Verification
+
+---
+
+# Permission Categories
+
+Every permission belongs to one category.
+
+- Read
+- Write
+- Execute
+- Network
+- Storage
+- System
+- Administration
+- External Integration
+
+---
+
+# Permission Scope
+
+Every permission must define:
+
+- Resource
+- Operation
+- Scope
+- Duration
+- Owner
+- Approval Reference
+
+Undefined permissions are prohibited.
+
+---
+
+# Required Permissions
+
+Every Enterprise IMPERIAL Skill must explicitly declare:
+
+- Required Permissions
+- Optional Permissions
+- Restricted Permissions
+- Forbidden Permissions
+
+Hidden permissions are prohibited.
+
+---
+
+# Least Privilege
+
+Every Skill receives only the permissions required for its approved purpose.
+
+Unused permissions must be removed.
+
+Permission expansion requires approval.
+
+---
+
+# Deny By Default
+
+All operations are denied unless explicitly authorized.
+
+This applies to:
+
+- APIs
+- Files
+- Services
+- Databases
+- Models
+- External Systems
+- Internal Infrastructure
+
+---
+
+# Permission Approval
+
+Permission changes require:
+
+- architectural review;
+- governance review;
+- Approval Gateway authorization;
+- audit recording.
+
+---
+
+# Permission Verification
+
+Permissions must be verified before:
+
+- engineering;
+- testing;
+- production deployment;
+- trust elevation.
+
+Verification failure blocks execution.
+
+---
+
+# Runtime Monitoring
+
+Permission usage is continuously monitored.
+
+The system records:
+
+- granted permissions;
+- denied permissions;
+- permission violations;
+- unexpected access;
+- privilege escalation attempts.
+
+---
+
+# Permission Revocation
+
+Permissions may be revoked when:
+
+- no longer required;
+- policy changes;
+- security incidents;
+- trust reduction;
+- lifecycle transition;
+- governance decision.
+
+Revocation takes effect immediately.
+
+---
+
+# AI Passport Integration
+
+Permission evaluation includes AI Passport validation.
+
+The AI Passport determines:
+
+- identity;
+- organization;
+- role;
+- capability scope;
+- authorized permissions.
+
+Execution without a valid AI Passport is prohibited.
+
+---
+
+# Public / Private Boundary
+
+Permission policies belong exclusively to the PRIVATE engineering repository.
+
+Public repositories must never expose internal permission models.
+
+---
+
+# Long-Term Vision
+
+The Permission Framework establishes a universal authorization model for every Enterprise IMPERIAL Skill across the IMPERIAL Core ecosystem, ensuring secure, governed, and traceable capability execution.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
