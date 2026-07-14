@@ -5632,3 +5632,194 @@ The Monitoring Framework establishes continuous operational awareness for every 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_OBSERVABILITY.md
+
+# 💎 Enterprise IMPERIAL Skills Observability Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Observability Framework provides complete visibility into the behaviour of every Enterprise IMPERIAL Skill.
+
+Every execution must be observable.
+
+Nothing important should happen without measurable evidence.
+
+Observability supports engineering, security, governance, and continuous improvement.
+
+---
+
+# Observability Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Evidence Before Trust
+- Complete Transparency
+- Zero Trust
+- Deterministic Telemetry
+- Continuous Observation
+- Full Traceability
+
+---
+
+# Objectives
+
+The Observability Framework provides:
+
+- Runtime Visibility
+- System Intelligence
+- Operational Awareness
+- Performance Insights
+- Security Visibility
+- Engineering Diagnostics
+
+---
+
+# Observability Components
+
+Every Enterprise IMPERIAL Skill produces:
+
+- Metrics
+- Logs
+- Events
+- Traces
+- Audit Records
+- Health Signals
+
+---
+
+# Metrics
+
+Metrics include:
+
+- CPU Usage
+- GPU Usage
+- Memory Usage
+- Storage Usage
+- Network Usage
+- Runtime Duration
+- Success Rate
+- Failure Rate
+- Latency
+
+Metrics are continuously collected.
+
+---
+
+# Logging
+
+Every Skill generates structured logs.
+
+Logs contain:
+
+- Timestamp
+- Skill ID
+- Version
+- Runtime
+- Severity
+- Event
+- Message
+
+Logs must remain machine-readable.
+
+---
+
+# Event Collection
+
+Every operational event is recorded.
+
+Examples:
+
+- Skill Started
+- Skill Completed
+- Skill Failed
+- Verification Passed
+- Verification Failed
+- Trust Updated
+- Permission Denied
+- Policy Triggered
+
+---
+
+# Distributed Tracing
+
+Every execution receives a unique Trace ID.
+
+Tracing records:
+
+- Request Flow
+- Runtime Path
+- Dependencies
+- Execution Time
+- Final Result
+
+Tracing enables complete engineering diagnostics.
+
+---
+
+# Health Signals
+
+Every Skill continuously reports:
+
+- Health Status
+- Availability
+- Runtime Stability
+- Dependency Health
+- Repository Consistency
+
+Health reporting never stops during production.
+
+---
+
+# Observability Validation
+
+Every observability component must satisfy:
+
+- completeness;
+- consistency;
+- integrity;
+- synchronization;
+- auditability.
+
+Missing telemetry is treated as an engineering issue.
+
+---
+
+# Repository Synchronization
+
+Observability remains synchronized with:
+
+- Registry
+- Verification
+- Audit Ledger
+- Runtime
+- Monitoring
+- Trust Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Observability architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Observability Framework establishes complete engineering visibility for every Enterprise IMPERIAL Skill, allowing HANTER, Nano Core Agents, and future IMPERIAL Core systems to understand, diagnose, optimize, and govern AI capabilities through deterministic operational intelligence.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
