@@ -1946,3 +1946,237 @@ The Enterprise IMPERIAL Skills Trust Framework establishes the universal trust m
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# LIFECYCLE.md
+
+# 💎 Enterprise IMPERIAL Skills Lifecycle Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Lifecycle Framework governs every Enterprise IMPERIAL Skill from its creation to permanent archival.
+
+Every Skill follows the same controlled lifecycle.
+
+No Enterprise IMPERIAL Skill may bypass lifecycle governance.
+
+---
+
+# Lifecycle Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Governance Before Deployment
+- Verification Before Trust
+- Continuous Improvement
+- Complete Traceability
+- Immutable History
+
+---
+
+# Lifecycle Stages
+
+Every Enterprise IMPERIAL Skill progresses through the following stages.
+
+## Stage 01
+
+Draft
+
+Initial architectural proposal.
+
+No implementation permitted.
+
+---
+
+## Stage 02
+
+Architecture
+
+Architecture is approved.
+
+Requirements are defined.
+
+Interfaces are documented.
+
+---
+
+## Stage 03
+
+Engineering
+
+Implementation begins.
+
+Repository artifacts are created.
+
+No production execution.
+
+---
+
+## Stage 04
+
+Verification
+
+Mandatory validation begins.
+
+Security.
+
+Engineering.
+
+Functional.
+
+Policy.
+
+Repository.
+
+---
+
+## Stage 05
+
+Approval
+
+Approval Gateway evaluates readiness.
+
+Architectural compliance is confirmed.
+
+Governance is verified.
+
+---
+
+## Stage 06
+
+Production
+
+Skill becomes operational.
+
+Continuous monitoring begins.
+
+Trust evaluation continues.
+
+---
+
+## Stage 07
+
+Maintenance
+
+Bug fixes.
+
+Optimization.
+
+Documentation updates.
+
+Compatibility improvements.
+
+---
+
+## Stage 08
+
+Deprecation
+
+Skill is scheduled for retirement.
+
+Migration guidance is prepared.
+
+Production usage decreases.
+
+---
+
+## Stage 09
+
+Archive
+
+Skill becomes read-only.
+
+Historical evidence remains permanently available.
+
+Execution is prohibited.
+
+---
+
+# Lifecycle Metadata
+
+Every lifecycle transition records:
+
+- Skill ID
+- Version
+- Previous Stage
+- New Stage
+- Date
+- Responsible Team
+- Reviewer
+- Approval Reference
+- Audit Reference
+
+---
+
+# Transition Rules
+
+No lifecycle transition is automatic.
+
+Every transition requires:
+
+- verification;
+- governance review;
+- audit recording;
+- repository synchronization.
+
+---
+
+# Rollback
+
+Rollback is permitted only through approved governance procedures.
+
+Rollback must preserve:
+
+- repository integrity;
+- audit history;
+- version history;
+- architectural consistency.
+
+---
+
+# Continuous Monitoring
+
+Production Skills remain continuously monitored for:
+
+- reliability;
+- security;
+- policy compliance;
+- trust changes;
+- operational quality.
+
+Monitoring never stops after deployment.
+
+---
+
+# Lifecycle Integrity
+
+Every Skill must exist in exactly one lifecycle stage.
+
+Duplicate lifecycle states are prohibited.
+
+Undefined lifecycle states are prohibited.
+
+---
+
+# Public / Private Boundary
+
+Lifecycle records belong to the PRIVATE engineering repository.
+
+Only explicitly approved lifecycle summaries may appear in public repositories.
+
+---
+
+# Long-Term Vision
+
+The Lifecycle Framework establishes a governed engineering process that ensures Enterprise IMPERIAL Skills remain secure, traceable, maintainable, and professionally managed throughout the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
