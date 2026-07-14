@@ -15586,3 +15586,248 @@ The Authentication Engine Framework establishes the universal authentication arc
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_AUTHORIZATION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Authorization Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Authorization Engine Framework governs how Enterprise IMPERIAL Skills determine which authenticated identities are permitted to perform governed operations across the IMPERIAL Core ecosystem.
+
+Authentication proves identity.
+
+Authorization grants capability.
+
+No authenticated identity automatically receives permissions.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Authorization Before Execution
+- Zero Trust
+- Least Privilege
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Authorization Engine provides:
+
+- Permission Evaluation
+- Capability Authorization
+- Runtime Authorization
+- Service Authorization
+- Resource Authorization
+- Enterprise Governance
+
+---
+
+# Authorization Subjects
+
+The framework authorizes:
+
+- AI Agents
+- Enterprise IMPERIAL Skills
+- HANTER
+- Nano Core Agents
+- Executive Orchestrators
+- Runtime Services
+- APIs
+- Connectors
+- Enterprise Users
+
+Unknown identities are prohibited.
+
+---
+
+# Authorization Sources
+
+Authorization decisions may originate only from:
+
+- AI Passport
+- Policy Engine
+- Trust Framework
+- Approval Engine
+- Repository Policies
+- Governance Rules
+
+External authorization sources are prohibited.
+
+---
+
+# Authorization Pipeline
+
+Every authorization request follows:
+
+Authorization Request
+
+↓
+
+Identity Validation
+
+↓
+
+Authentication Verification
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Evaluation
+
+↓
+
+Trust Evaluation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Authorization Decision
+
+↓
+
+Audit Recording
+
+---
+
+# Authorization Decisions
+
+Supported decisions include:
+
+- Allow
+- Deny
+- Escalate
+- Require Approval
+- Temporary Allow
+- Temporary Deny
+- Emergency Block
+
+Undefined decisions are prohibited.
+
+---
+
+# Authorization Validation
+
+Before authorization the framework validates:
+
+- Repository Integrity
+- Identity Status
+- AI Passport
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Permission Integrity
+
+Validation failure blocks authorization.
+
+---
+
+# Permission Model
+
+Permissions are evaluated using:
+
+- Least Privilege
+- Role-Based Access
+- Attribute-Based Access
+- Capability-Based Access
+- Context-Based Access
+- Policy-Based Access
+
+Permission inheritance must remain explicit.
+
+---
+
+# Continuous Authorization
+
+The framework continuously evaluates:
+
+- Trust Changes
+- Permission Changes
+- Runtime Context
+- Security Events
+- Governance Updates
+
+Authorization remains dynamic during execution.
+
+---
+
+# Failure Handling
+
+When authorization fails:
+
+- deny execution;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require governance review.
+
+---
+
+# Authorization Audit
+
+Every authorization operation records:
+
+- Authorization ID
+- Identity ID
+- Decision
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Authorization Engine remains synchronized with:
+
+- Authentication Engine
+- Identity Engine
+- Policy Engine
+- Approval Engine
+- Trust Framework
+- Verification Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Authorization Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Authorization Engine Framework establishes the universal authorization architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to securely govern millions of enterprise permissions through deterministic, policy-driven, Zero Trust authorization.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
