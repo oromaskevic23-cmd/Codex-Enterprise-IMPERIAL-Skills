@@ -13275,3 +13275,481 @@ The API Engine Framework establishes the universal programmable interface archit
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_EVENT_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Event Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Event Engine Framework governs how Enterprise IMPERIAL Skills create, publish, subscribe, validate, distribute, process, and audit events throughout the IMPERIAL Core ecosystem.
+
+Events provide asynchronous communication between governed Enterprise IMPERIAL Skills.
+
+Every event must remain secure, deterministic, versioned, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Event-Driven Architecture
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Event Engine provides:
+
+- Event Registration
+- Event Publication
+- Event Subscription
+- Event Routing
+- Event Processing
+- Event Governance
+
+---
+
+# Event Definition
+
+Every event contains:
+
+- Event ID
+- Canonical Name
+- Description
+- Version
+- Event Type
+- Source
+- Trust Tier
+- Lifecycle Stage
+
+---
+
+# Event Sources
+
+Events may originate only from:
+
+- Enterprise Skills
+- Runtime Engine
+- Workflow Engine
+- Task Engine
+- Mission Engine
+- Service Engine
+- API Engine
+- Approved External Systems
+
+Unknown event sources are prohibited.
+
+---
+
+# Event Pipeline
+
+Every event follows:
+
+Event Creation
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Event Publication
+
+↓
+
+Event Routing
+
+↓
+
+Subscriber Processing
+
+↓
+
+Audit Recording
+
+---
+
+# Event Categories
+
+Supported event categories include:
+
+- Runtime Events
+- Workflow Events
+- Task Events
+- Mission Events
+- Security Events
+- Monitoring Events
+- Audit Events
+- Business Events
+
+---
+
+# Event Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Event Schema
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Runtime Compatibility
+
+Validation failure blocks publication.
+
+---
+
+# Event Routing
+
+The Event Engine routes events using:
+
+- Subscription Rules
+- Trust Policies
+- Runtime Availability
+- Priority
+- Event Category
+
+Routing remains deterministic.
+
+---
+
+# Event Constraints
+
+The Event Engine must never:
+
+- publish unauthorized events;
+- bypass policy validation;
+- bypass AI Passport validation;
+- bypass repository governance;
+- lose audit traceability.
+
+---
+
+# Failure Handling
+
+When event processing fails:
+
+- isolate failed processing;
+- preserve event;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Event Audit
+
+Every event records:
+
+- Event ID
+- Event Type
+- Publisher
+- Subscriber
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Event Engine remains synchronized with:
+
+- Runtime Engine
+- Workflow Engine
+- Service Engine
+- API Engine
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Event Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Event Engine Framework establishes the universal event-driven architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, Codex, and future IMPERIAL Core systems to exchange millions of governed enterprise events securely, deterministically, and at global scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+# SKILL_EVENT_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Event Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Event Engine Framework governs how Enterprise IMPERIAL Skills create, publish, subscribe, validate, distribute, process, and audit events throughout the IMPERIAL Core ecosystem.
+
+Events provide asynchronous communication between governed Enterprise IMPERIAL Skills.
+
+Every event must remain secure, deterministic, versioned, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Event-Driven Architecture
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Event Engine provides:
+
+- Event Registration
+- Event Publication
+- Event Subscription
+- Event Routing
+- Event Processing
+- Event Governance
+
+---
+
+# Event Definition
+
+Every event contains:
+
+- Event ID
+- Canonical Name
+- Description
+- Version
+- Event Type
+- Source
+- Trust Tier
+- Lifecycle Stage
+
+---
+
+# Event Sources
+
+Events may originate only from:
+
+- Enterprise Skills
+- Runtime Engine
+- Workflow Engine
+- Task Engine
+- Mission Engine
+- Service Engine
+- API Engine
+- Approved External Systems
+
+Unknown event sources are prohibited.
+
+---
+
+# Event Pipeline
+
+Every event follows:
+
+Event Creation
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Event Publication
+
+↓
+
+Event Routing
+
+↓
+
+Subscriber Processing
+
+↓
+
+Audit Recording
+
+---
+
+# Event Categories
+
+Supported event categories include:
+
+- Runtime Events
+- Workflow Events
+- Task Events
+- Mission Events
+- Security Events
+- Monitoring Events
+- Audit Events
+- Business Events
+
+---
+
+# Event Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Event Schema
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Runtime Compatibility
+
+Validation failure blocks publication.
+
+---
+
+# Event Routing
+
+The Event Engine routes events using:
+
+- Subscription Rules
+- Trust Policies
+- Runtime Availability
+- Priority
+- Event Category
+
+Routing remains deterministic.
+
+---
+
+# Event Constraints
+
+The Event Engine must never:
+
+- publish unauthorized events;
+- bypass policy validation;
+- bypass AI Passport validation;
+- bypass repository governance;
+- lose audit traceability.
+
+---
+
+# Failure Handling
+
+When event processing fails:
+
+- isolate failed processing;
+- preserve event;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Event Audit
+
+Every event records:
+
+- Event ID
+- Event Type
+- Publisher
+- Subscriber
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Event Engine remains synchronized with:
+
+- Runtime Engine
+- Workflow Engine
+- Service Engine
+- API Engine
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Event Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Event Engine Framework establishes the universal event-driven architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, Codex, and future IMPERIAL Core systems to exchange millions of governed enterprise events securely, deterministically, and at global scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
