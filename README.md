@@ -14425,3 +14425,231 @@ The Integration Engine Framework establishes the universal enterprise integratio
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_DATA_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Data Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Data Engine Framework governs how Enterprise IMPERIAL Skills collect, validate, classify, transform, store, retrieve, synchronize, protect, and govern enterprise data.
+
+Data is a strategic enterprise asset.
+
+Every data object must remain secure, governed, versioned, traceable, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Data Before Execution
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Data Engine provides:
+
+- Data Registration
+- Data Validation
+- Data Classification
+- Data Transformation
+- Data Synchronization
+- Data Governance
+
+---
+
+# Data Sources
+
+Enterprise data may originate only from:
+
+- Enterprise IMPERIAL Skills
+- Runtime Engine
+- API Engine
+- Connector Engine
+- Integration Engine
+- Approved Databases
+- Approved Enterprise Systems
+- Approved External Services
+
+Unknown data sources are prohibited.
+
+---
+
+# Data Categories
+
+Supported categories include:
+
+- Structured Data
+- Semi-Structured Data
+- Unstructured Data
+- Runtime Data
+- Configuration Data
+- Knowledge Data
+- Audit Data
+- Operational Data
+- Business Data
+
+---
+
+# Data Pipeline
+
+Every data request follows:
+
+Data Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Data Validation
+
+↓
+
+Transformation
+
+↓
+
+Storage or Retrieval
+
+↓
+
+Audit Recording
+
+---
+
+# Data Validation
+
+Before processing the framework validates:
+
+- Repository Integrity
+- Data Schema
+- Source Authenticity
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Data Classification
+
+Validation failure blocks processing.
+
+---
+
+# Data Governance
+
+Every data operation complies with:
+
+- Repository Policies
+- Security Policies
+- Data Retention Policies
+- Privacy Policies
+- Governance Policies
+- Audit Policies
+
+Governance is mandatory.
+
+---
+
+# Data Protection
+
+The framework enforces:
+
+- Encryption
+- Access Control
+- Integrity Validation
+- Version Control
+- Backup
+- Recovery
+
+Data corruption is prohibited.
+
+---
+
+# Failure Handling
+
+When data processing fails:
+
+- isolate processing;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Data Audit
+
+Every data operation records:
+
+- Data ID
+- Operation
+- Runtime
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Data Engine remains synchronized with:
+
+- Runtime Engine
+- Memory Engine
+- Knowledge Engine
+- API Engine
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Data Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Data Engine Framework establishes the universal enterprise data architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to securely govern, process, synchronize, and protect enterprise-scale data across the entire ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
