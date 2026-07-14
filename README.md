@@ -17011,3 +17011,231 @@ The Cost Engine Framework establishes the universal enterprise cost governance a
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_CAPACITY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Capacity Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Capacity Engine Framework governs how Enterprise IMPERIAL Skills evaluate, forecast, reserve, distribute, and optimize enterprise execution capacity across the IMPERIAL Core ecosystem.
+
+Capacity represents the sustainable execution capability of the entire platform.
+
+No workload may exceed governed enterprise capacity.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Capacity Before Allocation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Predictive Capacity Planning
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Capacity Engine provides:
+
+- Capacity Registration
+- Capacity Forecasting
+- Capacity Allocation
+- Capacity Optimization
+- Capacity Reservation
+- Enterprise Scalability
+
+---
+
+# Capacity Domains
+
+Supported capacity domains include:
+
+- CPU Capacity
+- GPU Capacity
+- Memory Capacity
+- Storage Capacity
+- Network Capacity
+- Runtime Capacity
+- Team Capacity
+- Orchestrator Capacity
+- Enterprise Capacity
+
+---
+
+# Capacity Sources
+
+Capacity information may originate only from:
+
+- Runtime Engine
+- Resource Manager
+- Scheduler Framework
+- Monitoring Framework
+- Analytics Engine
+- Cost Engine
+- Approved Infrastructure Providers
+
+Unknown capacity sources are prohibited.
+
+---
+
+# Capacity Pipeline
+
+Every capacity request follows:
+
+Capacity Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Capacity Discovery
+
+↓
+
+Capacity Forecast
+
+↓
+
+Allocation Decision
+
+↓
+
+Monitoring
+
+↓
+
+Audit Recording
+
+---
+
+# Capacity Validation
+
+Before allocation the framework validates:
+
+- Repository Integrity
+- Infrastructure Health
+- Runtime Availability
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Current Utilization
+
+Validation failure blocks allocation.
+
+---
+
+# Capacity Forecasting
+
+The framework continuously predicts:
+
+- Short-Term Capacity
+- Medium-Term Capacity
+- Long-Term Capacity
+- Peak Demand
+- Resource Saturation
+- Growth Requirements
+
+Forecasts support planning but never bypass governance.
+
+---
+
+# Capacity Optimization
+
+Continuous optimization evaluates:
+
+- Idle Resources
+- Bottlenecks
+- Queue Saturation
+- Runtime Balance
+- Load Distribution
+- Infrastructure Efficiency
+
+Optimization recommendations require governance approval.
+
+---
+
+# Failure Handling
+
+When capacity validation fails:
+
+- deny allocation;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Capacity Audit
+
+Every capacity operation records:
+
+- Capacity ID
+- Runtime ID
+- Resource Domain
+- Allocation Decision
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Capacity Engine remains synchronized with:
+
+- Resource Manager
+- Scheduler Framework
+- Runtime Engine
+- Cost Engine
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Capacity Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Capacity Engine Framework establishes the universal enterprise capacity management architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to forecast, allocate, optimize, and govern enterprise execution capacity at global scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
