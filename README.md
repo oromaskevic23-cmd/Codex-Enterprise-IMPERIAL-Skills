@@ -6775,3 +6775,196 @@ The Orchestration Framework establishes the universal coordination architecture 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_COORDINATION.md
+
+# 💎 Enterprise IMPERIAL Skills Coordination Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Coordination Framework defines how Enterprise IMPERIAL Skills coordinate work between multiple AI Agents, professional teams, orchestrators, and business domains.
+
+Coordination guarantees that every participant understands its responsibility while maintaining architectural consistency, security, and governance.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Coordination
+- Distributed Responsibility
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Coordination Framework provides:
+
+- Team Coordination
+- Agent Collaboration
+- Task Synchronization
+- Dependency Coordination
+- Cross-Domain Cooperation
+- Enterprise Scalability
+
+---
+
+# Coordination Participants
+
+The framework supports coordination between:
+
+- HANTER
+- Executive Orchestrators
+- Domain Orchestrators
+- Nano Core Agents
+- Professional Teams
+- Runtime Services
+
+Every participant has clearly defined responsibilities.
+
+---
+
+# Coordination Flow
+
+Every coordination request follows:
+
+Request
+
+↓
+
+Capability Analysis
+
+↓
+
+Participant Selection
+
+↓
+
+Permission Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Task Distribution
+
+↓
+
+Execution
+
+↓
+
+Synchronization
+
+↓
+
+Completion
+
+↓
+
+Audit Recording
+
+---
+
+# Task Distribution
+
+Tasks are distributed according to:
+
+- Professional Role
+- Skill Availability
+- Trust Tier
+- Runtime Capacity
+- Current Workload
+- Business Priority
+
+Distribution remains deterministic.
+
+---
+
+# Synchronization
+
+Synchronization guarantees:
+
+- consistent execution;
+- dependency ordering;
+- shared context;
+- state integrity;
+- repository consistency.
+
+Unsynchronized execution is prohibited.
+
+---
+
+# Conflict Resolution
+
+When coordination conflicts occur:
+
+- pause affected execution;
+- preserve current state;
+- notify responsible orchestrator;
+- evaluate resolution;
+- record audit evidence.
+
+Automatic conflict resolution requires approved policies.
+
+---
+
+# Coordination Integrity
+
+Every coordinated workflow must preserve:
+
+- architectural consistency;
+- governance;
+- security;
+- auditability;
+- deterministic execution.
+
+---
+
+# Repository Synchronization
+
+The Coordination Framework remains synchronized with:
+
+- Registry
+- Catalog
+- Runtime
+- Orchestration
+- Monitoring
+- Verification
+- Trust
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Coordination architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Coordination Framework establishes the universal collaboration architecture for Enterprise IMPERIAL Skills, enabling millions of governed professional AI Agents to cooperate safely, deterministically, and efficiently across the federated IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
