@@ -7189,3 +7189,227 @@ The Workflow Framework establishes the universal workflow architecture for Enter
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_PIPELINE.md
+
+# 💎 Enterprise IMPERIAL Skills Pipeline Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Pipeline Framework defines how Enterprise IMPERIAL Skills are executed as deterministic engineering pipelines.
+
+Pipelines transform validated inputs into verified outputs through governed execution stages.
+
+Every pipeline must remain secure, reproducible, auditable, and architecture compliant.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Pipeline Determinism
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Pipeline Framework provides:
+
+- Deterministic Processing
+- Repeatable Engineering
+- Stage Isolation
+- Controlled Execution
+- Enterprise Scalability
+- Pipeline Governance
+
+---
+
+# Pipeline Components
+
+Every pipeline contains:
+
+- Pipeline ID
+- Canonical Name
+- Description
+- Version
+- Owner
+- Responsible Team
+- Lifecycle Stage
+- Trust Tier
+
+---
+
+# Pipeline Stages
+
+Every pipeline consists of:
+
+Input
+
+↓
+
+Validation
+
+↓
+
+Authorization
+
+↓
+
+AI Passport Validation
+
+↓
+
+Dependency Resolution
+
+↓
+
+Skill Execution
+
+↓
+
+Result Verification
+
+↓
+
+Output Validation
+
+↓
+
+Audit Recording
+
+---
+
+# Input Validation
+
+Every pipeline validates:
+
+- Input Format
+- Input Integrity
+- Security Classification
+- Required Metadata
+- Repository Compatibility
+
+Invalid inputs terminate execution.
+
+---
+
+# Stage Execution
+
+Each stage must:
+
+- define responsibilities;
+- validate outputs;
+- preserve audit evidence;
+- maintain deterministic behaviour.
+
+Undefined stages are prohibited.
+
+---
+
+# Pipeline Verification
+
+Before execution the framework validates:
+
+- Skill Registration
+- Manifest Integrity
+- Runtime Compatibility
+- Dependency Graph
+- Trust Tier
+- Verification Status
+- Repository Consistency
+
+Verification failure blocks execution.
+
+---
+
+# Pipeline Monitoring
+
+Every pipeline continuously monitors:
+
+- Execution Progress
+- Runtime Health
+- Resource Usage
+- Policy Compliance
+- Error Conditions
+- Performance Metrics
+
+---
+
+# Failure Handling
+
+When pipeline execution fails:
+
+- stop execution;
+- isolate failed stage;
+- preserve evidence;
+- notify monitoring;
+- record audit;
+- evaluate recovery.
+
+Automatic recovery requires approved governance.
+
+---
+
+# Pipeline Audit
+
+Every pipeline execution records:
+
+- Pipeline ID
+- Skill Sequence
+- Runtime
+- AI Passport
+- Execution Duration
+- Result
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Pipeline Framework remains synchronized with:
+
+- Registry
+- Catalog
+- Runtime
+- Monitoring
+- Verification
+- Trust
+- Dependency Graph
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Pipeline architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Pipeline Framework establishes the universal engineering pipeline architecture for Enterprise IMPERIAL Skills, enabling secure, deterministic, scalable, and continuously governed execution across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
