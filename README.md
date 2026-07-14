@@ -9135,3 +9135,247 @@ The Capability Engine Framework establishes the universal capability architectur
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_RUNTIME_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Runtime Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Runtime Engine Framework governs the execution environment responsible for loading, validating, initializing, executing, supervising, and terminating Enterprise IMPERIAL Skills.
+
+The Runtime Engine is the authoritative execution layer for all governed professional capabilities.
+
+No Enterprise IMPERIAL Skill may execute outside the Runtime Engine.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Runtime Isolation
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Runtime Engine provides:
+
+- Skill Loading
+- Runtime Initialization
+- Execution Management
+- Resource Supervision
+- Failure Isolation
+- Continuous Runtime Governance
+
+---
+
+# Runtime Responsibilities
+
+The Runtime Engine is responsible for:
+
+- Loading Skills
+- Loading Manifests
+- Validating Dependencies
+- Validating Policies
+- AI Passport Validation
+- Runtime Scheduling
+- Execution Supervision
+- Runtime Monitoring
+
+---
+
+# Runtime Pipeline
+
+Every execution follows:
+
+Runtime Request
+
+↓
+
+Repository Validation
+
+↓
+
+Manifest Loading
+
+↓
+
+Dependency Resolution
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Runtime Allocation
+
+↓
+
+Skill Initialization
+
+↓
+
+Skill Execution
+
+↓
+
+Monitoring
+
+↓
+
+Completion
+
+↓
+
+Audit Recording
+
+---
+
+# Runtime Validation
+
+Before execution the Runtime Engine validates:
+
+- Repository Integrity
+- Manifest Integrity
+- Verification Status
+- Trust Tier
+- Lifecycle Stage
+- Dependency Graph
+- Runtime Compatibility
+- Policy Compliance
+
+Validation failure blocks execution.
+
+---
+
+# Runtime Isolation
+
+Every Enterprise IMPERIAL Skill executes inside:
+
+- isolated runtime;
+- isolated memory;
+- isolated permissions;
+- isolated resources;
+- isolated security context.
+
+Cross-runtime interference is prohibited.
+
+---
+
+# Runtime Supervision
+
+During execution the Runtime Engine supervises:
+
+- Runtime Health
+- CPU
+- GPU
+- Memory
+- Storage
+- Network
+- Policy Compliance
+- Trust State
+
+---
+
+# Runtime Recovery
+
+When runtime instability occurs:
+
+- isolate runtime;
+- preserve execution state;
+- preserve audit evidence;
+- notify monitoring;
+- evaluate controlled recovery.
+
+Automatic recovery follows approved governance only.
+
+---
+
+# Runtime Shutdown
+
+Runtime termination performs:
+
+- execution completion;
+- resource release;
+- state persistence;
+- audit recording;
+- monitoring update.
+
+Resource leakage is prohibited.
+
+---
+
+# Runtime Audit
+
+Every runtime session records:
+
+- Runtime ID
+- Skill ID
+- Runtime Version
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Runtime Engine remains synchronized with:
+
+- Runtime Framework
+- Scheduler
+- Resource Manager
+- Monitoring
+- Policy Engine
+- Decision Engine
+- Approval Engine
+- Verification
+- Audit
+- Registry
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Runtime Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Runtime Engine Framework establishes the universal execution engine for Enterprise IMPERIAL Skills, enabling secure, deterministic, isolated, continuously governed, and enterprise-scale runtime execution across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
