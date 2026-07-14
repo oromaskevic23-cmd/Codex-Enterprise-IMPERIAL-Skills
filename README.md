@@ -9616,3 +9616,212 @@ The State Engine Framework establishes the universal operational state architect
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_CONTEXT_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Context Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Context Engine Framework governs how Enterprise IMPERIAL Skills collect, validate, manage, synchronize, and distribute contextual information required for intelligent, deterministic, and secure execution.
+
+Context is an architectural asset.
+
+Every context object must remain governed, verifiable, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Context Before Execution
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Context Engine provides:
+
+- Context Collection
+- Context Validation
+- Context Synchronization
+- Context Distribution
+- Context Isolation
+- Context Governance
+
+---
+
+# Context Sources
+
+Context may originate only from:
+
+- AI Passport
+- Repository Metadata
+- Runtime
+- Workflow
+- Pipeline
+- Monitoring
+- Registry
+- Approved External Systems
+
+Unknown context sources are prohibited.
+
+---
+
+# Context Categories
+
+Supported context categories include:
+
+- Identity Context
+- Runtime Context
+- Business Context
+- Security Context
+- Workflow Context
+- Repository Context
+- Operational Context
+- Historical Context
+
+---
+
+# Context Pipeline
+
+Every context request follows:
+
+Context Request
+
+↓
+
+Identity Validation
+
+↓
+
+Context Collection
+
+↓
+
+Context Verification
+
+↓
+
+Policy Evaluation
+
+↓
+
+Context Assembly
+
+↓
+
+Runtime Distribution
+
+↓
+
+Audit Recording
+
+---
+
+# Context Validation
+
+Before use every context validates:
+
+- Source Authenticity
+- Repository Integrity
+- Trust Tier
+- AI Passport
+- Policy Compliance
+- Verification Status
+
+Invalid context is rejected.
+
+---
+
+# Context Isolation
+
+Context remains isolated between:
+
+- Organizations
+- Teams
+- Runtime Sessions
+- Skills
+- Pipelines
+- Business Domains
+
+Unauthorized context sharing is prohibited.
+
+---
+
+# Context Synchronization
+
+The Context Engine synchronizes with:
+
+- Registry
+- Runtime Engine
+- Workflow
+- Monitoring
+- Verification
+- Trust
+- Audit
+- State Engine
+
+Synchronization must remain deterministic.
+
+---
+
+# Failure Handling
+
+When context validation fails:
+
+- reject context;
+- deny execution;
+- preserve evidence;
+- notify monitoring;
+- create audit record.
+
+---
+
+# Context Audit
+
+Every context operation records:
+
+- Context ID
+- Context Source
+- Skill ID
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Context Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Context Engine Framework establishes the universal contextual intelligence architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to execute professional AI capabilities using trusted, synchronized, secure, and enterprise-governed contextual information.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
