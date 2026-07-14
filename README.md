@@ -10054,3 +10054,230 @@ The Memory Engine Framework establishes the universal enterprise memory architec
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_KNOWLEDGE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Knowledge Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Knowledge Engine Framework governs how Enterprise IMPERIAL Skills create, organize, validate, share, evolve, and govern professional knowledge across the IMPERIAL Core ecosystem.
+
+Knowledge is a strategic enterprise asset.
+
+Every knowledge object must remain trusted, versioned, searchable, governed, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Knowledge Before Execution
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Knowledge Engine provides:
+
+- Knowledge Registration
+- Knowledge Classification
+- Knowledge Discovery
+- Knowledge Validation
+- Knowledge Distribution
+- Knowledge Governance
+
+---
+
+# Knowledge Categories
+
+Supported knowledge categories include:
+
+- Architecture Knowledge
+- Engineering Knowledge
+- Security Knowledge
+- Governance Knowledge
+- Operational Knowledge
+- Business Knowledge
+- Domain Knowledge
+- Historical Knowledge
+- Reference Knowledge
+
+---
+
+# Knowledge Sources
+
+Knowledge may originate only from:
+
+- Enterprise IMPERIAL Skills
+- Verified Documentation
+- Registry
+- Audit Framework
+- Monitoring Framework
+- Workflow Framework
+- Approved Knowledge Bases
+
+Unknown knowledge sources are prohibited.
+
+---
+
+# Knowledge Lifecycle
+
+Every knowledge object follows:
+
+Creation
+
+↓
+
+Validation
+
+↓
+
+Classification
+
+↓
+
+Publication
+
+↓
+
+Synchronization
+
+↓
+
+Usage
+
+↓
+
+Improvement
+
+↓
+
+Archive
+
+↓
+
+Retirement
+
+---
+
+# Knowledge Validation
+
+Before publication the framework validates:
+
+- Source Authenticity
+- Repository Integrity
+- Trust Tier
+- AI Passport
+- Verification Status
+- Policy Compliance
+
+Invalid knowledge is rejected.
+
+---
+
+# Knowledge Discovery
+
+Knowledge discovery supports:
+
+- Semantic Search
+- Category Search
+- Capability Search
+- Skill Search
+- Version Search
+- Context-Based Search
+
+Only approved knowledge may be returned.
+
+---
+
+# Knowledge Synchronization
+
+The Knowledge Engine synchronizes with:
+
+- Memory Engine
+- Context Engine
+- Registry
+- Catalog
+- Verification
+- Monitoring
+- Trust
+- Audit
+
+Synchronization must remain deterministic.
+
+---
+
+# Knowledge Protection
+
+Knowledge is protected through:
+
+- Access Control
+- Version Control
+- Integrity Validation
+- Classification
+- Continuous Monitoring
+
+Unauthorized modification is prohibited.
+
+---
+
+# Failure Handling
+
+When knowledge validation fails:
+
+- reject publication;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Knowledge Audit
+
+Every knowledge operation records:
+
+- Knowledge ID
+- Skill ID
+- Operation
+- Repository
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Knowledge Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Knowledge Engine Framework establishes the universal enterprise knowledge architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to continuously accumulate, govern, discover, and evolve trusted professional knowledge at enterprise scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
