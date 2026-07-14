@@ -10958,3 +10958,231 @@ The Evolution Engine Framework establishes the universal controlled evolution ar
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_INTELLIGENCE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Intelligence Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Intelligence Engine Framework governs how Enterprise IMPERIAL Skills transform validated data, context, knowledge, memory, reasoning, and observations into actionable operational intelligence.
+
+Intelligence supports architecture.
+
+Intelligence never bypasses governance.
+
+Every intelligent recommendation must remain explainable, verifiable, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Intelligence Before Optimization
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Evidence Before Recommendation
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Intelligence Engine provides:
+
+- Operational Intelligence
+- Engineering Intelligence
+- Runtime Intelligence
+- Security Intelligence
+- Business Intelligence
+- Strategic Intelligence
+
+---
+
+# Intelligence Sources
+
+Intelligence may originate only from:
+
+- Knowledge Engine
+- Memory Engine
+- Context Engine
+- Reasoning Engine
+- Monitoring Framework
+- Observability Framework
+- Verification Framework
+- Audit Framework
+
+Unknown intelligence sources are prohibited.
+
+---
+
+# Intelligence Pipeline
+
+Every intelligence request follows:
+
+Request
+
+↓
+
+Context Collection
+
+↓
+
+Knowledge Retrieval
+
+↓
+
+Memory Retrieval
+
+↓
+
+Runtime Analysis
+
+↓
+
+Reasoning
+
+↓
+
+Intelligence Generation
+
+↓
+
+Recommendation
+
+↓
+
+Audit Recording
+
+---
+
+# Intelligence Categories
+
+Supported intelligence categories include:
+
+- Engineering Intelligence
+- Operational Intelligence
+- Security Intelligence
+- Performance Intelligence
+- Governance Intelligence
+- Strategic Intelligence
+
+---
+
+# Intelligence Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Source Authenticity
+- AI Passport
+- Trust Tier
+- Policy Compliance
+- Verification Status
+- Architectural Consistency
+
+Validation failure blocks publication.
+
+---
+
+# Recommendation Rules
+
+The Intelligence Engine may:
+
+- recommend;
+- prioritize;
+- classify;
+- optimize;
+- analyze.
+
+The Intelligence Engine must never autonomously modify architecture or governance.
+
+---
+
+# Continuous Intelligence
+
+The framework continuously evaluates:
+
+- Runtime Behaviour
+- Resource Utilization
+- Knowledge Growth
+- Performance Trends
+- Security Trends
+- Operational Trends
+
+Continuous analysis does not imply automatic execution.
+
+---
+
+# Failure Handling
+
+When intelligence validation fails:
+
+- reject recommendation;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Intelligence Audit
+
+Every intelligence operation records:
+
+- Intelligence ID
+- Skill ID
+- Intelligence Category
+- Recommendation
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Intelligence Engine remains synchronized with:
+
+- Knowledge Engine
+- Memory Engine
+- Context Engine
+- Reasoning Engine
+- Learning Engine
+- Verification
+- Monitoring
+- Trust
+- Registry
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Intelligence Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Intelligence Engine Framework establishes the universal intelligence architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to generate trusted, explainable, enterprise-scale operational intelligence while preserving architectural integrity, governance, and security.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
