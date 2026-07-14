@@ -10281,3 +10281,215 @@ The Knowledge Engine Framework establishes the universal enterprise knowledge ar
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_REASONING_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Reasoning Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Reasoning Engine Framework governs how Enterprise IMPERIAL Skills perform structured reasoning before executing professional capabilities.
+
+Reasoning transforms validated knowledge into governed decisions.
+
+Execution must never bypass reasoning when reasoning is required by architecture or policy.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Reasoning Before Execution
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Evidence Before Decision
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Reasoning Engine provides:
+
+- Structured Reasoning
+- Context Evaluation
+- Knowledge Analysis
+- Alternative Evaluation
+- Decision Support
+- Explainable Reasoning
+
+---
+
+# Reasoning Inputs
+
+The Reasoning Engine evaluates:
+
+- AI Passport
+- Context
+- Memory
+- Knowledge
+- Policies
+- Runtime State
+- Verification Results
+- Trust Tier
+- Business Objectives
+
+Unknown reasoning inputs are prohibited.
+
+---
+
+# Reasoning Pipeline
+
+Every reasoning request follows:
+
+Request
+
+↓
+
+Context Collection
+
+↓
+
+Knowledge Retrieval
+
+↓
+
+Memory Retrieval
+
+↓
+
+Policy Evaluation
+
+↓
+
+Alternative Analysis
+
+↓
+
+Decision Recommendation
+
+↓
+
+Execution Authorization
+
+↓
+
+Audit Recording
+
+---
+
+# Reasoning Models
+
+Supported reasoning modes include:
+
+- Rule-Based
+- Policy-Based
+- Knowledge-Based
+- Context-Based
+- Workflow-Based
+- Multi-Step Reasoning
+
+Reasoning mode must be explicitly declared.
+
+---
+
+# Reasoning Validation
+
+Before execution the framework validates:
+
+- Repository Integrity
+- Knowledge Consistency
+- Context Validity
+- AI Passport
+- Trust Tier
+- Verification Status
+- Policy Compliance
+
+Validation failure blocks reasoning.
+
+---
+
+# Explainability
+
+Every reasoning process must produce:
+
+- Reasoning ID
+- Inputs
+- Applied Policies
+- Decision Path
+- Final Recommendation
+
+Reasoning must remain explainable.
+
+---
+
+# Failure Handling
+
+When reasoning fails:
+
+- deny execution;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Reasoning Audit
+
+Every reasoning operation records:
+
+- Reasoning ID
+- Skill ID
+- Runtime
+- Decision
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Reasoning Engine remains synchronized with:
+
+- Knowledge Engine
+- Memory Engine
+- Context Engine
+- Decision Engine
+- Policy Engine
+- Verification
+- Trust
+- Audit
+- Registry
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Reasoning Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Reasoning Engine Framework establishes the universal reasoning architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to perform secure, explainable, deterministic, and enterprise-scale professional reasoning before governed execution.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
