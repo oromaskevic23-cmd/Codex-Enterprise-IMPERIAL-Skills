@@ -7886,3 +7886,213 @@ The Scheduler Framework establishes the universal scheduling architecture for En
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_RESOURCE_MANAGER.md
+
+# 💎 Enterprise IMPERIAL Skills Resource Management Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Resource Management Framework governs how computing resources are allocated, monitored, optimized, protected, and reclaimed for Enterprise IMPERIAL Skills across the IMPERIAL Core ecosystem.
+
+Resource management guarantees secure, efficient, deterministic, and scalable execution.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Least Privilege
+- Deterministic Allocation
+- Continuous Monitoring
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Resource Management Framework provides:
+
+- Intelligent Resource Allocation
+- Capacity Planning
+- Runtime Optimization
+- Resource Isolation
+- Cost Efficiency
+- Enterprise Scalability
+
+---
+
+# Managed Resources
+
+The framework manages:
+
+- CPU
+- GPU
+- RAM
+- Storage
+- Network
+- Runtime Slots
+- AI Accelerators
+- Shared Compute Resources
+
+---
+
+# Resource Allocation
+
+Before execution every Skill receives:
+
+- CPU Allocation
+- Memory Allocation
+- GPU Allocation
+- Storage Allocation
+- Network Allocation
+- Execution Limits
+
+Unlimited allocation is prohibited.
+
+---
+
+# Resource Policies
+
+Every allocation follows:
+
+- Least Privilege
+- Explicit Authorization
+- Trust Tier
+- Runtime Profile
+- Business Priority
+- Repository Policies
+
+---
+
+# Resource Validation
+
+Before allocation the framework validates:
+
+- Runtime Availability
+- Capacity
+- AI Passport
+- Permission Model
+- Trust Tier
+- Repository Integrity
+- Policy Compliance
+
+Allocation is denied when validation fails.
+
+---
+
+# Dynamic Scaling
+
+The framework supports:
+
+- Scale Up
+- Scale Down
+- Elastic Allocation
+- Runtime Redistribution
+- Multi-Orchestrator Load Sharing
+
+Scaling remains policy-controlled.
+
+---
+
+# Resource Optimization
+
+Continuous optimization evaluates:
+
+- CPU Efficiency
+- Memory Efficiency
+- GPU Utilization
+- Network Usage
+- Queue Length
+- Runtime Health
+
+Optimization must never violate governance.
+
+---
+
+# Resource Recovery
+
+After execution:
+
+- resources are reclaimed;
+- temporary storage is cleared;
+- runtime state is finalized;
+- monitoring is updated;
+- audit is completed.
+
+Resource leakage is prohibited.
+
+---
+
+# Failure Handling
+
+When resource allocation fails:
+
+- reject execution;
+- preserve system stability;
+- notify monitoring;
+- record audit evidence;
+- recommend recovery actions.
+
+---
+
+# Resource Audit
+
+Every allocation records:
+
+- Allocation ID
+- Skill ID
+- Runtime
+- Resources Granted
+- Resources Released
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Resource Management Framework remains synchronized with:
+
+- Runtime
+- Scheduler
+- Monitoring
+- Pipeline
+- Automation
+- Verification
+- Trust
+- Audit
+- Registry
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Resource management architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Resource Management Framework establishes the universal resource allocation architecture for Enterprise IMPERIAL Skills, enabling millions of governed AI capabilities to efficiently share computing resources while preserving deterministic execution, enterprise governance, and architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
