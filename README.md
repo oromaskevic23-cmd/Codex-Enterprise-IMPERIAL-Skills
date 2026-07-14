@@ -4088,3 +4088,187 @@ The Runtime Framework becomes the universal execution standard for every Enterpr
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_DEPENDENCIES.md
+
+# 💎 Enterprise IMPERIAL Skills Dependency Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Dependency Framework defines how Enterprise IMPERIAL Skills declare, validate, manage, and evolve dependencies throughout their lifecycle.
+
+Every dependency must be explicit.
+
+Hidden dependencies are prohibited.
+
+---
+
+# Dependency Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Explicit Declaration
+- Least Dependency
+- Version Consistency
+- Continuous Verification
+- Complete Traceability
+
+---
+
+# Dependency Objectives
+
+The framework provides:
+
+- Dependency Transparency
+- Version Compatibility
+- Secure Integration
+- Repository Consistency
+- Automated Validation
+- Controlled Evolution
+
+---
+
+# Dependency Categories
+
+Every dependency belongs to one or more categories.
+
+- Internal Skills
+- Runtime Components
+- Policies
+- Permissions
+- Verification Rules
+- Shared Libraries
+- External Services
+- AI Models
+- Infrastructure Components
+
+---
+
+# Mandatory Declaration
+
+Every Enterprise IMPERIAL Skill must explicitly declare:
+
+- Required Dependencies
+- Optional Dependencies
+- Runtime Dependencies
+- Development Dependencies
+- Verification Dependencies
+
+Undeclared dependencies are prohibited.
+
+---
+
+# Version Compatibility
+
+Every dependency specifies:
+
+- Name
+- Version
+- Compatibility Range
+- Minimum Version
+- Maximum Version
+
+Version ambiguity is prohibited.
+
+---
+
+# Dependency Validation
+
+Every dependency must pass:
+
+- Availability Validation
+- Compatibility Validation
+- Security Validation
+- Repository Validation
+- Trust Validation
+
+Validation failure blocks deployment.
+
+---
+
+# Dependency Integrity
+
+Every dependency must be:
+
+- documented;
+- version controlled;
+- traceable;
+- reproducible;
+- verifiable.
+
+---
+
+# Dependency Updates
+
+Dependency updates require:
+
+- compatibility verification;
+- engineering review;
+- security review;
+- governance approval;
+- audit recording.
+
+---
+
+# Dependency Conflicts
+
+Conflicting dependencies must be resolved before:
+
+- testing;
+- verification;
+- production deployment.
+
+Production deployment with unresolved dependency conflicts is prohibited.
+
+---
+
+# Runtime Dependencies
+
+Runtime dependencies include:
+
+- execution environment;
+- policies;
+- manifests;
+- AI Passport validation;
+- permission framework;
+- monitoring services.
+
+---
+
+# Audit
+
+Every dependency change records:
+
+- Dependency ID
+- Skill ID
+- Previous Version
+- New Version
+- Reviewer
+- Timestamp
+- Audit Reference
+
+---
+
+# Public / Private Boundary
+
+Dependency definitions belong exclusively to the PRIVATE engineering repository.
+
+Public repositories must never expose internal dependency architecture.
+
+---
+
+# Long-Term Vision
+
+The Dependency Framework establishes a universal dependency management standard for Enterprise IMPERIAL Skills, ensuring predictable integration, engineering consistency, security, and long-term maintainability throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
