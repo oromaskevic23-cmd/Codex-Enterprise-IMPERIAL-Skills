@@ -5026,3 +5026,228 @@ The Enterprise IMPERIAL Skills Discovery Framework establishes the universal dis
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_EXECUTION.md
+
+# 💎 Enterprise IMPERIAL Skills Execution Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Execution Framework governs how Enterprise IMPERIAL Skills are initialized, authorized, executed, monitored, completed, and terminated.
+
+Every execution must remain deterministic, secure, governed, and fully auditable.
+
+Execution never bypasses architecture.
+
+---
+
+# Execution Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Least Privilege
+- Explicit Authorization
+- Continuous Verification
+- Evidence Before Trust
+
+---
+
+# Execution Objectives
+
+The framework provides:
+
+- Safe Execution
+- Deterministic Behaviour
+- Runtime Governance
+- Continuous Monitoring
+- Auditability
+- Failure Isolation
+
+---
+
+# Execution Pipeline
+
+Every Enterprise IMPERIAL Skill follows the same execution pipeline.
+
+Discovery
+
+↓
+
+Selection
+
+↓
+
+Authentication
+
+↓
+
+Authorization
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Dependency Validation
+
+↓
+
+Runtime Allocation
+
+↓
+
+Execution
+
+↓
+
+Monitoring
+
+↓
+
+Completion
+
+↓
+
+Audit Recording
+
+---
+
+# Execution Requirements
+
+Before execution begins the system validates:
+
+- Skill Registration
+- Manifest
+- Repository Integrity
+- Verification Status
+- Trust Tier
+- Lifecycle Stage
+- Runtime Compatibility
+- Approval Status
+
+Execution is denied if any mandatory validation fails.
+
+---
+
+# Runtime Allocation
+
+Execution selects an approved runtime based upon:
+
+- CPU Capacity
+- GPU Capacity
+- Memory
+- Latency
+- Availability
+- Security Policies
+- Sandbox Profile
+
+---
+
+# Execution Monitoring
+
+During execution the framework continuously monitors:
+
+- Runtime Health
+- Memory Usage
+- CPU Usage
+- GPU Usage
+- Policy Compliance
+- Permission Usage
+- Security Events
+- Trust State
+
+---
+
+# Execution Constraints
+
+Execution must never:
+
+- bypass Approval Gateway;
+- bypass AI Passport validation;
+- bypass permission checks;
+- execute revoked Skills;
+- execute deprecated Skills;
+- execute outside approved runtime.
+
+---
+
+# Failure Handling
+
+If execution fails:
+
+- stop execution;
+- isolate runtime;
+- preserve evidence;
+- notify monitoring;
+- record audit;
+- prevent undefined behaviour.
+
+Automatic recovery requires governance approval.
+
+---
+
+# Completion
+
+Successful execution records:
+
+- Skill ID
+- Version
+- Runtime
+- AI Passport
+- Execution Duration
+- Result
+- Audit Reference
+
+Completion does not increase trust automatically.
+
+---
+
+# Audit
+
+Every execution generates immutable audit evidence.
+
+Audit records include:
+
+- Execution ID
+- Timestamp
+- Skill Version
+- Agent
+- Runtime
+- Result
+- Verification State
+- Trust Tier
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Execution architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Enterprise IMPERIAL Skills Execution Framework becomes the universal execution architecture for every governed professional capability implemented by Codex across the entire IMPERIAL Core ecosystem, ensuring secure, deterministic, scalable, and continuously governed execution.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
