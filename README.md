@@ -14653,3 +14653,241 @@ The Data Engine Framework establishes the universal enterprise data architecture
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_STORAGE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Storage Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Storage Engine Framework governs how Enterprise IMPERIAL Skills store, organize, retrieve, replicate, archive, protect, and manage enterprise information throughout the IMPERIAL Core ecosystem.
+
+Storage is a governed enterprise service.
+
+Every stored object must remain secure, versioned, resilient, recoverable, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Storage Before Persistence
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Storage Engine provides:
+
+- Secure Storage
+- Data Persistence
+- Object Management
+- Version Management
+- Backup Management
+- Enterprise Scalability
+
+---
+
+# Storage Objects
+
+The framework manages:
+
+- Skill Artifacts
+- Manifests
+- Runtime State
+- Configuration
+- Knowledge Objects
+- Memory Objects
+- Audit Records
+- Reports
+- Logs
+
+---
+
+# Storage Types
+
+Supported storage includes:
+
+- Object Storage
+- Document Storage
+- File Storage
+- Blob Storage
+- Archive Storage
+- Immutable Storage
+- Temporary Storage
+- Distributed Storage
+
+---
+
+# Storage Pipeline
+
+Every storage request follows:
+
+Storage Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Storage Allocation
+
+↓
+
+Integrity Validation
+
+↓
+
+Persistence
+
+↓
+
+Audit Recording
+
+---
+
+# Storage Validation
+
+Before persistence the framework validates:
+
+- Repository Integrity
+- Object Integrity
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Storage Classification
+- Encryption Status
+
+Validation failure blocks persistence.
+
+---
+
+# Storage Protection
+
+Every storage operation enforces:
+
+- Encryption
+- Integrity Verification
+- Version Control
+- Replication
+- Access Control
+- Backup Policy
+
+Data loss is prohibited.
+
+---
+
+# Backup and Recovery
+
+The framework supports:
+
+- Scheduled Backups
+- Incremental Backups
+- Full Backups
+- Disaster Recovery
+- Point-in-Time Recovery
+
+Recovery operations require governance approval.
+
+---
+
+# Storage Monitoring
+
+Continuous monitoring evaluates:
+
+- Capacity
+- Availability
+- Integrity
+- Replication Status
+- Performance
+- Storage Health
+
+---
+
+# Failure Handling
+
+When storage fails:
+
+- reject persistence;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Storage Audit
+
+Every storage operation records:
+
+- Storage ID
+- Object ID
+- Runtime
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Storage Engine remains synchronized with:
+
+- Data Engine
+- Memory Engine
+- Knowledge Engine
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Storage Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Storage Engine Framework establishes the universal enterprise storage architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to securely store, preserve, replicate, recover, and govern enterprise-scale information across the entire ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
