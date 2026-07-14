@@ -3531,3 +3531,313 @@ The Skill Manifest Schema becomes the universal engineering contract for every E
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_LIFECYCLE_SPEC.md
+
+# 💎 Enterprise IMPERIAL Skills Lifecycle Specification
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+This specification defines the complete operational lifecycle of every Enterprise IMPERIAL Skill.
+
+Every Skill follows one standardized lifecycle.
+
+No exceptions are permitted.
+
+---
+
+# Lifecycle Principles
+
+The lifecycle follows:
+
+- Architecture Before Implementation
+- Governance Before Production
+- Verification Before Trust
+- Security Before Execution
+- Continuous Improvement
+- Complete Traceability
+
+---
+
+# Lifecycle Flow
+
+Every Enterprise IMPERIAL Skill follows this sequence.
+
+Idea
+
+↓
+
+Architecture
+
+↓
+
+Design
+
+↓
+
+Engineering
+
+↓
+
+Verification
+
+↓
+
+Approval
+
+↓
+
+Production
+
+↓
+
+Monitoring
+
+↓
+
+Maintenance
+
+↓
+
+Optimization
+
+↓
+
+Deprecation
+
+↓
+
+Archive
+
+---
+
+# Stage 01
+
+Idea
+
+Objective
+
+Identify the professional capability.
+
+Deliverables
+
+- Initial concept
+- Business objective
+- Expected value
+
+---
+
+# Stage 02
+
+Architecture
+
+Objective
+
+Define architecture.
+
+Deliverables
+
+- Architecture
+- Interfaces
+- Dependencies
+- Constraints
+
+---
+
+# Stage 03
+
+Design
+
+Objective
+
+Prepare engineering specification.
+
+Deliverables
+
+- Manifest
+- Policies
+- Permissions
+- Runtime Profile
+
+---
+
+# Stage 04
+
+Engineering
+
+Objective
+
+Implementation.
+
+Deliverables
+
+- Source Code
+- Documentation
+- Tests
+
+---
+
+# Stage 05
+
+Verification
+
+Mandatory Gates
+
+G1
+
+G2
+
+G3
+
+G4
+
+G5
+
+Deployment blocked until every gate passes.
+
+---
+
+# Stage 06
+
+Approval
+
+Approval Gateway verifies:
+
+- Architecture
+- Security
+- Governance
+- Verification
+- Repository Integrity
+
+---
+
+# Stage 07
+
+Production
+
+Production requires:
+
+- Approved Manifest
+- AI Passport Validation
+- Trust Assignment
+- Audit Enabled
+
+---
+
+# Stage 08
+
+Monitoring
+
+Continuous Monitoring includes:
+
+- Health
+- Errors
+- Performance
+- Security
+- Trust
+- Permissions
+
+---
+
+# Stage 09
+
+Maintenance
+
+Maintenance includes:
+
+- Bug Fixes
+- Documentation
+- Optimization
+- Compatibility
+
+---
+
+# Stage 10
+
+Optimization
+
+Optimization improves:
+
+- Performance
+- Reliability
+- Maintainability
+- Engineering Quality
+
+Architecture remains unchanged.
+
+---
+
+# Stage 11
+
+Deprecation
+
+Requirements
+
+Migration Plan
+
+Replacement Skill
+
+Documentation Update
+
+Audit Record
+
+---
+
+# Stage 12
+
+Archive
+
+Archived Skills become:
+
+Read Only
+
+Execution Disabled
+
+History Preserved
+
+Audit Preserved
+
+Repository Preserved
+
+---
+
+# Lifecycle Rules
+
+Every lifecycle transition requires:
+
+Verification
+
+Governance
+
+Approval
+
+Audit
+
+Repository Synchronization
+
+---
+
+# Lifecycle Integrity
+
+Every Skill exists in one lifecycle stage only.
+
+Undefined states are prohibited.
+
+Parallel lifecycle states are prohibited.
+
+---
+
+# Long-Term Vision
+
+The Lifecycle Specification establishes a universal operational lifecycle for every Enterprise IMPERIAL Skill implemented by Codex across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
