@@ -4272,3 +4272,203 @@ The Dependency Framework establishes a universal dependency management standard 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_VERSIONING.md
+
+# 💎 Enterprise IMPERIAL Skills Versioning Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Versioning Framework defines how Enterprise IMPERIAL Skills evolve without breaking architectural consistency, repository integrity, or production stability.
+
+Every version must be traceable.
+
+Every version must remain reproducible.
+
+---
+
+# Versioning Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Immutable History
+- Full Traceability
+- Backward Compatibility
+- Deterministic Releases
+- Continuous Verification
+
+---
+
+# Objectives
+
+The Versioning Framework provides:
+
+- Stable Engineering
+- Controlled Evolution
+- Safe Upgrades
+- Repository Consistency
+- Compatibility Management
+- Historical Integrity
+
+---
+
+# Semantic Versioning
+
+Enterprise IMPERIAL Skills use Semantic Versioning.
+
+MAJOR.MINOR.PATCH
+
+Example:
+
+1.0.0
+
+1.2.0
+
+1.2.4
+
+2.0.0
+
+---
+
+# Major Version
+
+Increase MAJOR when:
+
+- architecture changes;
+- incompatible interfaces appear;
+- breaking changes are introduced.
+
+Major releases require architectural approval.
+
+---
+
+# Minor Version
+
+Increase MINOR when:
+
+- capabilities expand;
+- backward compatibility remains;
+- engineering improvements are added.
+
+---
+
+# Patch Version
+
+Increase PATCH when:
+
+- bugs are fixed;
+- documentation improves;
+- security patches are applied;
+- implementation quality increases.
+
+No architectural changes occur.
+
+---
+
+# Version Metadata
+
+Every version records:
+
+- Version
+- Release Date
+- Repository Revision
+- Author
+- Reviewer
+- Approval Reference
+- Verification Result
+- Audit Reference
+
+---
+
+# Compatibility
+
+Each version specifies:
+
+- Supported Runtime
+- Supported Manifest Version
+- Supported Policy Version
+- Supported Permission Version
+- Supported Registry Version
+
+Compatibility must be explicit.
+
+---
+
+# Upgrade Rules
+
+Before upgrading:
+
+- verify compatibility;
+- verify dependencies;
+- verify policies;
+- verify permissions;
+- verify trust;
+- verify repository consistency.
+
+---
+
+# Rollback
+
+Rollback is permitted only when:
+
+- verification fails;
+- production instability appears;
+- security risk exists;
+- governance authorizes rollback.
+
+Rollback preserves audit history.
+
+---
+
+# Release Management
+
+Every release requires:
+
+- verification;
+- approval;
+- documentation update;
+- repository synchronization;
+- audit recording.
+
+---
+
+# Version History
+
+Version history is permanent.
+
+Historical versions remain available for:
+
+- audit;
+- engineering review;
+- compatibility analysis;
+- repository reconstruction.
+
+Deletion is prohibited.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Version history belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Versioning Framework establishes a universal engineering version control standard for Enterprise IMPERIAL Skills, ensuring predictable evolution, architectural consistency, repository integrity, and long-term maintainability across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
