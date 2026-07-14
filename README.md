@@ -692,3 +692,245 @@ Enterprise IMPERIAL Skills become the professional capability layer shared acros
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SECURITY.md
+
+# 🔒 Enterprise IMPERIAL Skills Security Policy
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+Security is a mandatory architectural requirement.
+
+Every Enterprise IMPERIAL Skill must be secure by design.
+
+Security cannot be added after implementation.
+
+---
+
+# Security Principles
+
+The repository follows:
+
+- Zero Trust
+- Least Privilege
+- Deny By Default
+- Explicit Authorization
+- Complete Auditability
+- Secure By Design
+- Defense In Depth
+
+---
+
+# Zero Trust
+
+Nothing is trusted automatically.
+
+Every request must be:
+
+- authenticated;
+- authorized;
+- validated;
+- logged.
+
+Trust must always be verified.
+
+---
+
+# Least Privilege
+
+Every component receives only the permissions required for its assigned responsibility.
+
+Additional permissions are prohibited unless explicitly approved.
+
+---
+
+# Deny By Default
+
+Every action is denied unless explicitly authorized.
+
+This applies to:
+
+- APIs;
+- Skills;
+- Agents;
+- Services;
+- External integrations;
+- Administrative operations.
+
+---
+
+# Authentication
+
+Every identity must be authenticated before any operation.
+
+Supported identities include:
+
+- Human operators;
+- Nano Core Agents;
+- HANTER;
+- Internal services;
+- Approved automation.
+
+---
+
+# Authorization
+
+Authentication alone never grants access.
+
+Authorization determines:
+
+- accessible resources;
+- permitted operations;
+- execution limits;
+- security boundaries.
+
+---
+
+# AI Passport
+
+Every Nano Core Agent must possess a valid AI Passport before executing Enterprise IMPERIAL Skills.
+
+The AI Passport verifies:
+
+- identity;
+- organization;
+- permissions;
+- trust level;
+- operational status.
+
+Execution is denied if the passport is invalid.
+
+---
+
+# Guardian Core
+
+Guardian Core operates as an independent security domain.
+
+Responsibilities:
+
+- policy enforcement;
+- anomaly detection;
+- execution blocking;
+- emergency isolation;
+- continuous monitoring.
+
+---
+
+# Approval Gateway
+
+Approval Gateway protects privileged operations.
+
+Approval is required for:
+
+- production deployment;
+- privilege escalation;
+- trust changes;
+- policy modifications;
+- architectural changes;
+- critical integrations.
+
+---
+
+# Audit Ledger
+
+Every security event must be recorded.
+
+Examples include:
+
+- authentication;
+- authorization;
+- deployment;
+- policy violations;
+- verification;
+- revocation;
+- administrative actions.
+
+Audit evidence must never be silently modified.
+
+---
+
+# Secrets
+
+The repository must never contain:
+
+- passwords;
+- API keys;
+- private keys;
+- tokens;
+- production credentials;
+- confidential certificates.
+
+Secrets must always remain outside Git.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+All repository contents are confidential engineering assets.
+
+---
+
+# Public / Private Boundary
+
+Private repositories may contain:
+
+- architecture;
+- engineering documentation;
+- governance;
+- verification;
+- security implementation.
+
+Public repositories must never expose these materials without explicit approval.
+
+---
+
+# Security Verification
+
+Before production deployment every Enterprise IMPERIAL Skill must pass:
+
+- structural review;
+- security review;
+- dependency review;
+- permission review;
+- policy validation;
+- integration validation.
+
+Deployment is prohibited if any mandatory verification fails.
+
+---
+
+# Incident Response
+
+When a security event occurs:
+
+1. Detect.
+2. Isolate.
+3. Investigate.
+4. Record.
+5. Recover.
+6. Improve.
+
+Every incident becomes engineering knowledge.
+
+---
+
+# Continuous Improvement
+
+Security is continuously reviewed.
+
+Every repository change should strengthen—not weaken—the overall security posture.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
