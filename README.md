@@ -14891,3 +14891,236 @@ The Storage Engine Framework establishes the universal enterprise storage archit
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_SECRET_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Secret Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Secret Engine Framework governs how Enterprise IMPERIAL Skills create, store, rotate, retrieve, revoke, and audit sensitive secrets throughout the IMPERIAL Core ecosystem.
+
+Secrets are enterprise trust assets.
+
+No secret may be stored directly inside Enterprise Skills, repositories, manifests, workflows, or source code.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Zero Trust
+- Secret Isolation
+- Least Privilege
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Secret Engine provides:
+
+- Secret Registration
+- Secret Storage
+- Secret Retrieval
+- Secret Rotation
+- Secret Revocation
+- Secret Governance
+
+---
+
+# Secret Types
+
+Supported secrets include:
+
+- API Keys
+- Access Tokens
+- OAuth Credentials
+- Certificates
+- Encryption Keys
+- Signing Keys
+- Database Credentials
+- Cloud Credentials
+- Runtime Secrets
+
+---
+
+# Secret Pipeline
+
+Every secret operation follows:
+
+Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Secret Access
+
+↓
+
+Usage
+
+↓
+
+Secure Disposal
+
+↓
+
+Audit Recording
+
+---
+
+# Secret Validation
+
+Before access the framework validates:
+
+- Repository Integrity
+- AI Passport
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Secret Classification
+
+Validation failure blocks access.
+
+---
+
+# Secret Protection
+
+Every secret is protected through:
+
+- Encryption
+- Hardware-backed Protection
+- Access Control
+- Rotation Policies
+- Integrity Validation
+- Version Control
+
+Plaintext secret storage is prohibited.
+
+---
+
+# Secret Rotation
+
+The framework supports:
+
+- Scheduled Rotation
+- Emergency Rotation
+- Manual Rotation
+- Automatic Rotation
+
+Expired secrets are automatically revoked.
+
+---
+
+# Secret Revocation
+
+Secret revocation performs:
+
+- Immediate Invalidation
+- Runtime Notification
+- Dependency Update
+- Audit Recording
+
+Revoked secrets may never be reused.
+
+---
+
+# Secret Monitoring
+
+Continuous monitoring evaluates:
+
+- Secret Usage
+- Failed Access
+- Rotation Status
+- Expiration
+- Security Events
+- Unauthorized Requests
+
+---
+
+# Failure Handling
+
+When secret validation fails:
+
+- deny access;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require security review.
+
+---
+
+# Secret Audit
+
+Every secret operation records:
+
+- Secret ID
+- Operation
+- Runtime
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Secret Engine remains synchronized with:
+
+- Runtime Engine
+- Policy Engine
+- Verification Framework
+- Trust Framework
+- Monitoring Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Secret Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Secret Engine Framework establishes the universal enterprise secret management architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to securely protect, govern, rotate, and audit enterprise secrets at global scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
