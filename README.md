@@ -8096,3 +8096,212 @@ The Resource Management Framework establishes the universal resource allocation 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_CONFIGURATION.md
+
+# 💎 Enterprise IMPERIAL Skills Configuration Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Configuration Framework governs how Enterprise IMPERIAL Skills are configured, validated, versioned, deployed, and maintained throughout the IMPERIAL Core ecosystem.
+
+Configuration guarantees deterministic behaviour, architectural consistency, operational stability, and secure execution.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Configuration As Code
+- Zero Trust
+- Immutable Configuration
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Configuration Framework provides:
+
+- Configuration Management
+- Runtime Consistency
+- Environment Isolation
+- Secure Configuration
+- Deterministic Deployment
+- Enterprise Scalability
+
+---
+
+# Configuration Objects
+
+Every Enterprise IMPERIAL Skill may contain:
+
+- Skill Configuration
+- Runtime Configuration
+- Environment Configuration
+- Policy Configuration
+- Permission Configuration
+- Monitoring Configuration
+- Logging Configuration
+- Security Configuration
+
+---
+
+# Configuration Sources
+
+Configuration may originate only from:
+
+- Approved Repository
+- Verified Manifest
+- Approved Policy
+- Runtime Profile
+- Governance Configuration
+
+External uncontrolled configuration is prohibited.
+
+---
+
+# Configuration Validation
+
+Before activation every configuration validates:
+
+- Schema
+- Repository Integrity
+- Manifest Compatibility
+- Runtime Compatibility
+- Policy Compliance
+- Permission Compliance
+- Trust Requirements
+
+Validation failure blocks execution.
+
+---
+
+# Configuration Versioning
+
+Every configuration records:
+
+- Configuration ID
+- Version
+- Author
+- Reviewer
+- Approval Reference
+- Effective Date
+
+Configuration history remains immutable.
+
+---
+
+# Environment Profiles
+
+Supported environments include:
+
+- Development
+- Testing
+- Staging
+- Production
+- Recovery
+
+Every environment maintains independent configuration.
+
+---
+
+# Configuration Changes
+
+Every modification requires:
+
+- Engineering Review
+- Verification
+- Governance Approval
+- Repository Synchronization
+- Audit Recording
+
+Unauthorized configuration changes are prohibited.
+
+---
+
+# Runtime Configuration
+
+Runtime configuration defines:
+
+- CPU Limits
+- Memory Limits
+- GPU Limits
+- Timeout
+- Retry Policy
+- Logging Level
+- Monitoring Profile
+
+---
+
+# Failure Handling
+
+When configuration validation fails:
+
+- reject activation;
+- preserve previous configuration;
+- notify monitoring;
+- record audit evidence;
+- require engineering review.
+
+---
+
+# Configuration Audit
+
+Every configuration operation records:
+
+- Configuration ID
+- Skill ID
+- Version
+- Environment
+- Operation
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Configuration Framework remains synchronized with:
+
+- Registry
+- Manifest
+- Runtime
+- Scheduler
+- Monitoring
+- Verification
+- Trust
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Configuration architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Configuration Framework establishes the universal configuration architecture for Enterprise IMPERIAL Skills, ensuring secure, deterministic, version-controlled, and enterprise-scale configuration management across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
