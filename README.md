@@ -15124,3 +15124,235 @@ The Secret Engine Framework establishes the universal enterprise secret manageme
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_IDENTITY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Identity Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Identity Engine Framework governs how Enterprise IMPERIAL Skills establish, verify, maintain, and govern digital identities throughout the IMPERIAL Core ecosystem.
+
+Every Enterprise IMPERIAL Skill possesses a governed digital identity.
+
+Identity is the foundation of trust.
+
+No Enterprise IMPERIAL Skill may exist without a registered identity.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Identity Before Execution
+- Zero Trust
+- Explicit Authentication
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Identity Engine provides:
+
+- Identity Registration
+- Identity Verification
+- Identity Authentication
+- Identity Lifecycle Management
+- Identity Governance
+- Enterprise Trust
+
+---
+
+# Identity Definition
+
+Every Enterprise IMPERIAL Skill identity contains:
+
+- Skill ID
+- Canonical Name
+- Global UUID
+- Version
+- AI Passport Reference
+- Trust Tier
+- Lifecycle Stage
+- Digital Signature
+
+Identity records are immutable after registration.
+
+---
+
+# Identity Sources
+
+Identity may originate only from:
+
+- Enterprise Registry
+- AI Passport Framework
+- Approved Repository
+- Governance Authority
+
+Unauthorized identity creation is prohibited.
+
+---
+
+# Identity Lifecycle
+
+Every identity follows:
+
+Registration
+
+↓
+
+Verification
+
+↓
+
+Activation
+
+↓
+
+Operational Use
+
+↓
+
+Suspension
+
+↓
+
+Retirement
+
+↓
+
+Archive
+
+Identity history is permanently preserved.
+
+---
+
+# Identity Validation
+
+Before activation the framework validates:
+
+- Repository Integrity
+- AI Passport
+- Digital Signature
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Registry Consistency
+
+Validation failure blocks activation.
+
+---
+
+# Authentication
+
+Every identity supports:
+
+- Mutual Authentication
+- Certificate Authentication
+- Token Authentication
+- Runtime Authentication
+- Service Authentication
+
+Anonymous execution is prohibited.
+
+---
+
+# Identity Governance
+
+The Identity Engine enforces:
+
+- Unique Identity
+- Immutable Identity History
+- Identity Ownership
+- Identity Versioning
+- Identity Revocation
+- Identity Recovery
+
+Identity duplication is prohibited.
+
+---
+
+# Identity Monitoring
+
+Continuous monitoring evaluates:
+
+- Identity Validity
+- Authentication Events
+- Failed Authentication
+- Trust Changes
+- Security Incidents
+- Identity Status
+
+---
+
+# Failure Handling
+
+When identity validation fails:
+
+- deny activation;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require security review.
+
+---
+
+# Identity Audit
+
+Every identity operation records:
+
+- Identity ID
+- Skill ID
+- Operation
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Identity Engine remains synchronized with:
+
+- AI Passport Framework
+- Registry
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Policy Engine
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Identity Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Identity Engine Framework establishes the universal digital identity architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to authenticate, verify, govern, and securely manage millions of professional AI identities across the enterprise ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
