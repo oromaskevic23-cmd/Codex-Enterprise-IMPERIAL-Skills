@@ -12818,3 +12818,224 @@ The Mission Engine Framework establishes the universal mission orchestration arc
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_SERVICE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Service Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Service Engine Framework governs how Enterprise IMPERIAL Skills expose, publish, discover, consume, version, and govern professional AI services across the IMPERIAL Core ecosystem.
+
+Every service represents a governed capability.
+
+Every service must remain secure, deterministic, versioned, continuously verified, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Service-Oriented Architecture
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Service Engine provides:
+
+- Service Registration
+- Service Discovery
+- Service Execution
+- Service Versioning
+- Service Governance
+- Service Lifecycle Management
+
+---
+
+# Service Definition
+
+Every service contains:
+
+- Service ID
+- Canonical Name
+- Description
+- Version
+- Owner
+- Business Domain
+- Trust Tier
+- Lifecycle Stage
+
+---
+
+# Service Sources
+
+Services may be implemented by:
+
+- Enterprise IMPERIAL Skills
+- Skill Compositions
+- Workflows
+- Pipelines
+- Approved Runtime Services
+
+Unknown services are prohibited.
+
+---
+
+# Service Pipeline
+
+Every service request follows:
+
+Service Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Service Discovery
+
+↓
+
+Runtime Allocation
+
+↓
+
+Service Execution
+
+↓
+
+Response Validation
+
+↓
+
+Audit Recording
+
+---
+
+# Service Validation
+
+Before execution the framework validates:
+
+- Repository Integrity
+- Manifest
+- Runtime Compatibility
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Dependency Compatibility
+
+Validation failure blocks execution.
+
+---
+
+# Service Versioning
+
+Every service maintains:
+
+- Current Version
+- Supported Versions
+- Deprecated Versions
+- Compatibility Rules
+
+Unsupported versions are rejected.
+
+---
+
+# Service Governance
+
+Every service must comply with:
+
+- Repository Policies
+- Security Policies
+- Runtime Policies
+- Governance Policies
+- Verification Policies
+
+Governance is mandatory.
+
+---
+
+# Failure Handling
+
+When service execution fails:
+
+- stop execution;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Service Audit
+
+Every service operation records:
+
+- Service ID
+- Version
+- Runtime
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Service Engine remains synchronized with:
+
+- Registry
+- Catalog
+- Runtime Engine
+- Workflow Engine
+- Verification Framework
+- Trust Framework
+- Monitoring Framework
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Service Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Service Engine Framework establishes the universal service architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to expose, govern, discover, and execute millions of professional AI services with enterprise-grade security, interoperability, and scalability.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
