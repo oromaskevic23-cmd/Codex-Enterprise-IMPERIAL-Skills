@@ -5823,3 +5823,204 @@ The Observability Framework establishes complete engineering visibility for ever
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_DEPLOYMENT.md
+
+# 💎 Enterprise IMPERIAL Skills Deployment Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Deployment Framework governs how Enterprise IMPERIAL Skills are promoted from verified engineering artifacts into controlled production environments.
+
+Deployment is a governed architectural event.
+
+No Enterprise IMPERIAL Skill may be deployed without successful verification, governance approval, and repository consistency.
+
+---
+
+# Deployment Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Zero Trust
+- Approval Before Deployment
+- Evidence Before Trust
+- Continuous Verification
+- Complete Auditability
+- Deterministic Deployment
+
+---
+
+# Deployment Objectives
+
+The Deployment Framework provides:
+
+- Controlled Releases
+- Safe Rollout
+- Version Consistency
+- Secure Activation
+- Operational Stability
+- Repository Integrity
+
+---
+
+# Deployment Pipeline
+
+Every Enterprise IMPERIAL Skill follows the same deployment pipeline.
+
+Architecture
+
+↓
+
+Engineering
+
+↓
+
+Verification
+
+↓
+
+Approval Gateway
+
+↓
+
+Deployment Preparation
+
+↓
+
+Production Deployment
+
+↓
+
+Health Validation
+
+↓
+
+Monitoring
+
+↓
+
+Audit Recording
+
+---
+
+# Deployment Requirements
+
+Before deployment begins the following must be validated:
+
+- Repository Integrity
+- Manifest
+- Registry
+- Verification Status
+- Trust Tier
+- Lifecycle Stage
+- AI Passport Requirements
+- Permission Model
+- Runtime Compatibility
+- Dependency Compatibility
+
+Deployment is denied when any mandatory validation fails.
+
+---
+
+# Deployment Modes
+
+Supported deployment modes include:
+
+- Development
+- Testing
+- Staging
+- Production
+- Emergency Rollback
+
+Deployment mode must be explicitly declared.
+
+---
+
+# Approval Gateway
+
+Production deployment requires Approval Gateway authorization.
+
+Approval verifies:
+
+- Architecture
+- Governance
+- Security
+- Verification
+- Repository Consistency
+
+Deployment without approval is prohibited.
+
+---
+
+# Health Validation
+
+Immediately after deployment the framework validates:
+
+- Runtime Availability
+- Startup Success
+- Health Signals
+- Dependency Integrity
+- Permission Integrity
+- Trust Status
+
+Deployment completes only after successful validation.
+
+---
+
+# Rollback
+
+Rollback is permitted only when:
+
+- verification fails;
+- deployment fails;
+- runtime instability occurs;
+- security incidents occur;
+- governance authorizes rollback.
+
+Rollback preserves complete audit history.
+
+---
+
+# Deployment Audit
+
+Every deployment records:
+
+- Deployment ID
+- Skill ID
+- Version
+- Runtime
+- Environment
+- Timestamp
+- Approval Reference
+- Audit Reference
+
+Audit records remain immutable.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Deployment architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Deployment Framework establishes the universal production deployment standard for Enterprise IMPERIAL Skills, ensuring secure, deterministic, governed, and continuously auditable releases throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
