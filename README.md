@@ -8708,3 +8708,222 @@ The Decision Engine Framework establishes the universal decision architecture fo
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_APPROVAL_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Approval Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Approval Engine Framework governs how Enterprise IMPERIAL Skills receive authorization before executing sensitive, privileged, architectural, governance, or production-impacting operations.
+
+No critical operation may execute without explicit approval.
+
+Approval decisions must remain secure, deterministic, governed, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Zero Trust
+- Explicit Approval
+- Separation of Responsibilities
+- Deterministic Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Approval Engine provides:
+
+- Approval Management
+- Authorization Control
+- Governance Enforcement
+- Risk Reduction
+- Policy Compliance
+- Enterprise Accountability
+
+---
+
+# Approval Sources
+
+Approvals may originate only from:
+
+- Architect
+- Approval Gateway
+- Governance Policies
+- Repository Policies
+- Authorized Executive Orchestrators
+- Approved Automated Approval Rules
+
+Unauthorized approval sources are prohibited.
+
+---
+
+# Approval Pipeline
+
+Every approval request follows:
+
+Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Risk Assessment
+
+↓
+
+Approval Decision
+
+↓
+
+Execution Authorization
+
+↓
+
+Audit Recording
+
+---
+
+# Approval Types
+
+Supported approval types:
+
+- Architecture Approval
+- Engineering Approval
+- Security Approval
+- Governance Approval
+- Deployment Approval
+- Emergency Approval
+- Runtime Approval
+
+Undefined approval types are prohibited.
+
+---
+
+# Approval Validation
+
+Before approval the framework validates:
+
+- Repository Integrity
+- Manifest
+- Trust Tier
+- Verification Status
+- Lifecycle Stage
+- Permission Model
+- Policy Compliance
+
+Validation failure blocks approval.
+
+---
+
+# Approval Constraints
+
+The Approval Engine must never:
+
+- approve revoked Skills;
+- approve invalid AI Passports;
+- bypass repository governance;
+- bypass security policies;
+- bypass Verification Framework;
+- bypass Audit Framework.
+
+---
+
+# Emergency Approval
+
+Emergency approval is permitted only when:
+
+- explicitly authorized;
+- fully audited;
+- policy compliant;
+- time limited.
+
+Emergency approval never becomes permanent authorization.
+
+---
+
+# Failure Handling
+
+When approval fails:
+
+- deny execution;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require governance review.
+
+---
+
+# Approval Audit
+
+Every approval records:
+
+- Approval ID
+- Skill ID
+- Approval Type
+- Decision
+- Approver
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Approval Engine remains synchronized with:
+
+- Approval Gateway
+- Policy Engine
+- Decision Engine
+- Verification
+- Trust
+- Runtime
+- Monitoring
+- Audit
+- Registry
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Approval Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Approval Engine Framework establishes the universal authorization architecture for Enterprise IMPERIAL Skills, ensuring every critical engineering, security, governance, and production decision is explicitly approved, fully traceable, and consistently enforced across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
