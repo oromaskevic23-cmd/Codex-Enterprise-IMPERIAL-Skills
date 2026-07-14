@@ -482,3 +482,213 @@ All future engineering work must extend this foundation rather than replace it.
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# ARCHITECTURE.md
+
+# 💎 Enterprise IMPERIAL Skills Architecture
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Architecture Mission
+
+Enterprise IMPERIAL Skills (EIS) provide the governed professional capability layer for the entire IMPERIAL Core ecosystem.
+
+Every skill is an architectural object rather than a prompt, script, or isolated function.
+
+---
+
+# Architecture Principle
+
+Architecture Before Implementation
+
+Every implementation must conform to the approved architecture.
+
+Implementation never becomes architecture.
+
+---
+
+# Canonical Architecture
+
+The following names are immutable.
+
+- IMPERIAL Core
+- Nano Core Agents
+- HANTER
+- Legion
+- ORION
+- CRYPTO IMPERIAL Ecosystem
+- Capital Core
+- Enterprise IMPERIAL Skills
+
+---
+
+# Multi-Orchestrator Architecture
+
+Enterprise IMPERIAL Skills are designed for a federated architecture.
+
+The system must support:
+
+- multiple orchestrators;
+- multiple organizations;
+- multiple professional teams;
+- multiple business domains;
+- dynamic Nano Core Agent scaling.
+
+A single unrestricted orchestrator is prohibited.
+
+---
+
+# Enterprise Skill
+
+Each Enterprise IMPERIAL Skill is treated as an independent governed capability.
+
+Every skill contains:
+
+- identity;
+- metadata;
+- version;
+- owner;
+- permissions;
+- policy;
+- trust tier;
+- execution profile;
+- verification;
+- audit evidence;
+- lifecycle.
+
+---
+
+# Skill Lifecycle
+
+Every skill passes through the following lifecycle.
+
+Draft
+
+↓
+
+Engineering
+
+↓
+
+Verification
+
+↓
+
+Approval
+
+↓
+
+Production
+
+↓
+
+Maintenance
+
+↓
+
+Deprecation
+
+↓
+
+Archive
+
+No production deployment may bypass this lifecycle.
+
+---
+
+# AI Passport
+
+Every Nano Core Agent executing Enterprise IMPERIAL Skills must possess an AI Passport.
+
+The AI Passport identifies:
+
+- identity;
+- organization;
+- professional role;
+- authorized skills;
+- permissions;
+- trust level;
+- operational status.
+
+---
+
+# Trust Architecture
+
+Enterprise IMPERIAL Skills operate through governed trust levels.
+
+Trust is assigned only after successful verification.
+
+Trust may be reduced or revoked.
+
+Trust is never permanent.
+
+---
+
+# Verification
+
+Every Enterprise IMPERIAL Skill must successfully complete:
+
+- structural verification;
+- policy verification;
+- security verification;
+- functional verification;
+- integration verification.
+
+Verification evidence must be retained.
+
+---
+
+# Security
+
+Every skill operates under:
+
+- Zero Trust;
+- least privilege;
+- deny-by-default;
+- explicit authorization;
+- sandbox isolation;
+- complete audit logging.
+
+---
+
+# Repository Architecture
+
+Repository responsibilities include:
+
+- architecture;
+- governance;
+- implementation;
+- verification;
+- automation;
+- lifecycle management;
+- standards;
+- documentation.
+
+---
+
+# Public / Private Boundary
+
+This repository belongs entirely to the PRIVATE engineering boundary.
+
+Public repositories must never expose:
+
+- internal architecture;
+- engineering governance;
+- security implementation;
+- orchestration logic;
+- private documentation.
+
+---
+
+# Long-Term Vision
+
+Enterprise IMPERIAL Skills become the professional capability layer shared across IMPERIAL Core while preserving architectural consistency, engineering quality, governance, and security.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
