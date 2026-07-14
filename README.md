@@ -4658,3 +4658,185 @@ The Enterprise IMPERIAL Skills Catalog becomes the universal professional capabi
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_ROUTING.md
+
+# 💎 Enterprise IMPERIAL Skills Routing Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Routing Framework determines how Enterprise IMPERIAL Skills are discovered, selected, prioritized, executed, and monitored across the IMPERIAL Core ecosystem.
+
+Routing guarantees that the correct Skill is assigned to the correct AI Agent at the correct time.
+
+Routing must always remain deterministic, governed, secure, and auditable.
+
+---
+
+# Routing Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Least Privilege
+- Continuous Verification
+- Evidence Before Trust
+
+---
+
+# Routing Objectives
+
+The Routing Framework provides:
+
+- Intelligent Skill Selection
+- Capability Matching
+- Load Distribution
+- Runtime Optimization
+- Trust-Based Execution
+- Continuous Monitoring
+
+---
+
+# Routing Inputs
+
+Routing decisions evaluate:
+
+- AI Passport
+- Agent Role
+- Trust Tier
+- Requested Capability
+- Skill Availability
+- Lifecycle State
+- Current Load
+- Policy Restrictions
+
+---
+
+# Routing Decision
+
+Every routing decision must determine:
+
+- Selected Skill
+- Selected Version
+- Selected Runtime
+- Assigned Agent
+- Trust Validation
+- Permission Validation
+
+---
+
+# Routing Priority
+
+Priority evaluation includes:
+
+Critical
+
+High
+
+Normal
+
+Low
+
+Background
+
+Priority must remain deterministic.
+
+---
+
+# Routing Validation
+
+Before execution the Routing Framework validates:
+
+- Skill Registration
+- Manifest
+- Permissions
+- AI Passport
+- Trust Tier
+- Lifecycle
+- Runtime Compatibility
+- Repository Consistency
+
+Validation failure blocks execution.
+
+---
+
+# Load Distribution
+
+Routing distributes execution across:
+
+- Multiple Orchestrators
+- Multiple Nano Core Agents
+- Multiple Professional Teams
+- Multiple Runtime Nodes
+
+Single-orchestrator dependency is prohibited.
+
+---
+
+# Runtime Selection
+
+Runtime selection considers:
+
+- CPU
+- GPU
+- Memory
+- Latency
+- Availability
+- Policy Constraints
+- Security Requirements
+
+---
+
+# Failure Handling
+
+When routing fails:
+
+- execution stops;
+- alternative routing is evaluated;
+- audit is recorded;
+- monitoring is notified.
+
+Undefined routing behaviour is prohibited.
+
+---
+
+# Audit
+
+Every routing decision records:
+
+- Routing ID
+- Skill ID
+- Agent ID
+- AI Passport
+- Runtime
+- Timestamp
+- Decision Result
+- Audit Reference
+
+---
+
+# Public / Private Boundary
+
+Routing architecture belongs exclusively to the PRIVATE engineering repository.
+
+Public repositories must never expose internal routing logic.
+
+---
+
+# Long-Term Vision
+
+The Enterprise IMPERIAL Skills Routing Framework establishes the universal capability routing architecture used by HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems, enabling intelligent, governed, scalable, and secure execution of professional AI capabilities.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
