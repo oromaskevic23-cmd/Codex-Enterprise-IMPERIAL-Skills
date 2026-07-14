@@ -12098,3 +12098,233 @@ The Recommendation Engine Framework establishes the universal recommendation arc
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_PLANNING_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Planning Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Planning Engine Framework governs how Enterprise IMPERIAL Skills create, evaluate, optimize, validate, and execute professional execution plans.
+
+Planning transforms objectives into governed execution strategies.
+
+Every plan must remain deterministic, verifiable, secure, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Planning Before Execution
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Evidence Before Planning
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Planning Engine provides:
+
+- Objective Planning
+- Execution Planning
+- Resource Planning
+- Capability Planning
+- Risk Planning
+- Strategic Planning
+
+---
+
+# Planning Sources
+
+Planning inputs may originate only from:
+
+- Approved User Requests
+- Workflow Engine
+- Recommendation Engine
+- Context Engine
+- Knowledge Engine
+- Runtime Engine
+- Policy Engine
+- Approved Business Rules
+
+Unknown planning sources are prohibited.
+
+---
+
+# Planning Pipeline
+
+Every planning request follows:
+
+Objective Definition
+
+↓
+
+Context Collection
+
+↓
+
+Capability Discovery
+
+↓
+
+Constraint Analysis
+
+↓
+
+Plan Generation
+
+↓
+
+Risk Assessment
+
+↓
+
+Verification
+
+↓
+
+Approval
+
+↓
+
+Execution Authorization
+
+↓
+
+Audit Recording
+
+---
+
+# Plan Components
+
+Every execution plan contains:
+
+- Plan ID
+- Objective
+- Scope
+- Required Skills
+- Required Resources
+- Dependencies
+- Risks
+- Success Criteria
+- Priority
+- Lifecycle Stage
+
+---
+
+# Plan Validation
+
+Before approval the framework validates:
+
+- Repository Integrity
+- AI Passport
+- Trust Tier
+- Capability Availability
+- Runtime Compatibility
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks planning.
+
+---
+
+# Planning Constraints
+
+The Planning Engine must never:
+
+- bypass Approval Gateway;
+- violate architectural rules;
+- ignore policy constraints;
+- exceed approved permissions;
+- create undocumented execution paths.
+
+---
+
+# Continuous Planning
+
+The framework continuously evaluates:
+
+- Plan Progress
+- Resource Availability
+- Dependency Status
+- Runtime Changes
+- Operational Risks
+- Execution Quality
+
+Continuous evaluation does not imply automatic plan modification.
+
+---
+
+# Failure Handling
+
+When planning validation fails:
+
+- reject plan;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Planning Audit
+
+Every planning operation records:
+
+- Plan ID
+- Objective
+- Skill Set
+- Priority
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Planning Engine remains synchronized with:
+
+- Workflow Engine
+- Pipeline Engine
+- Recommendation Engine
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Planning Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Planning Engine Framework establishes the universal planning architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to generate deterministic, enterprise-scale execution plans while preserving governance, architectural integrity, and operational excellence.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
