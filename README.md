@@ -2368,3 +2368,209 @@ The Permission Framework establishes a universal authorization model for every E
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# POLICIES.md
+
+# 💎 Enterprise IMPERIAL Skills Policy Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Policy Framework defines the mandatory operational rules governing every Enterprise IMPERIAL Skill.
+
+Policies establish consistent behaviour, engineering discipline, governance, security, and compliance across the entire repository.
+
+Every Enterprise IMPERIAL Skill must comply with every applicable policy.
+
+---
+
+# Policy Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Security By Design
+- Zero Trust
+- Least Privilege
+- Deny By Default
+- Explicit Authorization
+- Continuous Verification
+- Evidence Before Trust
+
+---
+
+# Policy Categories
+
+Policies are organized into the following domains.
+
+- Architecture
+- Governance
+- Security
+- Engineering
+- Verification
+- Permissions
+- Trust
+- Lifecycle
+- Audit
+- Compliance
+
+---
+
+# Architecture Policy
+
+Every implementation must preserve the approved architecture.
+
+Codex must never:
+
+- redefine architecture;
+- rename canonical components;
+- bypass architectural governance;
+- silently introduce incompatible changes.
+
+---
+
+# Security Policy
+
+Every Enterprise IMPERIAL Skill must:
+
+- authenticate;
+- authorize;
+- validate;
+- audit;
+- isolate;
+- protect confidential information.
+
+Security is mandatory.
+
+---
+
+# Engineering Policy
+
+Engineering standards require:
+
+- readable implementation;
+- modular design;
+- documentation;
+- deterministic behaviour;
+- maintainability;
+- traceable commits.
+
+---
+
+# Verification Policy
+
+Every Enterprise IMPERIAL Skill requires:
+
+- structural verification;
+- engineering verification;
+- security verification;
+- functional verification;
+- governance verification.
+
+Incomplete verification blocks production deployment.
+
+---
+
+# Permission Policy
+
+Permissions must:
+
+- follow Least Privilege;
+- be explicitly declared;
+- remain continuously monitored;
+- be revocable;
+- remain auditable.
+
+Hidden permissions are prohibited.
+
+---
+
+# Trust Policy
+
+Trust:
+
+- is earned;
+- is verified;
+- is monitored;
+- may be reduced;
+- may be revoked.
+
+Trust is never permanent.
+
+---
+
+# Lifecycle Policy
+
+Every Enterprise IMPERIAL Skill follows the approved lifecycle.
+
+No lifecycle stage may be skipped.
+
+Every transition requires governance and audit.
+
+---
+
+# Audit Policy
+
+Every significant operation must generate audit evidence.
+
+Audit records include:
+
+- approvals;
+- verification;
+- deployments;
+- trust changes;
+- policy changes;
+- lifecycle transitions.
+
+Audit history must remain immutable.
+
+---
+
+# Compliance Policy
+
+Every Enterprise IMPERIAL Skill must comply with:
+
+- repository standards;
+- governance standards;
+- security standards;
+- engineering standards;
+- architectural standards.
+
+Compliance is continuously evaluated.
+
+---
+
+# Repository Policy
+
+This repository is classified as:
+
+🔒 PRIVATE
+
+All engineering artifacts remain inside the private repository boundary.
+
+Public publication requires explicit approval.
+
+---
+
+# Continuous Improvement
+
+Policies evolve through governed architectural decisions.
+
+Improvements must strengthen:
+
+- engineering quality;
+- repository consistency;
+- operational safety;
+- maintainability.
+
+Architectural integrity must always be preserved.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
