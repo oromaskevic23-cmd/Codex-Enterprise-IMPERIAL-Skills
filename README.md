@@ -1168,3 +1168,198 @@ Every improvement must strengthen quality without violating approved architectur
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# REGISTRY.md
+
+# 💎 Enterprise IMPERIAL Skills Registry
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Enterprise IMPERIAL Skills Registry is the authoritative catalog of every governed Enterprise IMPERIAL Skill.
+
+No skill exists outside the Registry.
+
+---
+
+# Registry Objectives
+
+The Registry provides:
+
+- Skill Identification
+- Ownership
+- Version Control
+- Trust Management
+- Lifecycle Management
+- Dependency Tracking
+- Verification Status
+- Audit References
+
+---
+
+# Registry Rules
+
+Every Enterprise IMPERIAL Skill must be registered before:
+
+- engineering;
+- testing;
+- verification;
+- production deployment.
+
+Unregistered skills are prohibited.
+
+---
+
+# Skill Identity
+
+Each Skill must have a globally unique identifier.
+
+Example:
+
+EIS-000001
+
+The identifier never changes.
+
+---
+
+# Required Metadata
+
+Every registered skill must contain:
+
+- Skill ID
+- Canonical Name
+- Description
+- Owner
+- Responsible Team
+- Repository
+- Version
+- Status
+- Trust Tier
+- Permissions
+- Verification State
+- Dependencies
+- Compatible Agents
+- AI Passport Requirements
+- Approval Status
+- Lifecycle Stage
+- Audit Reference
+
+---
+
+# Skill Status
+
+Every skill must be exactly one of:
+
+- Draft
+- Engineering
+- Review
+- Verification
+- Approved
+- Production
+- Deprecated
+- Revoked
+- Archived
+
+---
+
+# Version Management
+
+Each Skill must follow semantic versioning.
+
+Examples:
+
+1.0.0
+
+1.1.0
+
+2.0.0
+
+Version history must remain permanent.
+
+---
+
+# Trust Registry
+
+Every Skill must record:
+
+- Current Trust Tier
+- Trust History
+- Verification Date
+- Reviewer
+- Approval Evidence
+
+---
+
+# Dependency Registry
+
+Dependencies must be explicitly declared.
+
+Hidden dependencies are prohibited.
+
+Dependency changes require verification.
+
+---
+
+# Permission Registry
+
+Each Skill must define:
+
+- Required Permissions
+- Restricted Permissions
+- Forbidden Permissions
+
+Permissions must follow Least Privilege.
+
+---
+
+# Verification Registry
+
+Verification records include:
+
+- Structural Validation
+- Security Validation
+- Policy Validation
+- Functional Validation
+- Integration Validation
+
+Incomplete verification blocks deployment.
+
+---
+
+# Audit Registry
+
+Registry changes must record:
+
+- Author
+- Timestamp
+- Change Reason
+- Previous Value
+- New Value
+
+History must never be deleted.
+
+---
+
+# Public / Private Boundary
+
+Registry data belongs to the PRIVATE engineering boundary.
+
+Public repositories may expose only explicitly approved metadata.
+
+---
+
+# Registry Integrity
+
+The Registry is the single source of truth.
+
+Repository files, manifests, policies, documentation and implementations must remain synchronized with the Registry.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
