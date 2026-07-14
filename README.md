@@ -3841,3 +3841,250 @@ The Lifecycle Specification establishes a universal operational lifecycle for ev
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_RUNTIME.md
+
+# 💎 Enterprise IMPERIAL Skills Runtime Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Runtime Framework defines how every Enterprise IMPERIAL Skill executes inside the IMPERIAL Core ecosystem.
+
+Runtime execution must always remain secure, deterministic, governed, and auditable.
+
+Execution never bypasses architecture.
+
+---
+
+# Runtime Principles
+
+The Runtime Framework follows:
+
+- Architecture Before Implementation
+- Zero Trust
+- Least Privilege
+- Deny By Default
+- AI Passport Validation
+- Approval Gateway
+- Continuous Monitoring
+
+---
+
+# Runtime Objectives
+
+The Runtime Framework provides:
+
+- Safe Execution
+- Deterministic Behaviour
+- Secure Isolation
+- Resource Management
+- Auditability
+- Runtime Governance
+
+---
+
+# Runtime Lifecycle
+
+Every Skill execution follows:
+
+Initialization
+
+↓
+
+Authentication
+
+↓
+
+Authorization
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Dependency Loading
+
+↓
+
+Execution
+
+↓
+
+Monitoring
+
+↓
+
+Audit Recording
+
+↓
+
+Completion
+
+---
+
+# Initialization
+
+Runtime initializes:
+
+- Skill Manifest
+- Runtime Profile
+- Dependencies
+- Policies
+- Configuration
+
+Initialization failure blocks execution.
+
+---
+
+# Authentication
+
+Every execution requires verified identity.
+
+Supported identities include:
+
+- HANTER
+- Nano Core Agents
+- Internal Services
+- Approved Automation
+
+Anonymous execution is prohibited.
+
+---
+
+# Authorization
+
+Authorization validates:
+
+- requested operation;
+- permission scope;
+- execution rights;
+- policy compliance.
+
+Authorization failure blocks execution.
+
+---
+
+# AI Passport Validation
+
+Runtime validates:
+
+- identity;
+- organization;
+- trust tier;
+- permissions;
+- operational status.
+
+Invalid AI Passports immediately terminate execution.
+
+---
+
+# Runtime Environment
+
+Every Skill executes inside an approved runtime.
+
+Runtime defines:
+
+- memory limits;
+- CPU limits;
+- GPU limits;
+- execution timeout;
+- retry policy;
+- sandbox profile.
+
+---
+
+# Sandbox
+
+Every Enterprise IMPERIAL Skill executes inside an isolated sandbox.
+
+Sandbox protects:
+
+- repository;
+- operating environment;
+- runtime resources;
+- external systems.
+
+Sandbox escape is prohibited.
+
+---
+
+# Monitoring
+
+Runtime continuously monitors:
+
+- CPU usage;
+- memory usage;
+- execution duration;
+- failures;
+- policy violations;
+- security events.
+
+---
+
+# Runtime Audit
+
+Every execution records:
+
+- Skill ID;
+- Version;
+- AI Passport;
+- Timestamp;
+- Runtime Profile;
+- Result;
+- Audit Reference.
+
+---
+
+# Runtime Failure
+
+If execution fails:
+
+- stop execution;
+- record evidence;
+- notify monitoring;
+- preserve audit;
+- prevent undefined behaviour.
+
+---
+
+# Runtime Security
+
+Runtime always enforces:
+
+- Zero Trust;
+- Least Privilege;
+- Deny By Default;
+- Explicit Authorization;
+- Continuous Verification.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Runtime documentation belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Runtime Framework becomes the universal execution standard for every Enterprise IMPERIAL Skill implemented by Codex throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
