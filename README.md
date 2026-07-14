@@ -16081,3 +16081,255 @@ The Session Engine Framework establishes the universal execution session archite
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_EXECUTION_CONTEXT_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Execution Context Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Execution Context Engine Framework governs how Enterprise IMPERIAL Skills establish, manage, isolate, synchronize, validate, and terminate execution contexts across the IMPERIAL Core ecosystem.
+
+Execution Context represents the complete operational environment required for deterministic execution.
+
+Every execution context must remain isolated, secure, reproducible, continuously verified, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Execution Context Before Runtime
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Execution Context Engine provides:
+
+- Context Creation
+- Context Isolation
+- Context Synchronization
+- Context Validation
+- Context Recovery
+- Context Governance
+
+---
+
+# Execution Context Definition
+
+Every execution context contains:
+
+- Context ID
+- Global UUID
+- Runtime ID
+- Session ID
+- AI Passport
+- Trust Tier
+- Execution Profile
+- Lifecycle Stage
+
+---
+
+# Context Components
+
+Every execution context includes:
+
+- Runtime Configuration
+- Identity Information
+- Permissions
+- Policies
+- Variables
+- Environment
+- Resource Allocation
+- Monitoring Profile
+
+Missing components are prohibited.
+
+---
+
+# Context Pipeline
+
+Every execution context follows:
+
+Request
+
+↓
+
+Identity Validation
+
+↓
+
+Authentication
+
+↓
+
+Authorization
+
+↓
+
+Context Assembly
+
+↓
+
+Policy Validation
+
+↓
+
+Runtime Binding
+
+↓
+
+Execution
+
+↓
+
+Monitoring
+
+↓
+
+Termination
+
+↓
+
+Audit Recording
+
+---
+
+# Context Validation
+
+Before activation the framework validates:
+
+- Repository Integrity
+- AI Passport
+- Runtime Compatibility
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Resource Availability
+
+Validation failure blocks activation.
+
+---
+
+# Context Isolation
+
+Every execution context maintains isolated:
+
+- Runtime
+- Memory
+- Environment Variables
+- Credentials
+- Permissions
+- Temporary Resources
+- Network Scope
+
+Cross-context access is prohibited.
+
+---
+
+# Context Synchronization
+
+The Execution Context Engine synchronizes with:
+
+- Runtime Engine
+- Session Engine
+- State Engine
+- Memory Engine
+- Context Engine
+- Verification Framework
+- Trust Framework
+- Audit Framework
+
+Synchronization remains deterministic.
+
+---
+
+# Context Recovery
+
+Recovery supports:
+
+- Context Reconstruction
+- Runtime Recovery
+- State Validation
+- Session Recovery
+- Resource Reallocation
+
+Recovery requires successful verification.
+
+---
+
+# Failure Handling
+
+When execution context validation fails:
+
+- reject activation;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Execution Context Audit
+
+Every execution context operation records:
+
+- Context ID
+- Runtime ID
+- Session ID
+- Lifecycle Event
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Execution Context Engine remains synchronized with:
+
+- Runtime Engine
+- Session Engine
+- Authentication Engine
+- Authorization Engine
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Execution Context Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Execution Context Engine Framework establishes the universal execution context architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to execute millions of enterprise AI capabilities within isolated, deterministic, secure, and fully governed execution environments.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
