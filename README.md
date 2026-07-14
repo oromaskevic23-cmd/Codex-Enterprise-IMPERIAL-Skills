@@ -1724,3 +1724,225 @@ The Enterprise IMPERIAL Skills Verification Framework becomes the global enginee
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# TRUST.md
+
+# 💎 Enterprise IMPERIAL Skills Trust Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Trust Framework governs how Enterprise IMPERIAL Skills earn, maintain, reduce, suspend, and revoke trust throughout their lifecycle.
+
+Trust is earned.
+
+Trust is never assumed.
+
+Trust is continuously verified.
+
+---
+
+# Trust Principles
+
+The framework follows:
+
+- Zero Trust
+- Evidence Before Trust
+- Least Privilege
+- Continuous Verification
+- Explicit Approval
+- Complete Auditability
+
+---
+
+# Trust Objectives
+
+The Trust Framework ensures:
+
+- Secure Skill Execution
+- Controlled Capability Growth
+- Transparent Decision Making
+- Continuous Risk Assessment
+- Engineering Integrity
+- Repository Consistency
+
+---
+
+# Trust Tiers
+
+Every Enterprise IMPERIAL Skill belongs to one Trust Tier.
+
+## T0
+
+Blocked
+
+Execution prohibited.
+
+---
+
+## T1
+
+Experimental
+
+Engineering environment only.
+
+No production execution.
+
+---
+
+## T2
+
+Verified
+
+Internal execution allowed.
+
+Restricted permissions.
+
+---
+
+## T3
+
+Production
+
+Approved for operational deployment.
+
+Continuous monitoring required.
+
+---
+
+## T4
+
+Critical
+
+Mission-critical capability.
+
+Highest verification requirements.
+
+Continuous supervision.
+
+---
+
+# Trust Requirements
+
+Trust is determined using:
+
+- Architecture Compliance
+- Verification Results
+- Security Review
+- Approval Status
+- Audit Evidence
+- Operational History
+
+No single factor is sufficient.
+
+---
+
+# Trust Increase
+
+Trust may increase only after:
+
+- successful verification;
+- successful testing;
+- governance approval;
+- repository validation;
+- audit confirmation.
+
+---
+
+# Trust Reduction
+
+Trust may be reduced when:
+
+- verification fails;
+- vulnerabilities appear;
+- policy violations occur;
+- unexpected behaviour is detected;
+- engineering quality decreases.
+
+---
+
+# Trust Suspension
+
+Immediate suspension occurs when:
+
+- severe security issues appear;
+- unauthorized modifications occur;
+- identity cannot be verified;
+- integrity cannot be guaranteed.
+
+Suspended Skills cannot execute.
+
+---
+
+# Trust Revocation
+
+Trust is permanently revoked when:
+
+- malicious behaviour is confirmed;
+- architectural integrity is lost;
+- governance is violated;
+- security requirements cannot be restored.
+
+Revoked Skills remain archived for audit.
+
+---
+
+# Continuous Trust
+
+Trust is continuously evaluated.
+
+Production deployment never guarantees permanent trust.
+
+Every execution may influence trust.
+
+---
+
+# AI Passport Integration
+
+Trust evaluation includes AI Passport validation.
+
+The AI Passport confirms:
+
+- identity;
+- organization;
+- permissions;
+- operational state;
+- authorized capabilities.
+
+Invalid AI Passports block execution.
+
+---
+
+# Repository Trust
+
+Repository trust depends upon:
+
+- documentation quality;
+- implementation quality;
+- verification completeness;
+- security posture;
+- governance compliance.
+
+---
+
+# Public / Private Boundary
+
+Trust records belong to the PRIVATE engineering repository.
+
+Only explicitly approved trust summaries may be published.
+
+---
+
+# Long-Term Vision
+
+The Enterprise IMPERIAL Skills Trust Framework establishes the universal trust model governing every professional capability implemented by Codex across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
