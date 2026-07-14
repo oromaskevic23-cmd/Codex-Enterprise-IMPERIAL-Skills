@@ -8927,3 +8927,211 @@ The Approval Engine Framework establishes the universal authorization architectu
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_CAPABILITY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Capability Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Capability Engine Framework governs how Enterprise IMPERIAL Skills define, expose, discover, evaluate, authorize, compose, and execute professional capabilities.
+
+A capability represents a governed professional function delivered through one or more Enterprise IMPERIAL Skills.
+
+Every capability must remain secure, deterministic, traceable, and architecture compliant.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Capability-Based Architecture
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Capability Engine provides:
+
+- Capability Registration
+- Capability Discovery
+- Capability Classification
+- Capability Authorization
+- Capability Composition
+- Capability Lifecycle Management
+
+---
+
+# Capability Definition
+
+Every capability contains:
+
+- Capability ID
+- Canonical Name
+- Description
+- Business Domain
+- Professional Domain
+- Version
+- Lifecycle Stage
+- Trust Tier
+
+---
+
+# Capability Sources
+
+Capabilities may be implemented by:
+
+- Single Enterprise Skill
+- Skill Composition
+- Workflow
+- Pipeline
+- Approved Automation
+
+Unregistered capabilities are prohibited.
+
+---
+
+# Capability Classification
+
+Every capability belongs to:
+
+- Professional Category
+- Business Category
+- Technical Category
+- Security Classification
+
+Multiple classifications are permitted.
+
+---
+
+# Capability Discovery
+
+The Capability Engine discovers capabilities through:
+
+- Registry
+- Catalog
+- Manifest
+- Metadata
+- Capability Index
+
+Only approved capabilities may be discovered.
+
+---
+
+# Capability Validation
+
+Before execution the Capability Engine validates:
+
+- Registration
+- Manifest
+- AI Passport
+- Trust Tier
+- Runtime Compatibility
+- Verification Status
+- Policy Compliance
+
+Validation failure blocks execution.
+
+---
+
+# Capability Composition
+
+Capabilities may combine:
+
+- Skills
+- Policies
+- Permissions
+- Runtime Profiles
+- Verification Rules
+
+Composition must remain deterministic.
+
+---
+
+# Capability Evolution
+
+Capability evolution requires:
+
+- engineering review;
+- governance approval;
+- verification;
+- repository synchronization;
+- audit recording.
+
+---
+
+# Failure Handling
+
+When capability validation fails:
+
+- deny execution;
+- preserve evidence;
+- notify monitoring;
+- record audit;
+- require engineering review.
+
+---
+
+# Capability Audit
+
+Every capability operation records:
+
+- Capability ID
+- Version
+- Runtime
+- AI Passport
+- Operation
+- Timestamp
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Capability Engine remains synchronized with:
+
+- Registry
+- Catalog
+- Manifest
+- Workflow
+- Pipeline
+- Runtime
+- Verification
+- Trust
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Capability Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Capability Engine Framework establishes the universal capability architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to discover, authorize, compose, govern, and execute millions of professional AI capabilities with enterprise-grade scalability, security, and architectural consistency.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
