@@ -7642,3 +7642,247 @@ The Automation Framework establishes the universal automation architecture for E
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_SCHEDULER.md
+
+# 💎 Enterprise IMPERIAL Skills Scheduler Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Scheduler Framework governs how Enterprise IMPERIAL Skills are scheduled, prioritized, delayed, resumed, retried, and coordinated across the IMPERIAL Core ecosystem.
+
+Scheduling guarantees predictable, deterministic, secure, and governed execution.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Scheduling
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Scheduler Framework provides:
+
+- Intelligent Scheduling
+- Priority Management
+- Resource Optimization
+- Runtime Coordination
+- Enterprise Scalability
+- Execution Predictability
+
+---
+
+# Scheduler Components
+
+Every scheduled task contains:
+
+- Schedule ID
+- Task ID
+- Skill ID
+- Priority
+- Runtime
+- Trigger
+- Owner
+- Status
+
+---
+
+# Scheduling Sources
+
+Scheduling requests may originate from:
+
+- HANTER
+- Executive Orchestrators
+- Domain Orchestrators
+- Approved Workflows
+- Approved Pipelines
+- Approved Automation
+- Approved Runtime Events
+
+Unauthorized scheduling is prohibited.
+
+---
+
+# Scheduling Pipeline
+
+Every scheduling request follows:
+
+Request
+
+↓
+
+Validation
+
+↓
+
+Priority Calculation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Runtime Selection
+
+↓
+
+Queue Assignment
+
+↓
+
+Execution
+
+↓
+
+Monitoring
+
+↓
+
+Audit Recording
+
+---
+
+# Priority Levels
+
+Supported priorities:
+
+Critical
+
+High
+
+Normal
+
+Low
+
+Background
+
+Priority calculation must remain deterministic.
+
+---
+
+# Queue Management
+
+The Scheduler maintains:
+
+- Ready Queue
+- Waiting Queue
+- Delayed Queue
+- Retry Queue
+- Completed Queue
+- Failed Queue
+
+Queue integrity must always be preserved.
+
+---
+
+# Retry Policy
+
+Retry execution requires:
+
+- approved retry policy;
+- runtime availability;
+- verification success;
+- governance compliance.
+
+Unlimited retries are prohibited.
+
+---
+
+# Scheduling Constraints
+
+The Scheduler must never:
+
+- bypass Approval Gateway;
+- bypass AI Passport validation;
+- ignore Trust Tier;
+- violate repository policies;
+- execute revoked Skills.
+
+---
+
+# Scheduler Monitoring
+
+Continuous monitoring includes:
+
+- Queue Size
+- Runtime Capacity
+- Execution Latency
+- Retry Count
+- Failure Rate
+- Resource Utilization
+
+---
+
+# Scheduler Audit
+
+Every scheduling decision records:
+
+- Schedule ID
+- Skill ID
+- Queue
+- Runtime
+- Priority
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Scheduler Framework remains synchronized with:
+
+- Registry
+- Catalog
+- Runtime
+- Workflow
+- Pipeline
+- Automation
+- Monitoring
+- Verification
+- Trust
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Scheduler architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Scheduler Framework establishes the universal scheduling architecture for Enterprise IMPERIAL Skills, enabling millions of governed AI capabilities to execute efficiently, predictably, and securely across the federated Multi-Orchestrator Architecture of the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
