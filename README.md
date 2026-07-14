@@ -9825,3 +9825,232 @@ The Context Engine Framework establishes the universal contextual intelligence a
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_MEMORY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Memory Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Memory Engine Framework governs how Enterprise IMPERIAL Skills create, store, retrieve, validate, synchronize, retain, and retire operational knowledge throughout the IMPERIAL Core ecosystem.
+
+Memory is an enterprise architectural asset.
+
+Every memory object must remain trusted, governed, versioned, searchable, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Memory Before Reasoning
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Memory Engine provides:
+
+- Memory Registration
+- Memory Retrieval
+- Memory Persistence
+- Memory Synchronization
+- Memory Governance
+- Knowledge Continuity
+
+---
+
+# Memory Categories
+
+Supported memory categories include:
+
+- Identity Memory
+- Runtime Memory
+- Skill Memory
+- Workflow Memory
+- Business Memory
+- Knowledge Memory
+- Audit Memory
+- Historical Memory
+- Learning Memory
+
+---
+
+# Memory Sources
+
+Memory may originate only from:
+
+- Approved Skills
+- Runtime Engine
+- Workflow Engine
+- Pipeline Engine
+- Monitoring Framework
+- Verification Framework
+- Audit Framework
+- Registry
+
+Unknown memory sources are prohibited.
+
+---
+
+# Memory Lifecycle
+
+Every memory object follows:
+
+Creation
+
+↓
+
+Validation
+
+↓
+
+Classification
+
+↓
+
+Storage
+
+↓
+
+Synchronization
+
+↓
+
+Usage
+
+↓
+
+Retention
+
+↓
+
+Archive
+
+↓
+
+Retirement
+
+---
+
+# Memory Validation
+
+Before storage the framework validates:
+
+- Source Authenticity
+- Repository Integrity
+- Trust Tier
+- AI Passport
+- Policy Compliance
+- Classification
+- Verification Status
+
+Invalid memory is rejected.
+
+---
+
+# Memory Retrieval
+
+Memory retrieval validates:
+
+- Identity
+- Permissions
+- AI Passport
+- Context
+- Trust Tier
+- Repository Policies
+
+Unauthorized retrieval is prohibited.
+
+---
+
+# Memory Synchronization
+
+The Memory Engine synchronizes with:
+
+- Context Engine
+- State Engine
+- Runtime Engine
+- Registry
+- Verification
+- Monitoring
+- Trust
+- Audit
+
+Synchronization remains deterministic.
+
+---
+
+# Memory Protection
+
+Every memory object is protected through:
+
+- Access Control
+- Encryption
+- Version Control
+- Integrity Validation
+- Continuous Monitoring
+
+Memory corruption is prohibited.
+
+---
+
+# Failure Handling
+
+When memory validation fails:
+
+- reject storage;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Memory Audit
+
+Every memory operation records:
+
+- Memory ID
+- Skill ID
+- Operation
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Memory Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Memory Engine Framework establishes the universal enterprise memory architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to preserve, govern, synchronize, and continuously evolve trusted organizational knowledge at enterprise scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
