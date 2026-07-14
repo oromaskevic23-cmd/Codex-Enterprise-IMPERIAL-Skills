@@ -10717,3 +10717,244 @@ The Learning Engine Framework establishes the universal governed learning archit
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_EVOLUTION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Evolution Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Evolution Engine Framework governs how Enterprise IMPERIAL Skills evolve over time while preserving architectural integrity, governance, security, interoperability, and long-term stability.
+
+Evolution is intentional.
+
+Evolution is governed.
+
+Evolution never bypasses architecture.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Controlled Evolution
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Evidence Before Change
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Evolution Engine provides:
+
+- Capability Evolution
+- Architecture Evolution
+- Knowledge Evolution
+- Compatibility Preservation
+- Controlled Modernization
+- Enterprise Sustainability
+
+---
+
+# Evolution Sources
+
+Evolution proposals may originate from:
+
+- Engineering Review
+- Learning Engine
+- Monitoring Framework
+- Verification Framework
+- Knowledge Engine
+- Approved Research
+- Governance Review
+- Architect Decisions
+
+Unauthorized evolution sources are prohibited.
+
+---
+
+# Evolution Pipeline
+
+Every evolution request follows:
+
+Proposal
+
+↓
+
+Evidence Collection
+
+↓
+
+Impact Analysis
+
+↓
+
+Architecture Review
+
+↓
+
+Verification
+
+↓
+
+Governance Approval
+
+↓
+
+Implementation
+
+↓
+
+Deployment
+
+↓
+
+Audit Recording
+
+---
+
+# Evolution Categories
+
+Supported evolution categories include:
+
+- Capability Evolution
+- Performance Evolution
+- Security Evolution
+- Architecture Evolution
+- Runtime Evolution
+- Documentation Evolution
+- Knowledge Evolution
+
+---
+
+# Evolution Validation
+
+Before implementation the framework validates:
+
+- Repository Integrity
+- Architecture Consistency
+- Trust Tier
+- AI Passport
+- Policy Compliance
+- Verification Status
+- Dependency Compatibility
+
+Validation failure blocks evolution.
+
+---
+
+# Evolution Constraints
+
+The Evolution Engine must never:
+
+- violate architectural principles;
+- bypass Approval Gateway;
+- reduce security;
+- weaken governance;
+- create undocumented behaviour;
+- break deterministic execution.
+
+---
+
+# Compatibility Preservation
+
+Evolution must preserve:
+
+- Repository Consistency
+- Manifest Compatibility
+- Runtime Compatibility
+- Workflow Compatibility
+- API Compatibility
+- Skill Compatibility
+
+Breaking compatibility requires explicit architectural approval.
+
+---
+
+# Continuous Evolution
+
+The framework continuously evaluates:
+
+- Technology Improvements
+- Engineering Opportunities
+- Runtime Efficiency
+- Security Improvements
+- Knowledge Expansion
+- Operational Excellence
+
+Continuous evaluation does not imply automatic implementation.
+
+---
+
+# Failure Handling
+
+When evolution validation fails:
+
+- reject proposal;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Evolution Audit
+
+Every evolution operation records:
+
+- Evolution ID
+- Skill ID
+- Proposal
+- Decision
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Evolution Engine remains synchronized with:
+
+- Learning Engine
+- Knowledge Engine
+- Verification
+- Monitoring
+- Trust
+- Runtime
+- Registry
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Evolution Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Evolution Engine Framework establishes the universal controlled evolution architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to continuously modernize and improve while preserving enterprise governance, architectural integrity, and long-term sustainability.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
