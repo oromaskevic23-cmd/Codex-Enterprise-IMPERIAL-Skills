@@ -11858,3 +11858,243 @@ The Insight Engine Framework establishes the universal engineering insight archi
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_RECOMMENDATION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Recommendation Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Recommendation Engine Framework governs how Enterprise IMPERIAL Skills generate professional recommendations based on verified operational evidence, engineering knowledge, runtime analytics, and governance policies.
+
+Recommendations assist decision-making.
+
+Recommendations never execute actions autonomously.
+
+Every recommendation must remain explainable, verifiable, governed, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Evidence Before Recommendation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explainable Intelligence
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Recommendation Engine provides:
+
+- Engineering Recommendations
+- Operational Recommendations
+- Security Recommendations
+- Runtime Recommendations
+- Governance Recommendations
+- Strategic Recommendations
+
+---
+
+# Recommendation Sources
+
+Recommendations may originate only from:
+
+- Analytics Engine
+- Insight Engine
+- Intelligence Engine
+- Monitoring Framework
+- Verification Framework
+- Knowledge Engine
+- Audit Framework
+- Approved Engineering Reviews
+
+Unknown recommendation sources are prohibited.
+
+---
+
+# Recommendation Pipeline
+
+Every recommendation request follows:
+
+Evidence Collection
+
+↓
+
+Validation
+
+↓
+
+Correlation
+
+↓
+
+Context Analysis
+
+↓
+
+Recommendation Generation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Engineering Review
+
+↓
+
+Audit Recording
+
+---
+
+# Recommendation Categories
+
+Supported recommendation categories include:
+
+- Architecture
+- Engineering
+- Runtime
+- Security
+- Governance
+- Performance
+- Optimization
+- Operations
+
+---
+
+# Recommendation Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Evidence Authenticity
+- AI Passport
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Architectural Consistency
+
+Validation failure blocks publication.
+
+---
+
+# Recommendation Priority
+
+Every recommendation receives one priority level:
+
+- Critical
+- High
+- Medium
+- Low
+- Informational
+
+Priority assignment must remain deterministic.
+
+---
+
+# Recommendation Constraints
+
+The Recommendation Engine must never:
+
+- bypass governance;
+- modify architecture;
+- change repository contents;
+- approve deployments;
+- override Approval Gateway;
+- execute Skills autonomously.
+
+Recommendations require explicit approval before implementation.
+
+---
+
+# Continuous Recommendation
+
+The framework continuously evaluates:
+
+- Engineering Quality
+- Runtime Efficiency
+- Resource Utilization
+- Security Posture
+- Operational Trends
+- Knowledge Growth
+
+Continuous evaluation does not imply automatic execution.
+
+---
+
+# Failure Handling
+
+When recommendation validation fails:
+
+- reject recommendation;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Recommendation Audit
+
+Every recommendation records:
+
+- Recommendation ID
+- Skill ID
+- Category
+- Priority
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Recommendation Engine remains synchronized with:
+
+- Analytics Engine
+- Insight Engine
+- Intelligence Engine
+- Knowledge Engine
+- Verification Framework
+- Monitoring Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Recommendation Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Recommendation Engine Framework establishes the universal recommendation architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to produce trusted, explainable, enterprise-scale recommendations while preserving governance, architectural integrity, and human-controlled decision making.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
