@@ -6408,3 +6408,180 @@ The Dependency Graph Framework establishes the universal relationship model for 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_COMPOSITION.md
+
+# 💎 Enterprise IMPERIAL Skills Composition Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Composition Framework defines how multiple Enterprise IMPERIAL Skills are combined into governed, reusable, scalable, and deterministic capability pipelines.
+
+A Composition is not a new Skill.
+
+It is an approved orchestration of existing governed Skills.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Dependencies
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Composition Framework provides:
+
+- Skill Reusability
+- Capability Orchestration
+- Workflow Standardization
+- Engineering Consistency
+- Modular Execution
+- Enterprise Scalability
+
+---
+
+# Composition Definition
+
+A Composition contains:
+
+- Composition ID
+- Canonical Name
+- Description
+- Owner
+- Version
+- Status
+- Lifecycle Stage
+- Trust Tier
+
+Every Composition must be registered.
+
+---
+
+# Composition Components
+
+A Composition may include:
+
+- Enterprise Skills
+- Runtime Policies
+- Verification Rules
+- Permission Policies
+- Approval Rules
+- Monitoring Policies
+- Audit Requirements
+
+No unregistered component may participate.
+
+---
+
+# Execution Order
+
+Every Composition defines:
+
+- Execution Sequence
+- Parallel Execution
+- Conditional Execution
+- Retry Rules
+- Failure Rules
+- Completion Rules
+
+Execution order must remain deterministic.
+
+---
+
+# Composition Validation
+
+Before execution the framework validates:
+
+- Skill Registration
+- Dependency Graph
+- Manifest Compatibility
+- AI Passport
+- Permission Model
+- Runtime Compatibility
+- Trust Tier
+- Verification Status
+
+Validation failure blocks execution.
+
+---
+
+# Failure Handling
+
+When a Composition fails:
+
+- stop affected execution;
+- preserve evidence;
+- isolate failed component;
+- notify monitoring;
+- record audit;
+- evaluate rollback.
+
+Undefined recovery is prohibited.
+
+---
+
+# Composition Audit
+
+Every Composition execution records:
+
+- Composition ID
+- Version
+- Skills Used
+- Runtime
+- AI Passport
+- Execution Result
+- Timestamp
+- Audit Reference
+
+Audit evidence remains immutable.
+
+---
+
+# Repository Synchronization
+
+Every Composition remains synchronized with:
+
+- Registry
+- Catalog
+- Manifest
+- Dependency Graph
+- Runtime Framework
+- Verification Framework
+- Audit Framework
+
+Repository inconsistency is prohibited.
+
+---
+
+# Public / Private Boundary
+
+Composition architecture belongs exclusively to the PRIVATE engineering repository.
+
+Internal orchestration logic must never be exposed publicly.
+
+---
+
+# Long-Term Vision
+
+The Composition Framework establishes the universal orchestration model for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to assemble complex professional capabilities from governed reusable Skills while preserving architectural consistency, security, and enterprise scalability.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
