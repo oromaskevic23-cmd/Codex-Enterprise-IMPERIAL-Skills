@@ -2947,3 +2947,288 @@ The Audit Framework establishes the permanent engineering memory of Enterprise I
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_TEMPLATE.md
+
+# 💎 Enterprise IMPERIAL Skill Template
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Purpose
+
+This document defines the mandatory template used by every Enterprise IMPERIAL Skill.
+
+No Skill may exist without following this structure.
+
+---
+
+# Skill Identity
+
+Skill ID:
+
+Canonical Name:
+
+Category:
+
+Version:
+
+Status:
+
+Lifecycle Stage:
+
+Trust Tier:
+
+---
+
+# Ownership
+
+Owner:
+
+Responsible Team:
+
+Repository:
+
+Approval Authority:
+
+---
+
+# Description
+
+Purpose
+
+Objectives
+
+Business Value
+
+Professional Domain
+
+---
+
+# Compatible Components
+
+Compatible With
+
+- HANTER
+- Nano Core Agents
+- Legion
+- ORION
+
+Other Components
+
+---
+
+# AI Passport Requirements
+
+Required Identity
+
+Required Trust Tier
+
+Required Permissions
+
+Required Organization
+
+Required Capability Scope
+
+---
+
+# Required Permissions
+
+Read
+
+Write
+
+Execute
+
+Network
+
+Storage
+
+External Services
+
+Administrative
+
+---
+
+# Forbidden Permissions
+
+The Skill must explicitly declare prohibited permissions.
+
+Undeclared permissions are denied.
+
+---
+
+# Dependencies
+
+Internal Dependencies
+
+External Dependencies
+
+Runtime Dependencies
+
+Policy Dependencies
+
+---
+
+# Inputs
+
+Accepted Input Types
+
+Validation Rules
+
+Input Limits
+
+Security Requirements
+
+---
+
+# Outputs
+
+Output Types
+
+Validation
+
+Formatting
+
+Security Classification
+
+---
+
+# Runtime Profile
+
+Execution Environment
+
+Sandbox Profile
+
+Memory Requirements
+
+CPU Requirements
+
+GPU Requirements
+
+Timeout
+
+Retry Policy
+
+---
+
+# Security
+
+Authentication
+
+Authorization
+
+Encryption
+
+Audit
+
+Isolation
+
+Threat Protection
+
+---
+
+# Verification
+
+Required Verification Gates
+
+G1
+
+G2
+
+G3
+
+G4
+
+G5
+
+Verification Evidence
+
+---
+
+# Trust
+
+Assigned Trust Tier
+
+Trust Requirements
+
+Trust Restrictions
+
+Trust Monitoring
+
+---
+
+# Lifecycle
+
+Current Stage
+
+Upgrade Rules
+
+Rollback Rules
+
+Deprecation Policy
+
+Archive Policy
+
+---
+
+# Audit
+
+Every execution records
+
+- Timestamp
+- Skill Version
+- AI Passport
+- Permissions Used
+- Result
+- Audit Reference
+
+---
+
+# Repository References
+
+Manifest
+
+Policy
+
+Permissions
+
+Verification
+
+Registry
+
+Documentation
+
+---
+
+# Production Readiness Checklist
+
+Architecture Approved
+
+Governance Approved
+
+Verification Passed
+
+Security Approved
+
+Documentation Complete
+
+Audit Enabled
+
+Approval Gateway Authorized
+
+Repository Synchronized
+
+---
+
+# Long-Term Objective
+
+Every Enterprise IMPERIAL Skill must follow this template to ensure architectural consistency, engineering quality, governance, verification, traceability, and production readiness across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
