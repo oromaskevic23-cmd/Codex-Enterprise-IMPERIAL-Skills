@@ -1525,3 +1525,202 @@ The Enterprise IMPERIAL Skills Manifest becomes the universal engineering standa
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# VERIFICATION.md
+
+# 💎 Enterprise IMPERIAL Skills Verification Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+Verification guarantees that every Enterprise IMPERIAL Skill satisfies the architectural, engineering, security, and governance requirements before entering production.
+
+Verification is mandatory.
+
+No Enterprise IMPERIAL Skill may bypass verification.
+
+---
+
+# Verification Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Security Before Deployment
+- Evidence Before Trust
+- Repeatable Validation
+- Deterministic Results
+- Complete Auditability
+
+---
+
+# Verification Gates
+
+Every Enterprise IMPERIAL Skill must successfully pass the following gates.
+
+## Gate G1
+
+Structural Verification
+
+Validates:
+
+- Repository Structure
+- Documentation
+- Manifest
+- Metadata
+- Version
+
+---
+
+## Gate G2
+
+Security Verification
+
+Validates:
+
+- Permissions
+- Policies
+- Zero Trust Compliance
+- Least Privilege
+- Sandbox Configuration
+
+---
+
+## Gate G3
+
+Engineering Verification
+
+Validates:
+
+- Implementation
+- Code Quality
+- Reliability
+- Dependencies
+- Error Handling
+
+---
+
+## Gate G4
+
+Functional Verification
+
+Validates:
+
+- Expected Behaviour
+- Inputs
+- Outputs
+- Integration
+- Regression
+
+---
+
+## Gate G5
+
+Approval Verification
+
+Validates:
+
+- Approval Gateway
+- Repository Governance
+- Audit Evidence
+- Production Readiness
+
+---
+
+# Verification Results
+
+Each verification produces one result.
+
+PASS
+
+WARNING
+
+FAILED
+
+BLOCKED
+
+Only PASS allows production deployment.
+
+---
+
+# Verification Evidence
+
+Every verification must record:
+
+- Verification ID
+- Skill ID
+- Version
+- Date
+- Reviewer
+- Result
+- Evidence
+- Notes
+
+Evidence must remain permanently available.
+
+---
+
+# Reverification
+
+Reverification is required after:
+
+- implementation changes;
+- dependency updates;
+- security updates;
+- permission changes;
+- trust modifications;
+- architecture updates.
+
+---
+
+# Failure Policy
+
+If any mandatory verification fails:
+
+- deployment stops;
+- trust is not increased;
+- approval is denied;
+- issue is recorded;
+- engineering continues after correction.
+
+---
+
+# Trust Relationship
+
+Trust is earned through successful verification.
+
+Trust cannot be self-assigned.
+
+Trust may be reduced after failed verification.
+
+---
+
+# Continuous Verification
+
+Verification continues during the entire lifecycle.
+
+Production status does not eliminate future verification requirements.
+
+---
+
+# Public / Private Boundary
+
+Verification evidence belongs to the PRIVATE engineering boundary.
+
+Only explicitly approved summaries may appear in public repositories.
+
+---
+
+# Long-Term Vision
+
+The Enterprise IMPERIAL Skills Verification Framework becomes the global engineering quality standard for every governed Enterprise IMPERIAL Skill implemented by Codex throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
