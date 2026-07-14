@@ -1363,3 +1363,165 @@ Repository files, manifests, policies, documentation and implementations must re
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# MANIFEST.md
+
+# 💎 Enterprise IMPERIAL Skills Manifest Standard
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+Every Enterprise IMPERIAL Skill must be described by a standardized manifest.
+
+The manifest is the official machine-readable identity of the skill.
+
+A skill without a manifest is not a valid Enterprise IMPERIAL Skill.
+
+---
+
+# Manifest Purpose
+
+The manifest enables:
+
+- Skill Identification
+- Version Control
+- Dependency Management
+- Permission Management
+- Trust Validation
+- Runtime Configuration
+- Verification
+- Automation
+- Registry Synchronization
+
+---
+
+# Mandatory Manifest Fields
+
+Every manifest must contain:
+
+- Skill ID
+- Canonical Name
+- Version
+- Description
+- Category
+- Owner
+- Responsible Team
+- Repository
+- Status
+- Trust Tier
+- AI Passport Requirements
+- Dependencies
+- Required Permissions
+- Restricted Permissions
+- Verification State
+- Lifecycle Stage
+
+---
+
+# Optional Fields
+
+A manifest may additionally contain:
+
+- Tags
+- Runtime Profile
+- Compatible Models
+- Memory Requirements
+- CPU Requirements
+- GPU Requirements
+- Network Policy
+- Sandbox Profile
+- External Integrations
+- Documentation References
+
+---
+
+# Manifest Integrity
+
+Every manifest must be:
+
+- valid;
+- complete;
+- deterministic;
+- version controlled;
+- synchronized with the Registry.
+
+---
+
+# Manifest Validation
+
+Before deployment the manifest must pass:
+
+- schema validation;
+- metadata validation;
+- dependency validation;
+- permission validation;
+- trust validation;
+- repository validation.
+
+---
+
+# Manifest Versioning
+
+Manifest versions follow Semantic Versioning.
+
+Examples:
+
+1.0.0
+
+1.1.0
+
+2.0.0
+
+Older manifest versions remain archived.
+
+---
+
+# Registry Synchronization
+
+Every manifest must remain synchronized with:
+
+- Registry
+- Documentation
+- Verification
+- Audit Ledger
+- Repository Structure
+
+No divergence is permitted.
+
+---
+
+# Security Requirements
+
+A manifest must never contain:
+
+- passwords;
+- API keys;
+- private tokens;
+- secrets;
+- confidential credentials.
+
+Sensitive information belongs outside the manifest.
+
+---
+
+# Public / Private Boundary
+
+Manifest files belong to the PRIVATE engineering repository.
+
+Only explicitly approved public metadata may be published externally.
+
+---
+
+# Long-Term Vision
+
+The Enterprise IMPERIAL Skills Manifest becomes the universal engineering standard used by Codex for every governed Enterprise IMPERIAL Skill across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
