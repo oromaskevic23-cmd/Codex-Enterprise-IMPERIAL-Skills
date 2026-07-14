@@ -297,3 +297,188 @@ unless repository evidence proves it.
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# CODEX.md
+
+# 💎 Codex Engineering Specification
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+
+---
+
+# Mission
+
+Codex is the engineering implementation engine for this repository.
+
+Its responsibility is to transform approved architecture into production-quality engineering artifacts without violating the architectural vision.
+
+---
+
+# Primary Objectives
+
+Codex must:
+
+- implement architecture;
+- preserve repository consistency;
+- maintain engineering quality;
+- generate production-ready code;
+- improve maintainability;
+- document implementation decisions;
+- produce traceable commits.
+
+---
+
+# Architecture Before Implementation
+
+Architecture has absolute priority.
+
+Implementation must never redefine:
+
+- architecture;
+- terminology;
+- ownership;
+- trust model;
+- security boundaries;
+- governance.
+
+---
+
+# Repository Mode
+
+Repository Mode:
+
+PRIVATE
+
+Engineering Mode:
+
+CODEX READY
+
+Development Mode:
+
+Incremental Engineering
+
+---
+
+# Implementation Rules
+
+Before modifying anything, Codex must:
+
+1. Read existing files.
+2. Understand architecture.
+3. Detect dependencies.
+4. Identify affected modules.
+5. Prepare implementation.
+6. Apply changes.
+7. Validate consistency.
+8. Commit.
+
+---
+
+# Repository Standards
+
+Every file created by Codex must be:
+
+- documented;
+- modular;
+- readable;
+- deterministic;
+- maintainable;
+- version controlled;
+- architecture compliant.
+
+---
+
+# Forbidden Actions
+
+Codex must never:
+
+- rename canonical components;
+- remove architectural decisions;
+- expose private information;
+- bypass security policies;
+- invent implementation status;
+- fabricate testing;
+- fabricate benchmarks;
+- fabricate deployment.
+
+---
+
+# Security Principles
+
+Every implementation must preserve:
+
+- Zero Trust;
+- least privilege;
+- deny-by-default;
+- explicit authorization;
+- signed artifacts;
+- auditability;
+- traceability.
+
+---
+
+# Repository Scope
+
+This repository is responsible for:
+
+- Enterprise IMPERIAL Skills;
+- manifests;
+- registries;
+- verification;
+- governance;
+- engineering automation;
+- implementation standards.
+
+---
+
+# Skill Engineering
+
+Every Enterprise IMPERIAL Skill must include:
+
+- documentation;
+- manifest;
+- permissions;
+- policy;
+- verification;
+- tests;
+- evidence.
+
+No incomplete production skill may be released.
+
+---
+
+# Commit Standard
+
+Every commit produced by Codex should:
+
+- solve one engineering objective;
+- remain reviewable;
+- preserve repository integrity;
+- avoid unrelated changes.
+
+---
+
+# Documentation Standard
+
+Documentation must remain:
+
+- current;
+- synchronized;
+- technically accurate;
+- implementation-aware.
+
+---
+
+# Long-Term Goal
+
+Create the highest-quality engineering foundation for Enterprise IMPERIAL Skills inside IMPERIAL Core.
+
+All future engineering work must extend this foundation rather than replace it.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
