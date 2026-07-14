@@ -12328,3 +12328,266 @@ The Planning Engine Framework establishes the universal planning architecture fo
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_TASK_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Task Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Task Engine Framework governs how Enterprise IMPERIAL Skills create, schedule, assign, execute, monitor, and complete professional tasks throughout the IMPERIAL Core ecosystem.
+
+Every task must remain deterministic, governed, secure, traceable, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Task Before Execution
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Task Engine provides:
+
+- Task Creation
+- Task Assignment
+- Task Scheduling
+- Task Execution
+- Task Coordination
+- Task Monitoring
+
+---
+
+# Task Sources
+
+Tasks may originate only from:
+
+- Workflow Engine
+- Planning Engine
+- Automation Framework
+- Scheduler Framework
+- HANTER
+- Approved User Requests
+- Approved Business Processes
+
+Unknown task sources are prohibited.
+
+---
+
+# Task Pipeline
+
+Every task follows:
+
+Task Creation
+
+↓
+
+Task Validation
+
+↓
+
+Priority Assignment
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Task Assignment
+
+↓
+
+Execution
+
+↓
+
+Monitoring
+
+↓
+
+Completion
+
+↓
+
+Audit Recording
+
+---
+
+# Task Definition
+
+Every task contains:
+
+- Task ID
+- Canonical Name
+- Description
+- Priority
+- Owner
+- Assigned Agent
+- Required Skills
+- Runtime Profile
+- Deadline
+- Status
+
+---
+
+# Task Validation
+
+Before execution the framework validates:
+
+- Repository Integrity
+- AI Passport
+- Trust Tier
+- Required Skills
+- Runtime Availability
+- Verification Status
+- Policy Compliance
+
+Validation failure blocks execution.
+
+---
+
+# Task Assignment
+
+Tasks are assigned using:
+
+- Professional Role
+- Skill Availability
+- Trust Tier
+- Runtime Capacity
+- Current Workload
+- Business Priority
+
+Assignment remains deterministic.
+
+---
+
+# Task Lifecycle
+
+Every task transitions through:
+
+Created
+
+↓
+
+Validated
+
+↓
+
+Assigned
+
+↓
+
+Scheduled
+
+↓
+
+Running
+
+↓
+
+Completed
+
+↓
+
+Archived
+
+Failure handling may occur at any stage.
+
+---
+
+# Task Monitoring
+
+Continuous monitoring evaluates:
+
+- Progress
+- Runtime Health
+- SLA Compliance
+- Resource Usage
+- Execution Quality
+- Completion Status
+
+---
+
+# Failure Handling
+
+When task execution fails:
+
+- pause execution;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Task Audit
+
+Every task operation records:
+
+- Task ID
+- Skill ID
+- Assigned Agent
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Task Engine remains synchronized with:
+
+- Planning Engine
+- Scheduler Framework
+- Workflow Framework
+- Runtime Engine
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Task Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Task Engine Framework establishes the universal task orchestration architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to coordinate millions of professional AI tasks with deterministic execution, enterprise governance, and global scalability.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
