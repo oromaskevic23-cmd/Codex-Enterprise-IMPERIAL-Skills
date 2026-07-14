@@ -13039,3 +13039,239 @@ The Service Engine Framework establishes the universal service architecture for 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_API_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills API Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The API Engine Framework governs how Enterprise IMPERIAL Skills expose, validate, secure, version, monitor, and govern programmable interfaces throughout the IMPERIAL Core ecosystem.
+
+Every API represents a governed enterprise contract.
+
+Every API must remain secure, deterministic, versioned, continuously verified, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- API-First Architecture
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The API Engine provides:
+
+- API Registration
+- API Discovery
+- API Governance
+- API Security
+- API Versioning
+- API Lifecycle Management
+
+---
+
+# API Definition
+
+Every API contains:
+
+- API ID
+- Canonical Name
+- Description
+- Version
+- Owner
+- Service Reference
+- Trust Tier
+- Lifecycle Stage
+
+---
+
+# API Sources
+
+APIs may expose:
+
+- Enterprise Skills
+- Services
+- Workflows
+- Pipelines
+- Runtime Operations
+- Approved Internal Systems
+
+Unregistered APIs are prohibited.
+
+---
+
+# API Request Pipeline
+
+Every API request follows:
+
+API Request
+
+↓
+
+Authentication
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Service Discovery
+
+↓
+
+Execution
+
+↓
+
+Response Validation
+
+↓
+
+Audit Recording
+
+---
+
+# API Validation
+
+Before execution the framework validates:
+
+- Repository Integrity
+- Manifest
+- Runtime Compatibility
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- API Contract
+
+Validation failure blocks execution.
+
+---
+
+# API Versioning
+
+Every API maintains:
+
+- Current Version
+- Supported Versions
+- Deprecated Versions
+- Compatibility Matrix
+
+Breaking changes require governance approval.
+
+---
+
+# API Security
+
+Every API enforces:
+
+- Authentication
+- Authorization
+- Rate Limiting
+- Input Validation
+- Output Validation
+- Audit Logging
+
+Anonymous execution is prohibited.
+
+---
+
+# API Monitoring
+
+Continuous monitoring evaluates:
+
+- Availability
+- Latency
+- Error Rate
+- Throughput
+- Security Events
+- Usage Statistics
+
+---
+
+# Failure Handling
+
+When API execution fails:
+
+- reject request;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# API Audit
+
+Every API operation records:
+
+- API ID
+- Request ID
+- Runtime
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The API Engine remains synchronized with:
+
+- Service Engine
+- Runtime Engine
+- Policy Engine
+- Verification Framework
+- Trust Framework
+- Monitoring Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+API Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The API Engine Framework establishes the universal programmable interface architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, Codex, and future IMPERIAL Core systems to securely expose and consume enterprise-grade AI capabilities through governed, scalable, and interoperable APIs.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
