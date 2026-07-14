@@ -3232,3 +3232,302 @@ Every Enterprise IMPERIAL Skill must follow this template to ensure architectura
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_MANIFEST_SCHEMA.md
+
+# 💎 Enterprise IMPERIAL Skills Manifest Schema
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Skill Manifest Schema defines the mandatory engineering structure used by every Enterprise IMPERIAL Skill.
+
+The schema guarantees consistency, automation, validation, governance, and interoperability across the entire IMPERIAL Core ecosystem.
+
+Every Skill Manifest must conform to this schema.
+
+---
+
+# Schema Objectives
+
+The Manifest Schema enables:
+
+- deterministic validation;
+- repository automation;
+- registry synchronization;
+- version compatibility;
+- AI Passport integration;
+- permission validation;
+- trust evaluation;
+- lifecycle management.
+
+---
+
+# Mandatory Fields
+
+Every Skill Manifest shall contain:
+
+Skill ID
+
+Canonical Name
+
+Version
+
+Description
+
+Category
+
+Owner
+
+Responsible Team
+
+Repository
+
+Status
+
+Lifecycle Stage
+
+Trust Tier
+
+AI Passport Requirements
+
+Permissions
+
+Dependencies
+
+Verification State
+
+Approval Status
+
+Audit Reference
+
+---
+
+# Identification
+
+Every Skill receives:
+
+- globally unique Skill ID;
+- canonical name;
+- semantic version;
+- immutable identity.
+
+Identity never changes.
+
+---
+
+# Ownership
+
+Each Manifest defines:
+
+Owner
+
+Responsible Team
+
+Approval Authority
+
+Repository
+
+Review Authority
+
+No anonymous ownership is permitted.
+
+---
+
+# Runtime Definition
+
+Runtime information includes:
+
+Execution Environment
+
+Sandbox Profile
+
+Execution Limits
+
+Memory Profile
+
+CPU Profile
+
+GPU Profile
+
+Network Policy
+
+Retry Policy
+
+Timeout Policy
+
+---
+
+# AI Passport Requirements
+
+The Manifest specifies:
+
+Required Identity
+
+Required Organization
+
+Required Trust Tier
+
+Required Role
+
+Capability Scope
+
+Execution Restrictions
+
+---
+
+# Permission Model
+
+Every Manifest explicitly declares:
+
+Required Permissions
+
+Optional Permissions
+
+Restricted Permissions
+
+Forbidden Permissions
+
+Hidden permissions are prohibited.
+
+---
+
+# Dependency Model
+
+Dependencies include:
+
+Internal Skills
+
+External Libraries
+
+Policies
+
+Verification Rules
+
+Repository References
+
+Every dependency must be versioned.
+
+---
+
+# Trust Definition
+
+Every Manifest specifies:
+
+Trust Tier
+
+Trust Requirements
+
+Trust Restrictions
+
+Trust Validation
+
+Trust History Reference
+
+---
+
+# Verification Definition
+
+Required Verification Gates
+
+G1
+
+G2
+
+G3
+
+G4
+
+G5
+
+Verification Evidence Reference
+
+---
+
+# Lifecycle Definition
+
+Lifecycle State
+
+Creation Date
+
+Last Review
+
+Approval Date
+
+Deprecation Date
+
+Archive Date
+
+---
+
+# Audit Definition
+
+Manifest changes generate:
+
+Audit ID
+
+Timestamp
+
+Reviewer
+
+Author
+
+Evidence
+
+Repository Version
+
+---
+
+# Validation Rules
+
+Every Manifest must successfully pass:
+
+Schema Validation
+
+Metadata Validation
+
+Permission Validation
+
+Dependency Validation
+
+Trust Validation
+
+Repository Validation
+
+Approval Validation
+
+---
+
+# Repository Synchronization
+
+Every Manifest remains synchronized with:
+
+Registry
+
+Documentation
+
+Policies
+
+Verification
+
+Audit Ledger
+
+Repository Structure
+
+Repository inconsistency is prohibited.
+
+---
+
+# Long-Term Vision
+
+The Skill Manifest Schema becomes the universal engineering contract for every Enterprise IMPERIAL Skill implemented by Codex throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
