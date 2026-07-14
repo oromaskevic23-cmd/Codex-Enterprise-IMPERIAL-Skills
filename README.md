@@ -16566,3 +16566,230 @@ The Runtime Profile Engine Framework establishes the universal runtime profile a
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_RESOURCE_POLICY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Resource Policy Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Resource Policy Engine Framework governs how Enterprise IMPERIAL Skills define, evaluate, enforce, and continuously verify enterprise resource policies across the IMPERIAL Core ecosystem.
+
+Resource policies determine how computing resources may be requested, allocated, consumed, shared, optimized, and reclaimed.
+
+No resource allocation may occur outside approved enterprise policies.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Policy Before Allocation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Least Privilege
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Resource Policy Engine provides:
+
+- Resource Policy Registration
+- Resource Policy Evaluation
+- Resource Allocation Governance
+- Resource Optimization Policies
+- Capacity Governance
+- Enterprise Resource Compliance
+
+---
+
+# Resource Policy Types
+
+Supported policy categories include:
+
+- CPU Policies
+- GPU Policies
+- Memory Policies
+- Storage Policies
+- Network Policies
+- Runtime Policies
+- Cost Policies
+- Priority Policies
+- Quota Policies
+
+---
+
+# Policy Sources
+
+Resource policies may originate only from:
+
+- Governance Framework
+- Policy Engine
+- Resource Manager
+- Runtime Engine
+- Architect Decisions
+- Approved Repository Policies
+
+Unauthorized policy sources are prohibited.
+
+---
+
+# Resource Policy Pipeline
+
+Every policy request follows:
+
+Policy Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Policy Discovery
+
+↓
+
+Policy Evaluation
+
+↓
+
+Resource Authorization
+
+↓
+
+Allocation Decision
+
+↓
+
+Runtime Enforcement
+
+↓
+
+Audit Recording
+
+---
+
+# Resource Policy Validation
+
+Before enforcement the framework validates:
+
+- Repository Integrity
+- Policy Integrity
+- Runtime Compatibility
+- Verification Status
+- Trust Tier
+- Governance Compliance
+- Capacity Availability
+
+Validation failure blocks allocation.
+
+---
+
+# Resource Policy Enforcement
+
+The framework enforces:
+
+- Allocation Limits
+- Consumption Limits
+- Time Limits
+- Runtime Limits
+- Organization Quotas
+- Team Quotas
+- Emergency Restrictions
+
+Policy violations immediately trigger governance actions.
+
+---
+
+# Continuous Policy Evaluation
+
+Continuous evaluation monitors:
+
+- Resource Consumption
+- Capacity Utilization
+- Runtime Behaviour
+- Cost Efficiency
+- Trust Changes
+- Policy Violations
+
+Policy evaluation remains active during execution.
+
+---
+
+# Failure Handling
+
+When policy validation fails:
+
+- deny allocation;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require governance review.
+
+---
+
+# Resource Policy Audit
+
+Every policy operation records:
+
+- Policy ID
+- Runtime ID
+- Resource Type
+- Decision
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Resource Policy Engine remains synchronized with:
+
+- Resource Manager
+- Runtime Engine
+- Scheduler Framework
+- Policy Engine
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Resource Policy Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Resource Policy Engine Framework establishes the universal enterprise resource governance architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to allocate, optimize, and govern enterprise computing resources securely, deterministically, and at global scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
