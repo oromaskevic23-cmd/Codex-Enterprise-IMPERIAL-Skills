@@ -16333,3 +16333,236 @@ The Execution Context Engine Framework establishes the universal execution conte
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_RUNTIME_PROFILE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Runtime Profile Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Runtime Profile Engine Framework governs how Enterprise IMPERIAL Skills define, validate, allocate, optimize, and govern execution profiles throughout the IMPERIAL Core ecosystem.
+
+A Runtime Profile represents the complete operational specification required for deterministic execution.
+
+Every Runtime Profile must remain versioned, reproducible, secure, continuously verified, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Runtime Profile Before Execution
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Runtime Profile Engine provides:
+
+- Runtime Profile Registration
+- Runtime Profile Validation
+- Runtime Profile Allocation
+- Runtime Profile Optimization
+- Runtime Profile Governance
+- Runtime Profile Lifecycle Management
+
+---
+
+# Runtime Profile Definition
+
+Every Runtime Profile contains:
+
+- Runtime Profile ID
+- Canonical Name
+- Version
+- Runtime Class
+- Execution Profile
+- Resource Profile
+- Trust Tier
+- Lifecycle Stage
+
+---
+
+# Runtime Profile Components
+
+Every Runtime Profile defines:
+
+- CPU Allocation
+- GPU Allocation
+- Memory Allocation
+- Storage Allocation
+- Network Limits
+- Timeout Policy
+- Retry Policy
+- Monitoring Profile
+- Logging Profile
+- Security Profile
+
+---
+
+# Runtime Profile Pipeline
+
+Every Runtime Profile follows:
+
+Profile Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Profile Selection
+
+↓
+
+Compatibility Validation
+
+↓
+
+Runtime Allocation
+
+↓
+
+Execution
+
+↓
+
+Monitoring
+
+↓
+
+Audit Recording
+
+---
+
+# Runtime Profile Validation
+
+Before activation the framework validates:
+
+- Repository Integrity
+- Runtime Compatibility
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Resource Availability
+- Execution Constraints
+
+Validation failure blocks activation.
+
+---
+
+# Runtime Profile Classes
+
+Supported Runtime Profile classes include:
+
+- Lightweight
+- Standard
+- Professional
+- High Performance
+- GPU Accelerated
+- Distributed
+- Mission Critical
+- Emergency Recovery
+
+Runtime classes are explicitly governed.
+
+---
+
+# Runtime Profile Optimization
+
+Continuous optimization evaluates:
+
+- CPU Efficiency
+- GPU Efficiency
+- Memory Usage
+- Network Performance
+- Execution Stability
+- Resource Cost
+
+Optimization requires governance approval.
+
+---
+
+# Failure Handling
+
+When Runtime Profile validation fails:
+
+- reject profile;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Runtime Profile Audit
+
+Every Runtime Profile operation records:
+
+- Runtime Profile ID
+- Runtime ID
+- Skill ID
+- Version
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Runtime Profile Engine remains synchronized with:
+
+- Runtime Engine
+- Resource Manager
+- Scheduler Framework
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Runtime Profile Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Runtime Profile Engine Framework establishes the universal runtime profile architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to execute enterprise AI capabilities through standardized, optimized, secure, and globally scalable runtime profiles.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
