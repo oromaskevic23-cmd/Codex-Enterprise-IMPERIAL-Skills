@@ -10493,3 +10493,227 @@ The Reasoning Engine Framework establishes the universal reasoning architecture 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_LEARNING_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Learning Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Learning Engine Framework governs how Enterprise IMPERIAL Skills improve through verified experience while preserving architectural consistency, governance, security, and deterministic behaviour.
+
+Learning is governed.
+
+Learning never bypasses architecture.
+
+Every improvement must remain explainable, verifiable, and auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Learning Under Governance
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Evidence Before Improvement
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Learning Engine provides:
+
+- Experience Collection
+- Performance Evaluation
+- Pattern Recognition
+- Controlled Improvement
+- Knowledge Expansion
+- Continuous Engineering Evolution
+
+---
+
+# Learning Sources
+
+Learning may originate only from:
+
+- Runtime Execution
+- Verification Results
+- Monitoring Framework
+- Audit Framework
+- Knowledge Engine
+- Memory Engine
+- Approved Human Feedback
+- Approved Benchmark Results
+
+Unknown learning sources are prohibited.
+
+---
+
+# Learning Pipeline
+
+Every learning cycle follows:
+
+Experience Collection
+
+↓
+
+Evidence Validation
+
+↓
+
+Pattern Analysis
+
+↓
+
+Knowledge Update
+
+↓
+
+Policy Verification
+
+↓
+
+Engineering Review
+
+↓
+
+Approval
+
+↓
+
+Deployment
+
+↓
+
+Audit Recording
+
+---
+
+# Learning Validation
+
+Before any improvement the framework validates:
+
+- Repository Integrity
+- Source Authenticity
+- Trust Tier
+- AI Passport
+- Policy Compliance
+- Verification Status
+- Architectural Consistency
+
+Validation failure blocks learning.
+
+---
+
+# Learning Constraints
+
+The Learning Engine must never:
+
+- modify immutable architecture;
+- bypass Approval Gateway;
+- bypass Verification Framework;
+- reduce security;
+- weaken governance;
+- create undocumented behaviour.
+
+---
+
+# Continuous Learning
+
+The framework continuously evaluates:
+
+- Execution Quality
+- Performance
+- Reliability
+- Error Patterns
+- Knowledge Gaps
+- Engineering Opportunities
+
+Continuous evaluation does not imply automatic modification.
+
+---
+
+# Learning Governance
+
+Every improvement requires:
+
+- engineering review;
+- governance approval;
+- verification;
+- repository synchronization;
+- audit recording.
+
+---
+
+# Failure Handling
+
+When learning validation fails:
+
+- reject improvement;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Learning Audit
+
+Every learning operation records:
+
+- Learning ID
+- Skill ID
+- Knowledge Source
+- Improvement
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Learning Engine remains synchronized with:
+
+- Knowledge Engine
+- Memory Engine
+- Reasoning Engine
+- Verification
+- Trust
+- Monitoring
+- Audit
+- Registry
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Learning Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Learning Engine Framework establishes the universal governed learning architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to continuously improve professional capabilities while preserving architectural integrity, security, and enterprise governance.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
