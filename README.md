@@ -12591,3 +12591,230 @@ The Task Engine Framework establishes the universal task orchestration architect
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_MISSION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Mission Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Mission Engine Framework governs how Enterprise IMPERIAL Skills transform strategic objectives into governed, executable missions across the IMPERIAL Core ecosystem.
+
+A mission represents a high-level enterprise objective executed through coordinated workflows, tasks, skills, and orchestrators.
+
+Every mission must remain deterministic, secure, governed, measurable, and fully auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Mission Before Execution
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Mission Engine provides:
+
+- Mission Planning
+- Mission Coordination
+- Mission Execution
+- Mission Supervision
+- Mission Evaluation
+- Mission Governance
+
+---
+
+# Mission Sources
+
+Missions may originate only from:
+
+- Architect
+- HANTER
+- Planning Engine
+- Approved Business Objectives
+- Approved Strategic Initiatives
+- Governance Decisions
+
+Unauthorized mission sources are prohibited.
+
+---
+
+# Mission Pipeline
+
+Every mission follows:
+
+Mission Definition
+
+↓
+
+Objective Validation
+
+↓
+
+Capability Planning
+
+↓
+
+Workflow Generation
+
+↓
+
+Task Distribution
+
+↓
+
+Execution
+
+↓
+
+Monitoring
+
+↓
+
+Mission Evaluation
+
+↓
+
+Audit Recording
+
+---
+
+# Mission Definition
+
+Every mission contains:
+
+- Mission ID
+- Canonical Name
+- Strategic Objective
+- Business Domain
+- Required Skills
+- Required Teams
+- Required Resources
+- Priority
+- Success Criteria
+- Lifecycle Stage
+
+---
+
+# Mission Validation
+
+Before execution the framework validates:
+
+- Repository Integrity
+- AI Passport
+- Trust Tier
+- Capability Availability
+- Runtime Capacity
+- Verification Status
+- Policy Compliance
+
+Validation failure blocks mission execution.
+
+---
+
+# Mission Coordination
+
+Mission coordination synchronizes:
+
+- Executive Orchestrators
+- Domain Orchestrators
+- Nano Core Agents
+- Professional Teams
+- Runtime Services
+- Workflow Engine
+
+Coordination remains deterministic.
+
+---
+
+# Mission Monitoring
+
+Continuous monitoring evaluates:
+
+- Progress
+- Objective Completion
+- Runtime Health
+- Resource Consumption
+- Operational Risks
+- Mission Success Indicators
+
+---
+
+# Failure Handling
+
+When mission execution fails:
+
+- stop affected operations;
+- preserve evidence;
+- isolate failures;
+- notify monitoring;
+- create audit record;
+- require governance review.
+
+---
+
+# Mission Audit
+
+Every mission records:
+
+- Mission ID
+- Objective
+- Responsible Orchestrator
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Mission Engine remains synchronized with:
+
+- Planning Engine
+- Workflow Engine
+- Task Engine
+- Runtime Engine
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Mission Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Mission Engine Framework establishes the universal mission orchestration architecture for Enterprise IMPERIAL Skills, enabling HANTTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to execute strategic enterprise missions through secure, deterministic, and globally scalable AI coordination.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
