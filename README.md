@@ -11634,3 +11634,227 @@ The Analytics Engine Framework establishes the universal analytics architecture 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_INSIGHT_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Insight Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Insight Engine Framework governs how Enterprise IMPERIAL Skills transform validated analytics, intelligence, observations, and operational evidence into actionable engineering insights.
+
+Insights support strategic engineering decisions.
+
+Insights never bypass governance.
+
+Every insight must remain explainable, reproducible, and continuously auditable.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Evidence Before Insight
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explainable Intelligence
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Insight Engine provides:
+
+- Engineering Insights
+- Operational Insights
+- Security Insights
+- Governance Insights
+- Performance Insights
+- Strategic Insights
+
+---
+
+# Insight Sources
+
+Insights may originate only from:
+
+- Analytics Engine
+- Intelligence Engine
+- Monitoring Framework
+- Observability Framework
+- Audit Framework
+- Verification Framework
+- Knowledge Engine
+- Runtime Engine
+
+Unknown insight sources are prohibited.
+
+---
+
+# Insight Pipeline
+
+Every insight request follows:
+
+Evidence Collection
+
+↓
+
+Validation
+
+↓
+
+Correlation
+
+↓
+
+Pattern Recognition
+
+↓
+
+Insight Generation
+
+↓
+
+Engineering Review
+
+↓
+
+Publication
+
+↓
+
+Audit Recording
+
+---
+
+# Insight Categories
+
+Supported insight categories include:
+
+- Architecture Insight
+- Engineering Insight
+- Runtime Insight
+- Performance Insight
+- Security Insight
+- Governance Insight
+- Strategic Insight
+
+---
+
+# Insight Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Evidence Authenticity
+- AI Passport
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Architectural Consistency
+
+Validation failure blocks publication.
+
+---
+
+# Insight Outputs
+
+The Insight Engine produces:
+
+- Engineering Recommendations
+- Operational Findings
+- Optimization Opportunities
+- Risk Indicators
+- Trend Summaries
+- Strategic Reports
+
+Insights remain advisory until approved.
+
+---
+
+# Continuous Insight
+
+The framework continuously evaluates:
+
+- Engineering Trends
+- Runtime Behaviour
+- Operational Efficiency
+- Security Posture
+- Knowledge Growth
+- System Evolution
+
+Continuous evaluation does not imply automatic implementation.
+
+---
+
+# Failure Handling
+
+When insight validation fails:
+
+- reject publication;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Insight Audit
+
+Every insight operation records:
+
+- Insight ID
+- Skill ID
+- Insight Category
+- Recommendation
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Insight Engine remains synchronized with:
+
+- Analytics Engine
+- Intelligence Engine
+- Knowledge Engine
+- Verification Framework
+- Monitoring Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Insight Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Insight Engine Framework establishes the universal engineering insight architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to generate trusted, explainable, enterprise-scale insights that support continuous engineering excellence and strategic decision-making.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
