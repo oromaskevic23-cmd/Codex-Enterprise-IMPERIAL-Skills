@@ -6968,3 +6968,224 @@ The Coordination Framework establishes the universal collaboration architecture 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_WORKFLOW.md
+
+# 💎 Enterprise IMPERIAL Skills Workflow Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Workflow Framework defines how Enterprise IMPERIAL Skills are organized into governed business workflows that deliver deterministic, secure, and repeatable execution across the IMPERIAL Core ecosystem.
+
+A workflow is an orchestrated sequence of approved Enterprise IMPERIAL Skills.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Workflow Determinism
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Workflow Framework provides:
+
+- Business Process Automation
+- Professional Workflow Execution
+- Cross-Agent Collaboration
+- Repeatable Operations
+- Workflow Governance
+- Enterprise Scalability
+
+---
+
+# Workflow Components
+
+Every workflow contains:
+
+- Workflow ID
+- Canonical Name
+- Version
+- Description
+- Owner
+- Responsible Team
+- Lifecycle Stage
+- Trust Tier
+
+---
+
+# Workflow Structure
+
+Every workflow consists of:
+
+- Entry Point
+- Input Validation
+- Skill Sequence
+- Decision Nodes
+- Parallel Branches
+- Synchronization Points
+- Exit Point
+
+Undefined workflow structures are prohibited.
+
+---
+
+# Workflow Execution
+
+Execution follows:
+
+Request
+
+↓
+
+Validation
+
+↓
+
+Workflow Selection
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Skill Execution
+
+↓
+
+Decision Evaluation
+
+↓
+
+Workflow Completion
+
+↓
+
+Audit Recording
+
+---
+
+# Decision Nodes
+
+Decision nodes evaluate:
+
+- Policies
+- Runtime State
+- Trust Tier
+- Skill Results
+- Business Rules
+- Approval Requirements
+
+Every decision must be deterministic.
+
+---
+
+# Parallel Execution
+
+Parallel execution is permitted only when:
+
+- dependencies are satisfied;
+- synchronization is defined;
+- runtime capacity is available;
+- auditability is preserved.
+
+---
+
+# Workflow Validation
+
+Every workflow must validate:
+
+- Skill Availability
+- Dependency Graph
+- Runtime Compatibility
+- Verification Status
+- Repository Consistency
+- Governance Rules
+
+Validation failure blocks execution.
+
+---
+
+# Failure Handling
+
+When workflow execution fails:
+
+- stop affected branch;
+- preserve execution state;
+- isolate failed components;
+- notify monitoring;
+- record audit evidence;
+- evaluate rollback.
+
+---
+
+# Workflow Audit
+
+Every workflow execution records:
+
+- Workflow ID
+- Version
+- Executed Skills
+- Runtime
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Workflow Framework remains synchronized with:
+
+- Registry
+- Catalog
+- Dependency Graph
+- Runtime
+- Monitoring
+- Verification
+- Trust
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Workflow architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Workflow Framework establishes the universal workflow architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to automate complex professional business processes with deterministic execution, enterprise governance, and unlimited scalability.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
