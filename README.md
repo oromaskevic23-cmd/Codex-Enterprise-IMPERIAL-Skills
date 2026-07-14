@@ -6024,3 +6024,196 @@ The Deployment Framework establishes the universal production deployment standar
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_COMPATIBILITY.md
+
+# 💎 Enterprise IMPERIAL Skills Compatibility Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Compatibility Framework defines how Enterprise IMPERIAL Skills maintain interoperability across the entire IMPERIAL Core ecosystem.
+
+Every Skill must remain compatible with approved repositories, runtime environments, AI agents, manifests, policies, and engineering standards.
+
+Compatibility is continuously validated.
+
+---
+
+# Compatibility Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Backward Compatibility
+- Forward Compatibility
+- Deterministic Behaviour
+- Continuous Verification
+- Repository Consistency
+- Complete Traceability
+
+---
+
+# Compatibility Objectives
+
+The Compatibility Framework provides:
+
+- Stable Integration
+- Predictable Behaviour
+- Safe Upgrades
+- Version Consistency
+- Repository Synchronization
+- Engineering Reliability
+
+---
+
+# Compatibility Scope
+
+Compatibility is evaluated for:
+
+- Enterprise IMPERIAL Skills
+- AI Passports
+- Skill Manifests
+- Registries
+- Policies
+- Permissions
+- Runtime
+- Verification
+- Audit
+- Repository Structure
+
+---
+
+# Version Compatibility
+
+Every Skill explicitly declares:
+
+- Minimum Supported Version
+- Recommended Version
+- Maximum Supported Version
+- Deprecated Versions
+
+Version ambiguity is prohibited.
+
+---
+
+# Runtime Compatibility
+
+Every Skill specifies compatibility with:
+
+- Runtime Version
+- Operating Environment
+- Sandbox Version
+- Execution Profile
+- Resource Requirements
+
+Unsupported runtimes are prohibited.
+
+---
+
+# AI Agent Compatibility
+
+Every Skill defines compatible execution for:
+
+- HANTER
+- Nano Core Agents
+- Legion
+- ORION
+- Approved Internal Services
+
+Unsupported agents may not execute the Skill.
+
+---
+
+# Dependency Compatibility
+
+Compatibility validates:
+
+- Internal Dependencies
+- External Libraries
+- Runtime Components
+- Shared Policies
+- Verification Modules
+
+All dependency versions must remain compatible.
+
+---
+
+# Manifest Compatibility
+
+Every Skill Manifest must remain synchronized with:
+
+- Registry
+- Version
+- Lifecycle
+- Trust Tier
+- Verification Status
+
+Manifest inconsistency blocks deployment.
+
+---
+
+# Compatibility Verification
+
+Compatibility verification includes:
+
+- Version Validation
+- Dependency Validation
+- Runtime Validation
+- Manifest Validation
+- Policy Validation
+- Repository Validation
+
+Verification failure blocks production.
+
+---
+
+# Continuous Compatibility
+
+Compatibility is continuously evaluated after:
+
+- repository updates;
+- runtime upgrades;
+- dependency changes;
+- policy modifications;
+- architecture revisions.
+
+---
+
+# Audit
+
+Every compatibility evaluation records:
+
+- Compatibility ID
+- Skill ID
+- Version
+- Runtime
+- Validation Result
+- Timestamp
+- Audit Reference
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Compatibility specifications belong exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Compatibility Framework establishes the universal interoperability standard for Enterprise IMPERIAL Skills, ensuring seamless integration, deterministic operation, secure upgrades, and long-term engineering stability across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
