@@ -7413,3 +7413,232 @@ The Pipeline Framework establishes the universal engineering pipeline architectu
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_AUTOMATION.md
+
+# 💎 Enterprise IMPERIAL Skills Automation Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Automation Framework defines how Enterprise IMPERIAL Skills execute automated engineering, operational, governance, and business activities while remaining secure, deterministic, governed, and continuously auditable.
+
+Automation never replaces governance.
+
+Automation executes only within approved architectural boundaries.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Deterministic Automation
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Automation Framework provides:
+
+- Business Automation
+- Engineering Automation
+- Operational Automation
+- Governance Automation
+- Secure Automation
+- Enterprise Scalability
+
+---
+
+# Automation Components
+
+Every automation contains:
+
+- Automation ID
+- Canonical Name
+- Description
+- Version
+- Owner
+- Responsible Team
+- Lifecycle Stage
+- Trust Tier
+
+---
+
+# Automation Trigger
+
+Automation may begin from:
+
+- Scheduled Event
+- Repository Event
+- Runtime Event
+- User Request
+- Approved Workflow
+- Approved Composition
+- Verified External Event
+
+Unauthorized triggers are prohibited.
+
+---
+
+# Automation Pipeline
+
+Every automation follows:
+
+Trigger
+
+↓
+
+Validation
+
+↓
+
+Authorization
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Skill Discovery
+
+↓
+
+Skill Execution
+
+↓
+
+Verification
+
+↓
+
+Monitoring
+
+↓
+
+Audit Recording
+
+---
+
+# Automation Validation
+
+Before execution the framework validates:
+
+- Trigger Authenticity
+- Repository Integrity
+- Manifest
+- Runtime Compatibility
+- Trust Tier
+- Verification Status
+- Policy Compliance
+
+Validation failure blocks automation.
+
+---
+
+# Automation Constraints
+
+Automation must never:
+
+- bypass Approval Gateway;
+- bypass AI Passport validation;
+- execute revoked Skills;
+- ignore repository policies;
+- modify immutable audit history;
+- exceed approved permissions.
+
+---
+
+# Automation Monitoring
+
+Every automation continuously reports:
+
+- Execution Status
+- Runtime Health
+- Resource Usage
+- Policy Compliance
+- Security Events
+- Completion Status
+
+---
+
+# Failure Handling
+
+When automation fails:
+
+- stop execution;
+- isolate affected runtime;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- await governed recovery.
+
+---
+
+# Automation Audit
+
+Every automation records:
+
+- Automation ID
+- Trigger
+- Skill Sequence
+- Runtime
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit evidence remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Automation Framework remains synchronized with:
+
+- Registry
+- Catalog
+- Runtime
+- Workflow
+- Pipeline
+- Monitoring
+- Verification
+- Trust
+- Audit
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Automation architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Automation Framework establishes the universal automation architecture for Enterprise IMPERIAL Skills, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to execute millions of governed automated operations securely, deterministically, and at enterprise scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
