@@ -5444,3 +5444,191 @@ The Sandbox Framework establishes the universal isolation architecture for Enter
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_MONITORING.md
+
+# 💎 Enterprise IMPERIAL Skills Monitoring Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Monitoring Framework continuously observes the health, security, performance, trust, governance, and operational state of every Enterprise IMPERIAL Skill.
+
+Monitoring never stops.
+
+Every Enterprise IMPERIAL Skill remains observable throughout its entire lifecycle.
+
+---
+
+# Monitoring Principles
+
+The framework follows:
+
+- Continuous Monitoring
+- Zero Trust
+- Evidence Before Trust
+- Deterministic Observation
+- Complete Auditability
+- Architecture Before Implementation
+
+---
+
+# Objectives
+
+The Monitoring Framework provides:
+
+- Runtime Visibility
+- Operational Health
+- Security Observation
+- Trust Monitoring
+- Performance Monitoring
+- Repository Awareness
+- Continuous Engineering Feedback
+
+---
+
+# Monitoring Scope
+
+Every Enterprise IMPERIAL Skill is monitored for:
+
+- Availability
+- Performance
+- Reliability
+- Security
+- Trust
+- Lifecycle
+- Verification Status
+- Repository Integrity
+
+---
+
+# Runtime Monitoring
+
+Runtime Monitoring records:
+
+- CPU Usage
+- GPU Usage
+- Memory Usage
+- Storage Usage
+- Network Activity
+- Execution Duration
+- Error Rate
+
+---
+
+# Security Monitoring
+
+Security Monitoring detects:
+
+- Unauthorized Access
+- Policy Violations
+- Permission Abuse
+- Sandbox Violations
+- Runtime Anomalies
+- Unexpected Behaviour
+
+---
+
+# Trust Monitoring
+
+Trust Monitoring continuously evaluates:
+
+- Trust Tier
+- Verification Status
+- Runtime Behaviour
+- Policy Compliance
+- Operational Stability
+
+Trust may increase, decrease, suspend, or revoke according to governance.
+
+---
+
+# Performance Monitoring
+
+Performance Monitoring measures:
+
+- Response Time
+- Throughput
+- Latency
+- Resource Efficiency
+- Execution Success Rate
+
+Performance degradation generates engineering recommendations.
+
+---
+
+# Health Monitoring
+
+Health Monitoring evaluates:
+
+- Runtime Availability
+- Dependency Health
+- Infrastructure Status
+- Manifest Consistency
+- Registry Synchronization
+
+---
+
+# Repository Monitoring
+
+Repository Monitoring verifies:
+
+- Documentation Consistency
+- Manifest Integrity
+- Policy Synchronization
+- Verification Completeness
+- Audit Availability
+
+Repository drift is prohibited.
+
+---
+
+# Alerting
+
+Monitoring generates alerts for:
+
+- Critical
+- High
+- Medium
+- Low
+- Informational
+
+Critical alerts require immediate investigation.
+
+---
+
+# Monitoring Audit
+
+Every monitoring event records:
+
+- Monitoring ID
+- Timestamp
+- Skill ID
+- Runtime
+- Severity
+- Result
+- Audit Reference
+
+---
+
+# Public / Private Boundary
+
+Monitoring architecture belongs exclusively to the PRIVATE engineering repository.
+
+Operational telemetry must never be publicly exposed.
+
+---
+
+# Long-Term Vision
+
+The Monitoring Framework establishes continuous operational awareness for every Enterprise IMPERIAL Skill, providing HANTER, Nano Core Agents, and future IMPERIAL Core systems with real-time engineering visibility, security intelligence, and governance assurance.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
