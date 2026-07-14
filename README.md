@@ -13975,3 +13975,226 @@ The Plugin Engine Framework establishes the universal plugin architecture for En
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_CONNECTOR_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Connector Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Connector Engine Framework governs how Enterprise IMPERIAL Skills securely connect to internal systems, external platforms, cloud services, APIs, databases, enterprise applications, and future AI ecosystems.
+
+Every Connector represents a governed integration boundary.
+
+No Connector may operate outside enterprise governance.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Connector-Driven Integration
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Authorization
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Connector Engine provides:
+
+- Connector Registration
+- Connector Discovery
+- Connector Authentication
+- Connector Execution
+- Connector Monitoring
+- Connector Governance
+
+---
+
+# Connector Definition
+
+Every Connector contains:
+
+- Connector ID
+- Canonical Name
+- Description
+- Version
+- Target System
+- Trust Tier
+- Lifecycle Stage
+
+---
+
+# Connector Types
+
+Supported connectors include:
+
+- REST API
+- GraphQL
+- Database
+- Message Queue
+- Cloud Service
+- File Storage
+- AI Provider
+- Enterprise System
+- Internal Service
+
+---
+
+# Connector Pipeline
+
+Every connector request follows:
+
+Connection Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Connector Authentication
+
+↓
+
+Execution
+
+↓
+
+Response Validation
+
+↓
+
+Audit Recording
+
+---
+
+# Connector Validation
+
+Before execution the framework validates:
+
+- Repository Integrity
+- Connector Manifest
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Runtime Compatibility
+- Target Availability
+
+Validation failure blocks execution.
+
+---
+
+# Connector Security
+
+Every connector enforces:
+
+- Authentication
+- Authorization
+- Encryption
+- Rate Limiting
+- Input Validation
+- Output Validation
+
+Unsecured connectors are prohibited.
+
+---
+
+# Connector Monitoring
+
+Continuous monitoring evaluates:
+
+- Availability
+- Latency
+- Throughput
+- Error Rate
+- Security Events
+- Connection Health
+
+---
+
+# Failure Handling
+
+When connector execution fails:
+
+- terminate connection;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Connector Audit
+
+Every connector operation records:
+
+- Connector ID
+- Target System
+- Runtime
+- AI Passport
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Connector Engine remains synchronized with:
+
+- API Engine
+- Service Engine
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Monitoring Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Connector Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Connector Engine Framework establishes the universal enterprise integration architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to securely connect with millions of internal and external services while preserving governance, security, interoperability, and enterprise-scale reliability.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
