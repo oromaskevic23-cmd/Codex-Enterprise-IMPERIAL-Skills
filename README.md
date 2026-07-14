@@ -4472,3 +4472,189 @@ The Versioning Framework establishes a universal engineering version control sta
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_CATALOG.md
+
+# 💎 Enterprise IMPERIAL Skills Catalog Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Enterprise IMPERIAL Skills Catalog is the centralized inventory of every governed professional Skill within the IMPERIAL Core ecosystem.
+
+The Catalog is the single discoverable source for all approved Enterprise IMPERIAL Skills.
+
+No production Skill may exist outside the Catalog.
+
+---
+
+# Catalog Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Single Source of Truth
+- Repository Consistency
+- Explicit Governance
+- Continuous Verification
+- Complete Traceability
+
+---
+
+# Catalog Objectives
+
+The Catalog provides:
+
+- Skill Discovery
+- Skill Classification
+- Capability Search
+- Engineering Visibility
+- Version Tracking
+- Trust Visibility
+- Lifecycle Tracking
+- Repository Navigation
+
+---
+
+# Catalog Categories
+
+Every Enterprise IMPERIAL Skill belongs to at least one category.
+
+Examples:
+
+- Architecture
+- Engineering
+- Security
+- Governance
+- AI
+- Automation
+- Finance
+- Research
+- Operations
+- DevOps
+- Infrastructure
+- Knowledge
+- Analytics
+- Compliance
+- Monitoring
+
+---
+
+# Catalog Entry
+
+Every Catalog record includes:
+
+- Skill ID
+- Canonical Name
+- Description
+- Category
+- Version
+- Status
+- Trust Tier
+- Lifecycle Stage
+- Repository Path
+- Owner
+- Responsible Team
+
+---
+
+# Search Requirements
+
+The Catalog supports search by:
+
+- Skill ID
+- Name
+- Category
+- Tags
+- Version
+- Trust Tier
+- Lifecycle
+- Owner
+- Team
+
+---
+
+# Skill Classification
+
+Each Skill receives:
+
+Primary Category
+
+Secondary Categories
+
+Professional Domain
+
+Business Domain
+
+Engineering Domain
+
+Classification must remain consistent.
+
+---
+
+# Catalog Status
+
+Every Skill is marked as:
+
+- Draft
+- Engineering
+- Verification
+- Approved
+- Production
+- Deprecated
+- Archived
+
+Undefined states are prohibited.
+
+---
+
+# Catalog Synchronization
+
+The Catalog must remain synchronized with:
+
+- Registry
+- Manifest
+- Verification
+- Lifecycle
+- Trust
+- Repository Structure
+
+Synchronization failures require correction.
+
+---
+
+# Catalog Integrity
+
+The Catalog must always remain:
+
+- complete;
+- deterministic;
+- version controlled;
+- reviewable;
+- auditable.
+
+Duplicate Skill IDs are prohibited.
+
+---
+
+# Public / Private Boundary
+
+The Enterprise IMPERIAL Skills Catalog belongs to the PRIVATE engineering repository.
+
+Only explicitly approved catalog metadata may appear in public repositories.
+
+---
+
+# Long-Term Vision
+
+The Enterprise IMPERIAL Skills Catalog becomes the universal professional capability index used by Codex, HANTER, Nano Core Agents, Legion, and future IMPERIAL Core systems to discover, classify, govern, and manage Enterprise IMPERIAL Skills.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
