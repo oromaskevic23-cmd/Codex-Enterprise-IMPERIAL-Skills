@@ -4840,3 +4840,189 @@ The Enterprise IMPERIAL Skills Routing Framework establishes the universal capab
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_DISCOVERY.md
+
+# 💎 Enterprise IMPERIAL Skills Discovery Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Discovery Framework governs how Enterprise IMPERIAL Skills are located, identified, evaluated, and selected throughout the IMPERIAL Core ecosystem.
+
+Discovery guarantees that only approved, verified, and compatible Skills may be considered for execution.
+
+Discovery must remain deterministic, secure, governed, and continuously auditable.
+
+---
+
+# Discovery Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Repository Integrity
+- Continuous Verification
+- Explicit Authorization
+- Evidence Before Trust
+
+---
+
+# Discovery Objectives
+
+The Discovery Framework provides:
+
+- Skill Identification
+- Capability Discovery
+- Version Discovery
+- Compatibility Discovery
+- Trust Evaluation
+- Repository Navigation
+- Engineering Consistency
+
+---
+
+# Discovery Sources
+
+Enterprise IMPERIAL Skills may only be discovered from approved sources.
+
+Approved sources include:
+
+- Enterprise Registry
+- Skill Catalog
+- Repository Metadata
+- Verified Skill Manifest
+- Approved Repository Index
+
+Discovery from unknown sources is prohibited.
+
+---
+
+# Discovery Filters
+
+Every discovery request evaluates:
+
+- Skill ID
+- Canonical Name
+- Category
+- Capability
+- Version
+- Lifecycle Stage
+- Trust Tier
+- Status
+- Owner
+- Responsible Team
+
+---
+
+# Capability Matching
+
+Discovery compares:
+
+- Requested Capability
+- Available Skills
+- Compatible Skills
+- Runtime Requirements
+- AI Passport Requirements
+- Permission Requirements
+
+Only compatible Skills proceed.
+
+---
+
+# Discovery Validation
+
+Every discovered Skill must successfully validate:
+
+- Registration
+- Manifest
+- Repository Integrity
+- Verification Status
+- Trust Tier
+- Lifecycle Stage
+- Approval Status
+
+Validation failure removes the Skill from consideration.
+
+---
+
+# Discovery Ranking
+
+Valid Skills are ranked using:
+
+- Capability Match
+- Trust Tier
+- Verification Status
+- Engineering Quality
+- Runtime Compatibility
+- Version Freshness
+
+Ranking must remain deterministic.
+
+---
+
+# Discovery Constraints
+
+Discovery never returns:
+
+- Revoked Skills
+- Deprecated Skills
+- Unverified Skills
+- Blocked Skills
+- Unauthorized Skills
+
+---
+
+# Repository Synchronization
+
+Discovery remains synchronized with:
+
+- Registry
+- Catalog
+- Manifest
+- Verification
+- Trust
+- Lifecycle
+- Repository Structure
+
+Synchronization failures require correction before production use.
+
+---
+
+# Audit
+
+Every discovery request records:
+
+- Discovery ID
+- Timestamp
+- Request
+- Returned Skills
+- Selected Skill
+- AI Passport
+- Audit Reference
+
+---
+
+# Public / Private Boundary
+
+Discovery architecture belongs exclusively to the PRIVATE engineering repository.
+
+Internal discovery algorithms and engineering metadata must never be exposed publicly.
+
+---
+
+# Long-Term Vision
+
+The Enterprise IMPERIAL Skills Discovery Framework establishes the universal discovery architecture for professional AI capabilities, enabling HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to locate the correct governed Skill with maximum reliability, security, and engineering consistency.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
