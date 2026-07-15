@@ -22040,3 +22040,186 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_CODE_GENERATION_RULES.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Code Generation Rules
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Code Generation Rules establish the mandatory engineering standards that Codex must follow when generating Enterprise IMPERIAL Skills.
+
+Generated code must always conform to the approved architecture.
+
+Implementation must never redefine architecture.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Contract First Engineering
+- Secure By Default
+- Zero Trust
+- Deterministic Generation
+- Reproducible Engineering
+- Complete Auditability
+
+---
+
+# Objectives
+
+The generation rules provide:
+
+- Predictable Code
+- Stable Architecture
+- Secure Implementations
+- Enterprise Consistency
+- Automated Verification
+- Long-Term Maintainability
+
+---
+
+# Mandatory Rules
+
+Every generated Skill must:
+
+- use the canonical SDK;
+- implement approved SDK Contracts;
+- inherit from approved Base Classes;
+- implement approved SDK Interfaces;
+- validate manifests;
+- validate permissions;
+- validate policies;
+- support audit recording.
+
+---
+
+# Prohibited Actions
+
+Codex must never:
+
+- invent architecture;
+- bypass SDK Contracts;
+- bypass Verification Gates;
+- bypass Guardian Core;
+- bypass Approval Gateway;
+- hardcode secrets;
+- bypass enterprise policies;
+- generate undocumented behaviour.
+
+---
+
+# Code Quality Rules
+
+Every generated implementation must be:
+
+- deterministic;
+- modular;
+- reusable;
+- strongly typed;
+- documented;
+- testable;
+- production-oriented.
+
+---
+
+# Security Rules
+
+Generated code must include:
+
+- AI Passport validation;
+- permission enforcement;
+- policy evaluation;
+- runtime isolation;
+- audit integration;
+- exception handling.
+
+---
+
+# Testing Rules
+
+Every generated Skill must include:
+
+- unit tests;
+- integration tests;
+- runtime tests;
+- security tests;
+- verification tests.
+
+---
+
+# Documentation Rules
+
+Every generated project must include:
+
+- README
+- SKILL.md
+- Manifest
+- Runtime Profile
+- Permission Profile
+- Policy Profile
+- Verification Evidence
+
+---
+
+# Repository Synchronization
+
+The generation rules remain synchronized with:
+
+- SDK Architecture
+- SDK Contracts
+- SDK Interfaces
+- SDK Base Classes
+- SDK Project Template
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Code Generation Rules belong exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Code Generation Rules establish the canonical engineering standard for Codex, ensuring every Enterprise IMPERIAL Skill is generated with consistent architecture, enterprise security, deterministic behavior, and production-grade quality across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
