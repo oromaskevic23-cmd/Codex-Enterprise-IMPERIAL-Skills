@@ -27373,3 +27373,221 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_DEPENDENCY_GRAPH.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Dependency Graph
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Dependency Graph Framework governs how Enterprise IMPERIAL Skills define, validate, visualize, resolve, and manage relationships between Skills throughout the IMPERIAL Core ecosystem.
+
+Every dependency must be explicit, traceable, deterministic, and fully auditable.
+
+Hidden dependencies are prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Explicit Dependency Management
+- Zero Trust
+- Dependency Transparency
+- Deterministic Resolution
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Dependency Graph provides:
+
+- Dependency Discovery
+- Dependency Resolution
+- Relationship Mapping
+- Impact Analysis
+- Version Compatibility
+- Enterprise Governance
+
+---
+
+# Dependency Types
+
+Supported dependency relationships include:
+
+- Runtime Dependency
+- SDK Dependency
+- Skill Dependency
+- Policy Dependency
+- Permission Dependency
+- Configuration Dependency
+- API Dependency
+- Event Dependency
+- Infrastructure Dependency
+
+---
+
+# Dependency Graph Structure
+
+Every dependency graph contains:
+
+- Skill Node
+- Dependency Node
+- Relationship Type
+- Version Constraint
+- Trust Level
+- Compatibility Status
+- Lifecycle Status
+
+Every node must have a unique identifier.
+
+---
+
+# Dependency Resolution Pipeline
+
+Every dependency request follows:
+
+Dependency Request
+
+↓
+
+Graph Discovery
+
+↓
+
+Version Resolution
+
+↓
+
+Compatibility Validation
+
+↓
+
+Policy Validation
+
+↓
+
+Trust Validation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Resolved Graph
+
+---
+
+# Validation Rules
+
+The framework validates:
+
+- Circular Dependencies
+- Missing Dependencies
+- Version Compatibility
+- Trust Compatibility
+- Runtime Compatibility
+- Policy Compliance
+- Verification Status
+
+Invalid dependency graphs are rejected.
+
+---
+
+# Impact Analysis
+
+Every dependency change automatically evaluates:
+
+- Downstream Skills
+- Runtime Impact
+- API Compatibility
+- Performance Impact
+- Security Impact
+- Production Risk
+
+Impact analysis is mandatory before approval.
+
+---
+
+# Dependency Rules
+
+Every dependency must be:
+
+- Registered
+- Versioned
+- Verified
+- Approved
+- Traceable
+- Auditable
+
+Implicit dependencies are prohibited.
+
+---
+
+# Repository Synchronization
+
+The Dependency Graph remains synchronized with:
+
+- SDK Architecture
+- SDK Dependency Management
+- SDK Validation Framework
+- SDK Skill Lifecycle Management
+- Registry
+- Runtime Engine
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Dependency Graph belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Dependency Graph establishes the canonical dependency relationship architecture for Enterprise IMPERIAL Skills, enabling Codex to analyze, validate, optimize, and govern enterprise-scale Skill ecosystems through deterministic dependency management while preserving architectural integrity across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
