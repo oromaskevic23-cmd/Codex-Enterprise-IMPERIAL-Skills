@@ -23828,4 +23828,208 @@ Romaskevich Alexander Nikolaevich
 
 Chief Systems Architect
 
+Romaskevich Alexander Nikolaevichя
+# SDK_FACTORY_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Factory Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Factory Framework governs how Enterprise IMPERIAL Skills are automatically instantiated, initialized, configured, verified, and registered by Codex and approved engineering systems.
+
+The Factory guarantees standardized Skill creation.
+
+No Enterprise Skill shall be created outside the governed Factory process.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Factory Before Instantiation
+- Zero Trust
+- Deterministic Construction
+- Standardization By Design
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Factory Framework provides:
+
+- Skill Creation
+- Runtime Initialization
+- Configuration Loading
+- Dependency Resolution
+- Validation
+- Registry Registration
+
+---
+
+# Factory Responsibilities
+
+The Factory is responsible for:
+
+- Creating Skill instances
+- Loading manifests
+- Applying runtime profiles
+- Validating dependencies
+- Registering Skills
+- Preparing execution environments
+
+---
+
+# Factory Pipeline
+
+Every Skill creation follows:
+
+Factory Request
+
+↓
+
+Template Selection
+
+↓
+
+Manifest Loading
+
+↓
+
+Schema Validation
+
+↓
+
+Dependency Resolution
+
+↓
+
+Runtime Initialization
+
+↓
+
+Policy Validation
+
+↓
+
+Verification
+
+↓
+
+Registry Registration
+
+↓
+
+Audit Recording
+
+↓
+
+Skill Ready
+
+---
+
+# Factory Validation
+
+Before creation the framework validates:
+
+- SDK Compatibility
+- Manifest Integrity
+- Runtime Profile
+- Dependencies
+- Permissions
+- Policies
+- Verification Status
+
+Validation failure blocks creation.
+
+---
+
+# Factory Rules
+
+Every created Skill must:
+
+- inherit approved Base Classes;
+- implement SDK Contracts;
+- implement SDK Interfaces;
+- possess a valid AI Passport;
+- register with the Registry;
+- produce audit evidence.
+
+---
+
+# Factory Types
+
+Supported factory types include:
+
+- Enterprise Skill Factory
+- Workflow Factory
+- API Factory
+- Service Factory
+- Connector Factory
+- Event Factory
+- Pipeline Factory
+- Automation Factory
+
+---
+
+# Repository Synchronization
+
+The Factory Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Template Engine
+- SDK Contracts
+- SDK Interfaces
+- SDK Base Classes
+- Registry
+- Runtime Engine
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Factory Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Factory Framework establishes the canonical creation architecture for Enterprise IMPERIAL Skills, enabling Codex to automatically construct secure, deterministic, enterprise-grade Skills while preserving governance, interoperability, and architectural consistency across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
 Romaskevich Alexander Nikolaevich
