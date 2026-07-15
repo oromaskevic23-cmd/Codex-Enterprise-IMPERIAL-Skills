@@ -20271,3 +20271,209 @@ The Logging Engine Framework establishes the enterprise logging architecture for
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_TRACING_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Tracing Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Tracing Engine Framework governs how Enterprise IMPERIAL Skills trace every enterprise request across distributed systems, services, workflows, APIs, runtimes, and orchestrators.
+
+Tracing provides complete execution visibility.
+
+Every enterprise transaction must remain traceable from origin to completion.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Tracing By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- End-to-End Visibility
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Tracing Engine provides:
+
+- Distributed Tracing
+- Request Correlation
+- Execution Visibility
+- Dependency Tracking
+- Performance Analysis
+- Enterprise Diagnostics
+
+---
+
+# Trace Sources
+
+The framework collects traces from:
+
+- Enterprise Skills
+- Runtime Engine
+- Services
+- APIs
+- Workflows
+- Pipelines
+- Executive Orchestrators
+- Monitoring Framework
+
+---
+
+# Tracing Pipeline
+
+Every trace follows:
+
+Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Trace Creation
+
+↓
+
+Correlation
+
+↓
+
+Propagation
+
+↓
+
+Analysis
+
+↓
+
+Storage
+
+↓
+
+Audit Recording
+
+---
+
+# Trace Validation
+
+Before storage the framework validates:
+
+- Repository Integrity
+- Trace Integrity
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Correlation Consistency
+
+Validation failure blocks storage.
+
+---
+
+# Trace Categories
+
+Supported trace categories include:
+
+- Runtime Traces
+- API Traces
+- Service Traces
+- Workflow Traces
+- Infrastructure Traces
+- Security Traces
+- Performance Traces
+- Distributed Traces
+
+---
+
+# Continuous Monitoring
+
+The framework continuously evaluates:
+
+- Trace Completeness
+- Trace Latency
+- Correlation Accuracy
+- Dependency Visibility
+- Runtime Health
+- Trace Availability
+
+---
+
+# Failure Handling
+
+When tracing validation fails:
+
+- reject trace;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Tracing Audit
+
+Every tracing operation records:
+
+- Trace ID
+- Source
+- Category
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Tracing Engine remains synchronized with:
+
+- Logging Engine
+- Metrics Engine
+- Telemetry Engine
+- Observability Engine
+- Monitoring Framework
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Guardian Core
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Tracing Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Tracing Engine Framework establishes the enterprise distributed tracing architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to maintain complete end-to-end visibility across enterprise operations through secure, governed, and continuously verified tracing.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
