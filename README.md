@@ -25878,3 +25878,213 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_TESTING_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Testing Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Testing Framework governs how Enterprise IMPERIAL Skills are verified through automated testing before release into production.
+
+Testing ensures functional correctness, security, stability, performance, and enterprise compliance.
+
+Untested Skills shall never enter production.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Test Before Deployment
+- Zero Trust
+- Continuous Verification
+- Deterministic Testing
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Testing Framework provides:
+
+- Unit Testing
+- Integration Testing
+- Runtime Testing
+- Security Testing
+- Performance Testing
+- Regression Testing
+- Verification Testing
+- Production Readiness Assessment
+
+---
+
+# Testing Categories
+
+Supported testing categories include:
+
+- Unit Tests
+- Integration Tests
+- Runtime Tests
+- Security Tests
+- Policy Tests
+- Permission Tests
+- Performance Tests
+- Load Tests
+- Stress Tests
+- Regression Tests
+- Acceptance Tests
+
+---
+
+# Testing Pipeline
+
+Every testing cycle follows:
+
+Test Request
+
+↓
+
+Environment Preparation
+
+↓
+
+SDK Validation
+
+↓
+
+Test Execution
+
+↓
+
+Evidence Collection
+
+↓
+
+Result Analysis
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Report Generation
+
+---
+
+# Test Validation
+
+Before execution the framework validates:
+
+- SDK Compatibility
+- Project Structure
+- Manifest Integrity
+- Runtime Profile
+- Dependencies
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks testing.
+
+---
+
+# Test Results
+
+Every execution produces:
+
+- Test ID
+- Skill ID
+- Runtime
+- Test Suite
+- Timestamp
+- Result
+- Coverage
+- Performance Metrics
+- Audit Reference
+
+All results remain traceable.
+
+---
+
+# Success Criteria
+
+A Skill is eligible for production only if:
+
+- all mandatory tests pass;
+- verification succeeds;
+- security validation succeeds;
+- policy validation succeeds;
+- audit evidence is complete;
+- production approval is granted.
+
+Warnings require engineering review.
+
+Failures block deployment.
+
+---
+
+# Repository Synchronization
+
+The Testing Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Validation Framework
+- SDK Deployment Framework
+- SDK Exception Library
+- Runtime Engine
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Testing Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Testing Framework establishes the canonical enterprise testing architecture for Enterprise IMPERIAL Skills, enabling Codex to automatically verify functional correctness, security, reliability, and production readiness while preserving engineering quality and architectural integrity across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
