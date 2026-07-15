@@ -25040,3 +25040,219 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_MONITORING_CLIENT.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Monitoring Client
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Monitoring Client governs how Enterprise IMPERIAL Skills securely communicate with the Enterprise Monitoring Framework.
+
+The Monitoring Client is the only approved interface for reporting health, operational status, metrics, and runtime events.
+
+Direct access to the Monitoring Framework is prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Monitoring Client Before Direct Access
+- Zero Trust
+- Continuous Monitoring
+- Operational Transparency
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Monitoring Client provides:
+
+- Runtime Monitoring
+- Health Reporting
+- Metrics Collection
+- Alert Integration
+- Status Synchronization
+- Operational Visibility
+
+---
+
+# Client Responsibilities
+
+The Monitoring Client is responsible for:
+
+- Reporting runtime health
+- Publishing operational metrics
+- Sending heartbeat signals
+- Reporting failures
+- Synchronizing monitoring state
+- Recording monitoring events
+
+---
+
+# Monitoring Operations
+
+Supported operations include:
+
+- Report Health
+- Publish Metrics
+- Send Heartbeat
+- Report Warning
+- Report Failure
+- Query Monitoring Status
+- Synchronize Monitoring State
+- Register Monitoring Event
+
+---
+
+# Client Pipeline
+
+Every monitoring request follows:
+
+Monitoring Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Health Verification
+
+↓
+
+Monitoring Registration
+
+↓
+
+Audit Recording
+
+↓
+
+Response
+
+---
+
+# Client Validation
+
+Before Monitoring Framework access the framework validates:
+
+- SDK Compatibility
+- Runtime Status
+- Identity
+- Trust Tier
+- Permission Scope
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks monitoring operations.
+
+---
+
+# Monitoring Security
+
+Every monitoring request requires:
+
+- Authenticated Identity
+- Verified AI Passport
+- Approved Runtime
+- Policy Compliance
+- Verification Evidence
+- Audit Registration
+
+Unauthorized monitoring operations are prohibited.
+
+---
+
+# Monitoring Rules
+
+The framework enforces:
+
+- Continuous Health Reporting
+- Runtime Visibility
+- Consistent Metrics
+- Failure Detection
+- Alert Traceability
+- Operational Integrity
+
+Health reporting cannot be disabled in production.
+
+---
+
+# Repository Synchronization
+
+The Monitoring Client remains synchronized with:
+
+- SDK Architecture
+- SDK Runtime Client
+- SDK Audit Client
+- SDK Verification Client
+- Monitoring Framework
+- Observability Engine
+- Telemetry Engine
+- Metrics Engine
+- Logging Engine
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Monitoring Client belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Monitoring Client establishes the canonical communication layer between Enterprise IMPERIAL Skills and the Enterprise Monitoring Framework, enabling Codex to maintain continuous operational awareness, enterprise observability, deterministic monitoring, and governed runtime visibility across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
