@@ -19463,3 +19463,198 @@ The Compliance Engine Framework establishes the enterprise compliance architectu
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_OBSERVABILITY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Observability Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Observability Engine Framework governs how Enterprise IMPERIAL Skills continuously observe, analyze, and understand the operational state of the IMPERIAL Core ecosystem.
+
+Observability provides complete operational visibility.
+
+Every enterprise operation must remain measurable and traceable.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Observability By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Observability Engine provides:
+
+- System Observability
+- Runtime Visibility
+- Operational Analytics
+- Health Monitoring
+- Root Cause Analysis
+- Enterprise Diagnostics
+
+---
+
+# Observability Scope
+
+The framework observes:
+
+- Enterprise Skills
+- Runtime
+- Services
+- APIs
+- Workflows
+- Pipelines
+- Infrastructure
+- Orchestrators
+- Audit Events
+
+---
+
+# Observability Pipeline
+
+Every observation follows:
+
+Observation Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Data Collection
+
+↓
+
+Analysis
+
+↓
+
+Correlation
+
+↓
+
+Visualization
+
+↓
+
+Audit Recording
+
+---
+
+# Observability Components
+
+Supported components include:
+
+- Metrics
+- Logs
+- Traces
+- Events
+- Runtime Statistics
+- Performance Indicators
+
+---
+
+# Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Data Integrity
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Runtime Availability
+
+Validation failure blocks publication.
+
+---
+
+# Continuous Monitoring
+
+The framework continuously evaluates:
+
+- Runtime Health
+- Service Health
+- API Health
+- Infrastructure Health
+- Performance Trends
+- Operational Events
+
+---
+
+# Failure Handling
+
+When observability validation fails:
+
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Observability Audit
+
+Every observation records:
+
+- Observation ID
+- Source
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Observability Engine remains synchronized with:
+
+- Monitoring Framework
+- Analytics Engine
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Guardian Core
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Observability Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Observability Engine Framework establishes the enterprise observability architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to maintain complete operational visibility through governed, secure, and continuously verified enterprise observability.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
