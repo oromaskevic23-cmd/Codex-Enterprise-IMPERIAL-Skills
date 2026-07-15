@@ -21389,3 +21389,226 @@ SDK Base Classes establish the canonical implementation foundation for Enterpris
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SDK_INTERFACES.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Interfaces
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Interfaces define the canonical contracts between Enterprise IMPERIAL Skills and the IMPERIAL Core platform.
+
+Every production Skill communicates through standardized interfaces.
+
+Interfaces guarantee compatibility, maintainability, interoperability, and enterprise stability.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Interface First Engineering
+- Zero Trust
+- Strong Typing
+- Backward Compatibility
+- Complete Auditability
+
+---
+
+# Objectives
+
+The SDK Interfaces provide:
+
+- Standard Communication
+- Runtime Compatibility
+- Enterprise Integration
+- Contract Stability
+- Reusable Components
+- Implementation Consistency
+
+---
+
+# Required Interfaces
+
+Every Enterprise Skill supports:
+
+- ISkill
+- IRuntime
+- IContext
+- IManifest
+- IPolicy
+- IPermission
+- IAudit
+- IVerification
+- ILifecycle
+
+---
+
+# ISkill
+
+Defines:
+
+- initialize()
+- validate()
+- execute()
+- shutdown()
+
+---
+
+# IRuntime
+
+Defines:
+
+- allocate()
+- monitor()
+- suspend()
+- terminate()
+
+---
+
+# IContext
+
+Defines:
+
+- input context
+- execution context
+- runtime context
+- security context
+
+---
+
+# IManifest
+
+Defines:
+
+- metadata
+- version
+- dependencies
+- runtime profile
+- permissions
+
+---
+
+# IPolicy
+
+Defines:
+
+- policy evaluation
+- compliance validation
+- security enforcement
+
+---
+
+# IPermission
+
+Defines:
+
+- capability validation
+- resource authorization
+- permission verification
+
+---
+
+# IAudit
+
+Defines:
+
+- audit recording
+- evidence generation
+- event tracking
+
+---
+
+# IVerification
+
+Defines:
+
+- verification gates
+- integrity validation
+- trust validation
+
+---
+
+# ILifecycle
+
+Defines:
+
+- initialization
+- activation
+- execution
+- suspension
+- retirement
+- archival
+
+---
+
+# Interface Requirements
+
+All interfaces must remain:
+
+- versioned;
+- deterministic;
+- backward compatible;
+- strongly typed;
+- fully documented.
+
+---
+
+# Repository Synchronization
+
+SDK Interfaces remain synchronized with:
+
+- SDK Architecture
+- SDK Contracts
+- SDK Base Classes
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Interfaces belong exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+SDK Interfaces establish the canonical communication model for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to implement secure, interoperable, reusable, and enterprise-grade AI capabilities.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
