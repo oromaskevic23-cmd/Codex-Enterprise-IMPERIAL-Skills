@@ -20477,3 +20477,497 @@ The Tracing Engine Framework establishes the enterprise distributed tracing arch
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SDK_ARCHITECTURE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Architecture
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Mission
+
+The Enterprise IMPERIAL Skills SDK provides the governed engineering foundation required to create, validate, test, package, register, deploy, execute, monitor, and retire Enterprise IMPERIAL Skills.
+
+The SDK transforms approved architecture into reusable implementation contracts.
+
+Codex must use this SDK architecture as the foundation for future production code.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Contract-First Engineering
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Deny By Default
+- Least Privilege
+- Evidence Before Trust
+- Secure By Design
+- Test Before Deployment
+- Complete Auditability
+
+---
+
+# SDK Objectives
+
+The SDK must provide:
+
+- Standard Skill Interfaces
+- Base Skill Classes
+- Manifest Validation
+- AI Passport Validation
+- Permission Enforcement
+- Policy Evaluation
+- Runtime Integration
+- Verification Gates
+- Audit Integration
+- Registry Integration
+- Testing Utilities
+- Packaging Utilities
+- Codex Automation Support
+
+---
+
+# SDK Scope
+
+The SDK governs implementation for:
+
+- Enterprise IMPERIAL Skills
+- Skill Manifests
+- Skill Policies
+- Permission Profiles
+- Runtime Profiles
+- Verification Evidence
+- Registry Records
+- Lifecycle Transitions
+- Skill Packages
+- Skill Test Suites
+
+---
+
+# SDK Modules
+
+The target SDK contains:
+
+```text
+sdk/
+├── core/
+├── contracts/
+├── identity/
+├── permissions/
+├── policies/
+├── runtime/
+├── registry/
+├── verification/
+├── audit/
+├── lifecycle/
+├── packaging/
+├── testing/
+└── exceptions/
+```
+
+---
+
+# Core Module
+
+The Core module provides:
+
+- BaseEnterpriseSkill
+- SkillContext
+- SkillInput
+- SkillOutput
+- SkillResult
+- SkillMetadata
+- SkillStatus
+- SkillLifecycleState
+
+No production Skill may bypass the Core module.
+
+---
+
+# Contracts Module
+
+The Contracts module defines stable interfaces for:
+
+- Skill Execution
+- Skill Validation
+- Skill Initialization
+- Skill Shutdown
+- Policy Evaluation
+- Permission Evaluation
+- Runtime Allocation
+- Audit Recording
+- Registry Synchronization
+- Verification Evidence
+
+Contracts must remain versioned and backward compatible where possible.
+
+---
+
+# Identity Module
+
+The Identity module integrates:
+
+- AI Passport
+- Skill Identity
+- Agent Identity
+- Runtime Identity
+- Workload Identity
+- Digital Signatures
+
+Execution without verified identity is prohibited.
+
+---
+
+# Permission Module
+
+The Permission module enforces:
+
+- Least Privilege
+- Deny By Default
+- Capability Permissions
+- Runtime Permissions
+- Data Permissions
+- Network Permissions
+- External Service Permissions
+
+Undeclared permissions are denied.
+
+---
+
+# Policy Module
+
+The Policy module evaluates:
+
+- Architecture Policies
+- Security Policies
+- Runtime Policies
+- Data Policies
+- Network Policies
+- Lifecycle Policies
+- Approval Policies
+- Public/Private Boundary Policies
+
+Policy failure blocks execution.
+
+---
+
+# Runtime Module
+
+The Runtime module provides:
+
+- Runtime Initialization
+- Sandbox Binding
+- Resource Limits
+- Timeout Enforcement
+- Retry Policies
+- Execution Isolation
+- Runtime Monitoring
+- Controlled Shutdown
+
+Every Skill executes inside an approved runtime profile.
+
+---
+
+# Registry Module
+
+The Registry module provides:
+
+- Skill Registration
+- Skill Discovery
+- Version Resolution
+- Lifecycle Status
+- Trust Tier Lookup
+- Dependency Lookup
+- Revocation Status
+- Registry Synchronization
+
+Unregistered Skills cannot enter production.
+
+---
+
+# Verification Module
+
+The Verification module implements mandatory gates:
+
+- G1 — Structure and Schema
+- G2 — Security and Permissions
+- G3 — Functional and Reliability Testing
+- G4 — Approval Gateway Authorization
+
+Every gate must produce evidence.
+
+---
+
+# Audit Module
+
+The Audit module records:
+
+- Skill Creation
+- Skill Changes
+- Validation Results
+- Execution Events
+- Permission Decisions
+- Policy Decisions
+- Approval Decisions
+- Lifecycle Transitions
+- Failures
+- Revocations
+
+Audit records must be tamper-evident.
+
+---
+
+# Lifecycle Module
+
+The Lifecycle module governs:
+
+- Draft
+- Engineering
+- Verification
+- Approved
+- Production
+- Suspended
+- Deprecated
+- Revoked
+- Archived
+
+Invalid transitions are prohibited.
+
+---
+
+# Packaging Module
+
+The Packaging module creates governed Skill packages containing:
+
+```text
+skill-name/
+├── SKILL.md
+├── skill.manifest.yaml
+├── policy.yaml
+├── permissions.yaml
+├── runtime.yaml
+├── src/
+├── tests/
+└── evidence/
+```
+
+Packages must be reproducible and digitally signed before production release.
+
+---
+
+# Testing Module
+
+The Testing module provides:
+
+- Unit Test Base
+- Integration Test Base
+- Security Test Base
+- Policy Test Base
+- Permission Test Base
+- Runtime Test Base
+- Adversarial Test Base
+- Verification Evidence Helpers
+
+A Skill without tests cannot be production-approved.
+
+---
+
+# Exception Model
+
+The SDK must define explicit exceptions for:
+
+- InvalidManifestError
+- IdentityValidationError
+- PermissionDeniedError
+- PolicyDeniedError
+- RuntimeValidationError
+- VerificationFailedError
+- ApprovalRequiredError
+- SkillRevokedError
+- RegistrySynchronizationError
+- AuditWriteError
+
+Undefined failure behaviour is prohibited.
+
+---
+
+# Skill Execution Contract
+
+Every Skill execution follows:
+
+Request
+
+↓
+
+Manifest Validation
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Runtime Allocation
+
+↓
+
+Skill Execution
+
+↓
+
+Output Validation
+
+↓
+
+Audit Recording
+
+↓
+
+Result Return
+
+---
+
+# Base Skill Requirements
+
+Every implementation derived from the SDK must define:
+
+- Skill ID
+- Canonical Name
+- Version
+- Description
+- Owner
+- Responsible Team
+- Input Contract
+- Output Contract
+- Required Permissions
+- Runtime Profile
+- Verification Requirements
+- Lifecycle State
+
+Incomplete Skills remain blocked from production.
+
+---
+
+# Codex Implementation Rules
+
+Codex must:
+
+- implement contracts before concrete Skills;
+- preserve canonical terminology;
+- generate typed interfaces;
+- avoid hidden dependencies;
+- avoid placeholder security controls;
+- include tests with implementation;
+- include evidence with verification;
+- document assumptions;
+- report incomplete work honestly;
+- never claim production readiness without proof.
+
+---
+
+# Public / Private Boundary
+
+The SDK belongs to the PRIVATE engineering boundary.
+
+The following must not be published without explicit approval:
+
+- internal contracts;
+- security enforcement logic;
+- permission architecture;
+- runtime controls;
+- verification logic;
+- registry internals;
+- audit implementation;
+- production configurations.
+
+---
+
+# Repository Integration
+
+The SDK must remain synchronized with:
+
+- AGENTS.md
+- CODEX.md
+- ARCHITECTURE.md
+- SECURITY.md
+- GOVERNANCE.md
+- REGISTRY.md
+- MANIFEST.md
+- VERIFICATION.md
+- TRUST.md
+- LIFECYCLE.md
+- PERMISSIONS.md
+- POLICIES.md
+- AUDIT.md
+
+---
+
+# Target Engineering Sequence
+
+Codex must implement the SDK in this order:
+
+1. Core Types
+2. Contracts
+3. Exception Model
+4. Manifest Validation
+5. Identity Validation
+6. Permission Enforcement
+7. Policy Evaluation
+8. Runtime Integration
+9. Registry Integration
+10. Verification Gates
+11. Audit Integration
+12. Lifecycle Enforcement
+13. Packaging
+14. Testing Utilities
+15. First Reference Skill
+
+---
+
+# Production Readiness
+
+The SDK is production-ready only when:
+
+- all contracts are implemented;
+- schemas are validated;
+- tests pass;
+- security controls are operational;
+- verification evidence exists;
+- audit integration works;
+- registry synchronization works;
+- lifecycle enforcement works;
+- Approval Gateway integration is verified;
+- Guardian Core controls are verified.
+
+Documentation alone does not establish production readiness.
+
+---
+
+# Long-Term Vision
+
+The Enterprise IMPERIAL Skills SDK becomes the canonical engineering foundation used by Codex and authorized engineering systems to build professional, governed, secure, reusable, and production-ready AI capabilities throughout IMPERIAL Core.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
