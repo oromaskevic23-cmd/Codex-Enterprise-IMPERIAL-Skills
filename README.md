@@ -21612,3 +21612,217 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_REFERENCE_IMPLEMENTATION.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Reference Implementation
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Reference Implementation defines the canonical engineering blueprint used by Codex to generate production-ready Enterprise IMPERIAL Skills.
+
+Every generated Skill must follow a single, deterministic implementation model.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Reference Before Customization
+- Contract First Engineering
+- Zero Trust
+- Reuse Before Duplication
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Reference Implementation provides:
+
+- Canonical Project Structure
+- Standard Execution Flow
+- Enterprise Security
+- Runtime Compatibility
+- Verification Integration
+- Production Consistency
+
+---
+
+# Standard Skill Structure
+
+Every Enterprise Skill contains:
+
+- Manifest
+- Metadata
+- Runtime Profile
+- Policy Profile
+- Permission Profile
+- Source Code
+- Tests
+- Documentation
+- Verification Evidence
+
+---
+
+# Standard Execution Flow
+
+Every Skill executes through:
+
+Initialize
+
+↓
+
+Validate
+
+↓
+
+Authenticate
+
+↓
+
+Authorize
+
+↓
+
+Policy Evaluation
+
+↓
+
+Runtime Allocation
+
+↓
+
+Execute
+
+↓
+
+Output Validation
+
+↓
+
+Audit Recording
+
+↓
+
+Shutdown
+
+Execution order is mandatory.
+
+---
+
+# Required Components
+
+Every implementation includes:
+
+- BaseEnterpriseSkill
+- SDK Interfaces
+- SDK Contracts
+- Runtime Integration
+- Registry Integration
+- Verification Integration
+- Audit Integration
+
+---
+
+# Security Requirements
+
+Every implementation enforces:
+
+- AI Passport Validation
+- Least Privilege
+- Zero Trust
+- Policy Enforcement
+- Secure Runtime
+- Audit Logging
+
+Security controls cannot be bypassed.
+
+---
+
+# Verification Requirements
+
+Every implementation passes:
+
+- Manifest Validation
+- Dependency Validation
+- Runtime Validation
+- Permission Validation
+- Policy Validation
+- Verification Gates
+
+---
+
+# Testing Requirements
+
+Every implementation includes:
+
+- Unit Tests
+- Integration Tests
+- Runtime Tests
+- Security Tests
+- Verification Tests
+
+Untested implementations are prohibited.
+
+---
+
+# Repository Synchronization
+
+Reference Implementations remain synchronized with:
+
+- SDK Architecture
+- SDK Contracts
+- SDK Interfaces
+- SDK Base Classes
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Reference Implementations belong exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Reference Implementation establishes the canonical production blueprint for Enterprise IMPERIAL Skills, enabling Codex to generate secure, reusable, deterministic, enterprise-grade AI capabilities with consistent engineering quality across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
