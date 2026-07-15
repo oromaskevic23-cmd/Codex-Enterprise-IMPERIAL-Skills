@@ -24631,9 +24631,9 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
-# SDK_AUDIT_CLIENT.md
+# SDK_VERIFICATION_CLIENT.md
 
-# 💎 Enterprise IMPERIAL Skills SDK Audit Client
+# 💎 Enterprise IMPERIAL Skills SDK Verification Client
 
 > Repository: Codex-Enterprise-IMPERIAL-Skills
 > Visibility: 🔒 PRIVATE
@@ -24655,71 +24655,70 @@ Chief Systems Architect: Romaskevich Alexander Nikolaevich
 
 # Mission
 
-The SDK Audit Client governs how Enterprise IMPERIAL Skills securely communicate with the Enterprise Audit Ledger.
+The SDK Verification Client governs how Enterprise IMPERIAL Skills securely communicate with the Enterprise Verification Framework.
 
-The Audit Client is the only approved interface for recording enterprise audit events.
+The Verification Client is the only approved interface for requesting, executing, and validating enterprise verification procedures.
 
-Direct writes to the Audit Ledger are prohibited.
+Direct access to the Verification Framework is prohibited.
 
 ---
 
 # Architecture Principles
 
 - Architecture Before Implementation
-- Audit Client Before Direct Access
+- Verification Client Before Direct Access
 - Zero Trust
-- Immutable Evidence
-- Deterministic Recording
+- Evidence Before Trust
+- Deterministic Validation
 - Complete Auditability
 
 ---
 
 # Objectives
 
-The Audit Client provides:
+The Verification Client provides:
 
-- Audit Recording
-- Event Registration
-- Evidence Submission
-- Audit Queries
-- Integrity Verification
-- Audit Synchronization
+- Verification Requests
+- Verification Execution
+- Evidence Collection
+- Verification Status
+- Trust Validation
+- Verification Synchronization
 
 ---
 
 # Client Responsibilities
 
-The Audit Client is responsible for:
+The Verification Client is responsible for:
 
-- Recording execution events
-- Recording lifecycle events
-- Recording security events
-- Recording policy decisions
-- Recording approval decisions
-- Synchronizing audit records
+- Starting verification procedures
+- Collecting verification evidence
+- Executing verification gates
+- Validating verification results
+- Synchronizing verification records
+- Reporting verification status
 
 ---
 
-# Audit Operations
+# Verification Operations
 
 Supported operations include:
 
-- Record Event
-- Record Evidence
-- Record Approval
-- Record Failure
-- Query Audit History
-- Verify Audit Record
-- Synchronize Audit Ledger
-- Archive Audit Record
+- Start Verification
+- Execute Verification
+- Validate Evidence
+- Query Verification
+- Retrieve Verification Status
+- Synchronize Verification Records
+- Archive Verification Results
 
 ---
 
 # Client Pipeline
 
-Every audit operation follows:
+Every verification request follows:
 
-Audit Request
+Verification Request
 
 ↓
 
@@ -24739,15 +24738,15 @@ Policy Evaluation
 
 ↓
 
+Verification Execution
+
+↓
+
+Evidence Validation
+
+↓
+
 Audit Recording
-
-↓
-
-Integrity Verification
-
-↓
-
-Ledger Synchronization
 
 ↓
 
@@ -24757,47 +24756,48 @@ Response
 
 # Client Validation
 
-Before Audit Ledger access the framework validates:
+Before Verification Framework access the framework validates:
 
 - SDK Compatibility
 - Identity
 - Trust Tier
+- Verification Scope
 - Permission Scope
 - Policy Compliance
-- Verification Status
-- Audit Integrity
+- Runtime Status
 
-Validation failure blocks audit operations.
+Validation failure blocks verification.
 
 ---
 
-# Audit Security
+# Verification Security
 
-Every audit request requires:
+Every verification request requires:
 
 - Authenticated Identity
 - Verified AI Passport
 - Approved Permissions
 - Policy Compliance
-- Immutable Evidence
-- Tamper-Evident Recording
+- Verification Evidence
+- Audit Registration
 
-Unauthorized audit operations are prohibited.
+Unauthorized verification operations are prohibited.
 
 ---
 
 # Repository Synchronization
 
-The Audit Client remains synchronized with:
+The Verification Client remains synchronized with:
 
 - SDK Architecture
 - SDK Runtime Client
-- Audit Ledger
+- SDK Audit Client
 - Verification Framework
+- Trust Framework
 - Guardian Core
 - Approval Gateway
 - Registry
-- Runtime Engine
+- Audit Ledger
 
 ---
 
@@ -24807,13 +24807,13 @@ Repository Classification:
 
 🔒 PRIVATE
 
-SDK Audit Client belongs exclusively to the private engineering repository.
+SDK Verification Client belongs exclusively to the private engineering repository.
 
 ---
 
 # Long-Term Vision
 
-The SDK Audit Client establishes the canonical communication layer between Enterprise IMPERIAL Skills and the Enterprise Audit Ledger, enabling Codex to securely record, verify, synchronize, and preserve immutable engineering evidence while maintaining architectural integrity across the IMPERIAL Core ecosystem.
+The SDK Verification Client establishes the canonical communication layer between Enterprise IMPERIAL Skills and the Enterprise Verification Framework, enabling Codex to securely execute verification workflows, validate engineering evidence, maintain trust, and preserve architectural integrity across the IMPERIAL Core ecosystem.
 
 ---
 
