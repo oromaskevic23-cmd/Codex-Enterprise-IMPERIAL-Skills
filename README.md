@@ -24237,3 +24237,200 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_REGISTRY_CLIENT.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Registry Client
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Registry Client governs how Enterprise IMPERIAL Skills securely communicate with the Enterprise Skill Registry.
+
+The Registry Client serves as the single approved interface between Skills and the Registry.
+
+Direct Registry access is prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Client Before Direct Access
+- Zero Trust
+- Registry Integrity
+- Deterministic Communication
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Registry Client provides:
+
+- Skill Registration
+- Skill Discovery
+- Version Resolution
+- Metadata Retrieval
+- Dependency Lookup
+- Registry Synchronization
+
+---
+
+# Client Responsibilities
+
+The Registry Client is responsible for:
+
+- Registering new Skills
+- Discovering existing Skills
+- Resolving compatible versions
+- Validating Registry records
+- Synchronizing metadata
+- Recording Registry events
+
+---
+
+# Registry Operations
+
+Supported operations include:
+
+- Register Skill
+- Update Skill
+- Query Skill
+- Search Skills
+- Resolve Dependencies
+- Verify Registration
+- Archive Skill
+- Revoke Skill
+
+---
+
+# Client Pipeline
+
+Every Registry operation follows:
+
+Registry Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Registry Operation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Response
+
+---
+
+# Client Validation
+
+Before Registry access the framework validates:
+
+- SDK Compatibility
+- Identity
+- Trust Tier
+- Runtime Status
+- Permission Scope
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks Registry access.
+
+---
+
+# Security Requirements
+
+Every Registry request requires:
+
+- Authenticated Identity
+- Verified AI Passport
+- Approved Permissions
+- Policy Compliance
+- Audit Registration
+
+Unauthorized Registry operations are prohibited.
+
+---
+
+# Repository Synchronization
+
+The Registry Client remains synchronized with:
+
+- SDK Architecture
+- SDK Contracts
+- SDK Generator Framework
+- Registry
+- Runtime Engine
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Registry Client belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Registry Client establishes the canonical communication layer between Enterprise IMPERIAL Skills and the Enterprise Registry, enabling Codex to securely register, discover, synchronize, and govern enterprise-grade Skills while preserving architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
