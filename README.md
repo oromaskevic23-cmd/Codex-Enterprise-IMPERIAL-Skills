@@ -20971,3 +20971,221 @@ The Enterprise IMPERIAL Skills SDK becomes the canonical engineering foundation 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SDK_CONTRACTS.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Contracts
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Mission
+
+The SDK Contracts define the canonical implementation interfaces for every Enterprise IMPERIAL Skill.
+
+Every Skill developed by Codex or engineering teams must implement these contracts.
+
+Contracts guarantee compatibility, predictability, security, and long-term maintainability.
+
+---
+
+# Architecture Principles
+
+- Contract First Engineering
+- Architecture Before Implementation
+- Interface Stability
+- Zero Trust
+- Explicit Contracts
+- Complete Auditability
+
+---
+
+# Objectives
+
+The SDK Contracts provide:
+
+- Stable Interfaces
+- Runtime Compatibility
+- Version Compatibility
+- Skill Standardization
+- Secure Integration
+- Enterprise Consistency
+
+---
+
+# Required Contracts
+
+Every Enterprise Skill must implement:
+
+- Initialization Contract
+- Validation Contract
+- Execution Contract
+- Permission Contract
+- Policy Contract
+- Runtime Contract
+- Audit Contract
+- Shutdown Contract
+
+Missing contracts are prohibited.
+
+---
+
+# Initialization Contract
+
+Responsible for:
+
+- loading configuration;
+- validating manifest;
+- initializing resources;
+- registering runtime context.
+
+Initialization failure blocks execution.
+
+---
+
+# Validation Contract
+
+Responsible for validating:
+
+- input schema;
+- manifest;
+- dependencies;
+- runtime profile;
+- AI Passport;
+- Trust Tier.
+
+Validation must complete before execution.
+
+---
+
+# Execution Contract
+
+Responsible for:
+
+- receiving input;
+- executing business logic;
+- producing output;
+- reporting execution status.
+
+Execution must remain deterministic.
+
+---
+
+# Permission Contract
+
+Responsible for:
+
+- permission verification;
+- capability validation;
+- resource authorization;
+- external access validation.
+
+Permission failures immediately terminate execution.
+
+---
+
+# Policy Contract
+
+Responsible for:
+
+- security policies;
+- runtime policies;
+- governance policies;
+- enterprise compliance.
+
+Policy violations block execution.
+
+---
+
+# Runtime Contract
+
+Responsible for:
+
+- runtime allocation;
+- sandbox configuration;
+- resource limits;
+- timeout enforcement;
+- cleanup.
+
+Runtime isolation is mandatory.
+
+---
+
+# Audit Contract
+
+Responsible for recording:
+
+- initialization;
+- execution;
+- failures;
+- approvals;
+- policy decisions;
+- lifecycle events.
+
+Audit evidence must remain immutable.
+
+---
+
+# Shutdown Contract
+
+Responsible for:
+
+- releasing resources;
+- clearing temporary state;
+- final audit;
+- graceful termination.
+
+Resource leaks are prohibited.
+
+---
+
+# Contract Versioning
+
+Every contract contains:
+
+- Contract ID
+- Version
+- Compatibility Level
+- Status
+- Owner
+
+Breaking changes require governance approval.
+
+---
+
+# Repository Synchronization
+
+SDK Contracts remain synchronized with:
+
+- SDK Architecture
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Contracts belong exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+SDK Contracts establish the canonical implementation standard for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to build interoperable, secure, deterministic, and enterprise-grade AI capabilities.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
