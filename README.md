@@ -27813,4 +27813,209 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_REGISTRY_ARCHITECTURE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Registry Architecture
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Registry Architecture defines the canonical architecture for storing, discovering, governing, versioning, and managing every Enterprise IMPERIAL Skill throughout its lifecycle.
+
+The Registry is the single source of truth for Enterprise IMPERIAL Skills.
+
+No Skill may exist outside the Registry.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Registry As Source of Truth
+- Zero Trust
+- Deterministic Discovery
+- Federated Governance
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Registry Architecture provides:
+
+- Skill Registration
+- Skill Discovery
+- Metadata Management
+- Version Management
+- Dependency Tracking
+- Lifecycle Governance
+
+---
+
+# Registry Components
+
+The Registry contains:
+
+- Skill Catalog
+- Metadata Store
+- Version Index
+- Dependency Graph
+- Certification Records
+- Trust Records
+- Verification Records
+- Audit References
+- Runtime Profiles
+- Policy Profiles
+
+---
+
+# Registry Operations
+
+Supported operations include:
+
+- Register Skill
+- Update Skill
+- Search Skills
+- Discover Skills
+- Resolve Versions
+- Resolve Dependencies
+- Verify Registration
+- Archive Skill
+- Retire Skill
+
+---
+
+# Registry Pipeline
+
+Every registry operation follows:
+
+Registry Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Registry Processing
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Registry Response
+
+---
+
+# Registry Validation
+
+Before registration the framework validates:
+
+- SDK Compatibility
+- Manifest Integrity
+- Schema Compliance
+- Certification Status
+- Runtime Compatibility
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks registration.
+
+---
+
+# Registry Governance
+
+Every registered Skill must maintain:
+
+- Unique Skill ID
+- Canonical Version
+- Lifecycle State
+- Certification Status
+- Trust Tier
+- Dependency Graph
+- Runtime Profile
+- Audit References
+
+Registry entries remain immutable except through approved lifecycle transitions.
+
+---
+
+# Repository Synchronization
+
+The Registry Architecture remains synchronized with:
+
+- SDK Architecture
+- SDK Registry Client
+- SDK Skill Lifecycle Management
+- SDK Skill Dependency Graph
+- Runtime Engine
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Registry Architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Registry Architecture establishes the canonical registry architecture for Enterprise IMPERIAL Skills, enabling Codex to discover, govern, version, certify, and manage enterprise-grade Skills through a secure, deterministic, federated, and fully auditable Registry across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
 
