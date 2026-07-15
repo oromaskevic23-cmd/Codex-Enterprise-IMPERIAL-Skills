@@ -24828,3 +24828,215 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_PERMISSION_CLIENT.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Permission Client
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Permission Client governs how Enterprise IMPERIAL Skills securely communicate with the Enterprise Permission Framework.
+
+The Permission Client is the only approved interface for evaluating permissions and capabilities.
+
+Direct access to the Permission Engine is prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Permission Client Before Direct Access
+- Zero Trust
+- Least Privilege
+- Deny By Default
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Permission Client provides:
+
+- Permission Evaluation
+- Capability Authorization
+- Resource Access Validation
+- Permission Synchronization
+- Access Decisions
+- Enterprise Governance
+
+---
+
+# Client Responsibilities
+
+The Permission Client is responsible for:
+
+- Validating permissions
+- Evaluating capabilities
+- Authorizing resources
+- Resolving permission scopes
+- Synchronizing permission profiles
+- Recording authorization decisions
+
+---
+
+# Permission Operations
+
+Supported operations include:
+
+- Validate Permission
+- Authorize Capability
+- Resolve Permission Scope
+- Verify Resource Access
+- Query Permissions
+- Synchronize Permissions
+- Revoke Permission
+
+---
+
+# Client Pipeline
+
+Every permission request follows:
+
+Permission Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Trust Tier Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Permission Resolution
+
+↓
+
+Authorization Decision
+
+↓
+
+Audit Recording
+
+↓
+
+Response
+
+---
+
+# Client Validation
+
+Before Permission Framework access the framework validates:
+
+- SDK Compatibility
+- Identity
+- AI Passport
+- Trust Tier
+- Runtime Context
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks authorization.
+
+---
+
+# Permission Security
+
+Every authorization request requires:
+
+- Authenticated Identity
+- Verified AI Passport
+- Approved Runtime
+- Policy Compliance
+- Verification Evidence
+- Audit Registration
+
+Unauthorized access is prohibited.
+
+---
+
+# Permission Rules
+
+The framework enforces:
+
+- Least Privilege
+- Deny By Default
+- Explicit Authorization
+- Capability Isolation
+- Resource Isolation
+- Continuous Verification
+
+Permission escalation without approval is prohibited.
+
+---
+
+# Repository Synchronization
+
+The Permission Client remains synchronized with:
+
+- SDK Architecture
+- SDK Policy Client
+- SDK Verification Client
+- Permission Framework
+- Runtime Engine
+- Guardian Core
+- Approval Gateway
+- Registry
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Permission Client belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Permission Client establishes the canonical communication layer between Enterprise IMPERIAL Skills and the Enterprise Permission Framework, enabling Codex to enforce secure, deterministic, and fully auditable authorization across the entire IMPERIAL Core ecosystem while preserving architectural integrity.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
