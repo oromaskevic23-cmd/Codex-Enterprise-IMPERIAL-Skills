@@ -22620,3 +22620,211 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_VERSIONING_POLICY.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Versioning Policy
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Versioning Policy establishes the canonical version governance model for Enterprise IMPERIAL Skills, SDK components, and engineering artifacts.
+
+Versioning ensures compatibility, traceability, stability, and controlled evolution.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Backward Compatibility
+- Deterministic Releases
+- Zero Trust
+- Controlled Evolution
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Versioning Policy provides:
+
+- Version Governance
+- Compatibility Management
+- Release Stability
+- Upgrade Control
+- Dependency Alignment
+- Enterprise Traceability
+
+---
+
+# Version Format
+
+All Enterprise components follow Semantic Versioning:
+
+MAJOR.MINOR.PATCH
+
+Example:
+
+- 1.0.0
+- 1.2.5
+- 2.0.0
+
+---
+
+# Release Types
+
+Supported release types:
+
+- Development
+- Alpha
+- Beta
+- Release Candidate
+- Stable
+- Long-Term Support (LTS)
+
+Only Stable and LTS releases may enter production.
+
+---
+
+# Version Rules
+
+Every version must define:
+
+- Version Number
+- Release Type
+- Release Date
+- Compatibility Level
+- Change Summary
+- Approval Status
+
+---
+
+# Compatibility Rules
+
+The framework validates:
+
+- SDK Compatibility
+- Runtime Compatibility
+- API Compatibility
+- Manifest Compatibility
+- Dependency Compatibility
+- Registry Compatibility
+
+Compatibility violations block release.
+
+---
+
+# Release Pipeline
+
+Every release follows:
+
+Development
+
+↓
+
+Validation
+
+↓
+
+Testing
+
+↓
+
+Verification
+
+↓
+
+Approval
+
+↓
+
+Release
+
+↓
+
+Production
+
+↓
+
+Maintenance
+
+↓
+
+Retirement
+
+---
+
+# Change Categories
+
+Supported change categories include:
+
+- Security
+- Bug Fix
+- Feature
+- Optimization
+- Refactoring
+- Documentation
+- Breaking Change
+
+Every change must be documented.
+
+---
+
+# Repository Synchronization
+
+The Versioning Policy remains synchronized with:
+
+- SDK Architecture
+- SDK Validation Framework
+- SDK Dependency Management
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Versioning Policy belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Versioning Policy establishes the canonical release governance model for Enterprise IMPERIAL Skills, enabling Codex to maintain stable, traceable, and enterprise-grade software evolution across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
