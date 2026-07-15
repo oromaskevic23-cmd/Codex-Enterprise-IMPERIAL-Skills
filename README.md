@@ -22223,3 +22223,214 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_VALIDATION_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Validation Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Validation Framework defines the canonical validation pipeline for every Enterprise IMPERIAL Skill before it may execute, register, or enter production.
+
+Validation protects the integrity of the IMPERIAL Core ecosystem.
+
+No Skill is trusted without verification.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Validation Before Execution
+- Zero Trust
+- Evidence Before Trust
+- Deterministic Validation
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Validation Framework provides:
+
+- Manifest Validation
+- Schema Validation
+- Dependency Validation
+- Runtime Validation
+- Permission Validation
+- Policy Validation
+- Security Validation
+- Production Readiness Validation
+
+---
+
+# Validation Levels
+
+Every Skill passes:
+
+- Level 1 — Structure Validation
+- Level 2 — Security Validation
+- Level 3 — Runtime Validation
+- Level 4 — Integration Validation
+- Level 5 — Production Validation
+
+Failure at any level blocks promotion.
+
+---
+
+# Validation Pipeline
+
+Every validation follows:
+
+Validation Request
+
+↓
+
+Manifest Validation
+
+↓
+
+SDK Contract Validation
+
+↓
+
+Dependency Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Validation
+
+↓
+
+Runtime Validation
+
+↓
+
+Security Validation
+
+↓
+
+Verification Evidence
+
+↓
+
+Audit Recording
+
+↓
+
+Validation Result
+
+---
+
+# Validation Categories
+
+The framework validates:
+
+- Project Structure
+- Manifest Integrity
+- SDK Compliance
+- Runtime Compatibility
+- Dependencies
+- Permissions
+- Policies
+- Security Controls
+- Test Coverage
+- Documentation
+
+---
+
+# Validation Results
+
+Possible outcomes:
+
+- PASSED
+- PASSED WITH WARNINGS
+- FAILED
+- BLOCKED
+
+Only **PASSED** qualifies a Skill for production.
+
+---
+
+# Automatic Validation
+
+Codex automatically validates:
+
+- every generated Skill;
+- every repository change;
+- every release candidate;
+- every production package.
+
+Validation cannot be skipped.
+
+---
+
+# Repository Synchronization
+
+The Validation Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Contracts
+- SDK Interfaces
+- SDK Base Classes
+- Verification Framework
+- Runtime Engine
+- Registry
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Validation Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Validation Framework establishes the canonical quality assurance standard for Enterprise IMPERIAL Skills, enabling Codex to automatically verify every generated Skill before production deployment while preserving enterprise security, consistency, and engineering excellence.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
