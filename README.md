@@ -17467,3 +17467,233 @@ The Scalability Engine Framework establishes the universal enterprise scalabilit
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_RESILIENCE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Resilience Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Resilience Engine Framework governs how Enterprise IMPERIAL Skills detect, withstand, recover from, and continuously adapt to failures while preserving operational continuity, enterprise governance, and architectural integrity.
+
+Resilience guarantees that failures remain controlled.
+
+Failures must never compromise the IMPERIAL Core architecture.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Resilience By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Failure Isolation
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Resilience Engine provides:
+
+- Failure Detection
+- Fault Isolation
+- Controlled Recovery
+- Service Continuity
+- Infrastructure Resilience
+- Enterprise Stability
+
+---
+
+# Resilience Domains
+
+Supported resilience domains include:
+
+- Runtime Resilience
+- Service Resilience
+- Workflow Resilience
+- Pipeline Resilience
+- Infrastructure Resilience
+- Network Resilience
+- Storage Resilience
+- Orchestrator Resilience
+- Enterprise Resilience
+
+---
+
+# Resilience Sources
+
+Resilience events may originate only from:
+
+- Runtime Engine
+- Monitoring Framework
+- Observability Framework
+- State Engine
+- Session Engine
+- Capacity Engine
+- Approved Infrastructure Providers
+
+Unauthorized resilience events are prohibited.
+
+---
+
+# Resilience Pipeline
+
+Every resilience event follows:
+
+Failure Detection
+
+↓
+
+Identity Validation
+
+↓
+
+Impact Analysis
+
+↓
+
+Fault Isolation
+
+↓
+
+Recovery Strategy
+
+↓
+
+Recovery Execution
+
+↓
+
+Verification
+
+↓
+
+Monitoring
+
+↓
+
+Audit Recording
+
+---
+
+# Recovery Strategies
+
+Supported recovery strategies include:
+
+- Retry
+- Restart
+- Runtime Migration
+- Failover
+- Rollback
+- Graceful Degradation
+- Resource Reallocation
+- Disaster Recovery
+
+Recovery strategy must be explicitly governed.
+
+---
+
+# Resilience Validation
+
+Before recovery the framework validates:
+
+- Repository Integrity
+- Runtime Health
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Resource Availability
+- Recovery Readiness
+
+Validation failure blocks recovery.
+
+---
+
+# Continuous Resilience
+
+The framework continuously evaluates:
+
+- Runtime Stability
+- Infrastructure Health
+- Failure Trends
+- Recovery Success Rate
+- Operational Continuity
+- System Availability
+
+Continuous monitoring does not imply uncontrolled recovery.
+
+---
+
+# Failure Handling
+
+When resilience validation fails:
+
+- suspend recovery;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Resilience Audit
+
+Every resilience operation records:
+
+- Resilience ID
+- Runtime ID
+- Recovery Strategy
+- Failure Category
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Resilience Engine remains synchronized with:
+
+- Runtime Engine
+- State Engine
+- Session Engine
+- Capacity Engine
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Resilience Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Resilience Engine Framework establishes the universal enterprise resilience architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to withstand failures, recover deterministically, and maintain enterprise continuity at global scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
