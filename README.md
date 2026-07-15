@@ -26290,3 +26290,212 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_VALIDATOR_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Validator Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Validator Framework governs how Enterprise IMPERIAL Skills validate architecture, manifests, runtime, policies, permissions, dependencies, and production readiness before execution or deployment.
+
+Validation guarantees enterprise integrity.
+
+Nothing executes without successful validation.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Validation Before Execution
+- Zero Trust
+- Deterministic Validation
+- Evidence Before Trust
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Validator Framework provides:
+
+- Manifest Validation
+- Schema Validation
+- Runtime Validation
+- Policy Validation
+- Permission Validation
+- Dependency Validation
+- Security Validation
+- Production Validation
+
+---
+
+# Validator Components
+
+The framework includes:
+
+- Manifest Validator
+- Schema Validator
+- Runtime Validator
+- Policy Validator
+- Permission Validator
+- Dependency Validator
+- Security Validator
+- Production Validator
+
+---
+
+# Validation Pipeline
+
+Every validation follows:
+
+Validation Request
+
+↓
+
+Manifest Validation
+
+↓
+
+Schema Validation
+
+↓
+
+Dependency Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Validation
+
+↓
+
+Runtime Validation
+
+↓
+
+Security Validation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Validation Result
+
+---
+
+# Validation Rules
+
+Every validator must verify:
+
+- SDK Compatibility
+- Manifest Integrity
+- Runtime Compatibility
+- Policy Compliance
+- Permission Scope
+- Dependency Integrity
+- Trust Tier
+- Verification Status
+
+Validation failures block execution.
+
+---
+
+# Validation Results
+
+Supported validation results:
+
+- PASSED
+- PASSED WITH WARNINGS
+- FAILED
+- BLOCKED
+
+Only **PASSED** authorizes production execution.
+
+---
+
+# Validator Requirements
+
+Every validator must be:
+
+- Deterministic
+- Versioned
+- Auditable
+- Reusable
+- Testable
+- Traceable
+
+Validation logic must never be bypassed.
+
+---
+
+# Repository Synchronization
+
+The Validator Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Validation Framework
+- SDK Testing Framework
+- SDK Builder Framework
+- Runtime Engine
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Validator Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Validator Framework establishes the canonical validation architecture for Enterprise IMPERIAL Skills, enabling Codex to automatically validate enterprise-grade AI capabilities with deterministic, secure, and fully auditable verification while preserving architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
