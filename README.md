@@ -27137,3 +27137,239 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_LIFECYCLE_MANAGEMENT.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Lifecycle Management
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Lifecycle Management Framework governs the complete lifecycle of every Enterprise IMPERIAL Skill from initial concept to permanent retirement.
+
+Every lifecycle transition must be deterministic, approved, traceable, and fully auditable.
+
+No Skill may bypass the lifecycle governance model.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Lifecycle Before Execution
+- Zero Trust
+- Explicit State Transitions
+- Continuous Governance
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Lifecycle Framework provides:
+
+- Lifecycle Governance
+- State Management
+- Promotion Control
+- Deprecation Management
+- Retirement Management
+- Enterprise Traceability
+
+---
+
+# Canonical Lifecycle
+
+Every Enterprise Skill progresses through:
+
+Concept
+
+↓
+
+Architecture
+
+↓
+
+Engineering
+
+↓
+
+Testing
+
+↓
+
+Verification
+
+↓
+
+Certification
+
+↓
+
+Approved
+
+↓
+
+Production
+
+↓
+
+Monitoring
+
+↓
+
+Maintenance
+
+↓
+
+Deprecated
+
+↓
+
+Retired
+
+↓
+
+Archived
+
+---
+
+# Lifecycle States
+
+Supported states include:
+
+- Concept
+- Draft
+- Engineering
+- Testing
+- Verification
+- Certified
+- Approved
+- Production
+- Suspended
+- Deprecated
+- Retired
+- Archived
+
+Undefined lifecycle states are prohibited.
+
+---
+
+# Transition Rules
+
+Every state transition requires:
+
+- Identity Validation
+- AI Passport Validation
+- Policy Evaluation
+- Permission Validation
+- Verification Evidence
+- Approval Gateway Authorization
+- Audit Recording
+
+Unauthorized transitions are blocked.
+
+---
+
+# Promotion Rules
+
+Promotion to the next lifecycle stage requires:
+
+- Successful SDK Validation
+- Complete Test Coverage
+- Verification Success
+- Security Compliance
+- Runtime Compatibility
+- Certification Status
+
+Promotion without evidence is prohibited.
+
+---
+
+# Deprecation Rules
+
+A Skill may be deprecated when:
+
+- a newer version replaces it;
+- security risks are identified;
+- dependencies become unsupported;
+- architecture evolves;
+- governance requires replacement.
+
+Deprecated Skills remain traceable.
+
+---
+
+# Retirement Rules
+
+A retired Skill:
+
+- cannot execute;
+- cannot receive updates;
+- remains available for audit;
+- preserves historical evidence;
+- remains linked to dependent records.
+
+Retirement never removes audit history.
+
+---
+
+# Repository Synchronization
+
+The Lifecycle Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Validation Framework
+- SDK Testing Framework
+- SDK Skill Certification Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Lifecycle Management belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Lifecycle Management Framework establishes the canonical lifecycle governance architecture for Enterprise IMPERIAL Skills, enabling Codex to manage every Skill through deterministic, secure, auditable, and enterprise-grade lifecycle processes while preserving long-term architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
