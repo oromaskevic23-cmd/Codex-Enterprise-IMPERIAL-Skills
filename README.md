@@ -25256,3 +25256,206 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_COMMAND_LINE_INTERFACE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Command Line Interface (CLI)
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Command Line Interface (CLI) provides the canonical engineering interface for creating, validating, testing, packaging, deploying, and managing Enterprise IMPERIAL Skills.
+
+The CLI is the standard engineering entry point for Codex and authorized developers.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- CLI Before Manual Operations
+- Zero Trust
+- Deterministic Automation
+- Standardized Engineering
+- Complete Auditability
+
+---
+
+# Objectives
+
+The SDK CLI provides:
+
+- Skill Creation
+- Project Initialization
+- Validation
+- Testing
+- Packaging
+- Deployment
+- Registry Operations
+- Runtime Operations
+
+---
+
+# Core Commands
+
+Supported commands include:
+
+- `eis init`
+- `eis create`
+- `eis validate`
+- `eis verify`
+- `eis test`
+- `eis build`
+- `eis package`
+- `eis deploy`
+- `eis register`
+- `eis update`
+- `eis status`
+- `eis audit`
+
+---
+
+# CLI Workflow
+
+Every CLI operation follows:
+
+Command
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+SDK Execution
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Result
+
+---
+
+# Command Validation
+
+Before execution the CLI validates:
+
+- SDK Compatibility
+- Project Structure
+- Manifest Integrity
+- Runtime Profile
+- Permission Profile
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks execution.
+
+---
+
+# Security Requirements
+
+Every CLI session requires:
+
+- Authenticated Identity
+- Verified AI Passport
+- Approved Permissions
+- Runtime Validation
+- Policy Compliance
+- Audit Registration
+
+Unauthorized CLI operations are prohibited.
+
+---
+
+# CLI Integration
+
+The CLI integrates with:
+
+- SDK Architecture
+- SDK Generator Framework
+- SDK Factory Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Synchronization
+
+The SDK CLI remains synchronized with:
+
+- SDK Contracts
+- SDK Interfaces
+- SDK Validation Framework
+- SDK Deployment Framework
+- SDK Monitoring Client
+- Registry
+- Runtime Engine
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Command Line Interface belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Command Line Interface establishes the canonical engineering interface for Enterprise IMPERIAL Skills, enabling Codex and authorized engineering teams to build, validate, package, deploy, and govern enterprise-grade AI capabilities through a secure, deterministic, and fully standardized development workflow across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
