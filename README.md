@@ -19861,3 +19861,208 @@ The Telemetry Engine Framework establishes the enterprise telemetry architecture
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_METRICS_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Metrics Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Metrics Engine Framework governs how Enterprise IMPERIAL Skills collect, calculate, validate, aggregate, visualize, and govern enterprise metrics across the IMPERIAL Core ecosystem.
+
+Metrics transform operational data into measurable engineering intelligence.
+
+Every metric must remain accurate, reproducible, governed, and fully auditable.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Metrics By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Metrics Engine provides:
+
+- Metric Collection
+- Metric Calculation
+- Metric Aggregation
+- Metric Validation
+- Metric Visualization
+- Enterprise Reporting
+
+---
+
+# Metric Sources
+
+The framework collects metrics from:
+
+- Enterprise Skills
+- Runtime Engine
+- APIs
+- Services
+- Workflows
+- Pipelines
+- Infrastructure
+- Monitoring Framework
+- Telemetry Engine
+
+---
+
+# Metrics Pipeline
+
+Every metric follows:
+
+Metric Collection
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Metric Calculation
+
+↓
+
+Aggregation
+
+↓
+
+Validation
+
+↓
+
+Storage
+
+↓
+
+Audit Recording
+
+---
+
+# Metric Validation
+
+Before publication the framework validates:
+
+- Repository Integrity
+- Metric Accuracy
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Source Consistency
+
+Validation failure blocks publication.
+
+---
+
+# Metric Categories
+
+Supported categories include:
+
+- Performance Metrics
+- Runtime Metrics
+- Infrastructure Metrics
+- Security Metrics
+- API Metrics
+- Workflow Metrics
+- Business Metrics
+- Reliability Metrics
+
+---
+
+# Continuous Monitoring
+
+The framework continuously evaluates:
+
+- Metric Accuracy
+- Collection Health
+- Processing Latency
+- Data Consistency
+- Storage Health
+- Reporting Availability
+
+---
+
+# Failure Handling
+
+When metric validation fails:
+
+- reject metric;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Metrics Audit
+
+Every metric operation records:
+
+- Metric ID
+- Source
+- Category
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Metrics Engine remains synchronized with:
+
+- Telemetry Engine
+- Observability Engine
+- Monitoring Framework
+- Analytics Engine
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Guardian Core
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Metrics Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Metrics Engine Framework establishes the enterprise metrics architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to generate trusted operational intelligence through accurate, governed, and continuously verified enterprise metrics.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
