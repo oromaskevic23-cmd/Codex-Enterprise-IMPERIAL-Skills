@@ -22434,3 +22434,189 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_DEPENDENCY_MANAGEMENT.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Dependency Management
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Dependency Management Framework governs how Enterprise IMPERIAL Skills declare, validate, resolve, update, and control software and Skill dependencies.
+
+Dependencies must remain deterministic, trusted, and fully auditable.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Dependency Transparency
+- Zero Trust
+- Deterministic Resolution
+- Version Consistency
+- Complete Auditability
+
+---
+
+# Objectives
+
+The framework provides:
+
+- Dependency Registration
+- Version Resolution
+- Compatibility Validation
+- Dependency Isolation
+- Secure Updates
+- Enterprise Governance
+
+---
+
+# Dependency Types
+
+Supported dependency types include:
+
+- SDK Dependencies
+- Runtime Dependencies
+- Enterprise Skills
+- External Libraries
+- Internal Modules
+- Infrastructure Services
+
+---
+
+# Dependency Rules
+
+Every dependency must define:
+
+- Dependency ID
+- Version
+- Source
+- Trust Status
+- Compatibility
+- Owner
+- License
+
+Undefined dependencies are prohibited.
+
+---
+
+# Validation Pipeline
+
+Every dependency follows:
+
+Registration
+
+↓
+
+Version Validation
+
+↓
+
+Compatibility Validation
+
+↓
+
+Security Validation
+
+↓
+
+Trust Verification
+
+↓
+
+Approval
+
+↓
+
+Audit Recording
+
+Only validated dependencies may enter production.
+
+---
+
+# Version Management
+
+Supported versions include:
+
+- Stable
+- Long-Term Support
+- Release Candidate
+- Development
+
+Production environments must use approved versions only.
+
+---
+
+# Security Requirements
+
+Every dependency requires:
+
+- Integrity Verification
+- Trusted Source
+- Version Locking
+- Vulnerability Assessment
+- Audit Registration
+
+Compromised dependencies are immediately blocked.
+
+---
+
+# Repository Synchronization
+
+The Dependency Management Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Contracts
+- SDK Validation Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Trust Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Dependency Management belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Dependency Management Framework establishes the canonical dependency governance model for Enterprise IMPERIAL Skills, enabling Codex to build secure, deterministic, and maintainable enterprise software while preserving architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
