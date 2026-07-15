@@ -26706,3 +26706,228 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_REFERENCE_SKILL.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Reference Skill
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Reference Skill defines the canonical implementation model for every Enterprise IMPERIAL Skill.
+
+It serves as the engineering reference used by Codex when generating production-ready Skills.
+
+Every new Skill begins from this reference implementation.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Reference Before Customization
+- Zero Trust
+- Secure By Design
+- Deterministic Engineering
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Reference Skill provides:
+
+- Canonical Structure
+- Standard Lifecycle
+- SDK Integration
+- Runtime Integration
+- Verification Integration
+- Audit Integration
+
+---
+
+# Reference Components
+
+Every Reference Skill contains:
+
+- SKILL.md
+- Manifest
+- Runtime Profile
+- Permission Profile
+- Policy Profile
+- Configuration
+- Source Code
+- Test Suite
+- Documentation
+- Verification Evidence
+
+---
+
+# Reference Lifecycle
+
+Every Skill follows:
+
+Initialize
+
+↓
+
+Validate
+
+↓
+
+Authenticate
+
+↓
+
+Authorize
+
+↓
+
+Allocate Runtime
+
+↓
+
+Execute
+
+↓
+
+Verify Results
+
+↓
+
+Audit Recording
+
+↓
+
+Release Resources
+
+↓
+
+Shutdown
+
+Lifecycle order is mandatory.
+
+---
+
+# Mandatory Integrations
+
+Every Reference Skill integrates with:
+
+- SDK Contracts
+- SDK Interfaces
+- SDK Base Classes
+- Runtime Engine
+- Registry
+- Verification Framework
+- Trust Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Mandatory Validation
+
+Every Reference Skill validates:
+
+- Manifest
+- Schema
+- Runtime
+- Dependencies
+- Permissions
+- Policies
+- Trust Tier
+- Verification Status
+
+Validation failures block execution.
+
+---
+
+# Required Outputs
+
+Every Reference Skill produces:
+
+- Structured Output
+- Runtime Metrics
+- Audit Records
+- Verification Evidence
+- Health Status
+- Execution Metadata
+
+---
+
+# Engineering Rules
+
+Every generated Skill must:
+
+- inherit approved Base Classes;
+- implement SDK Interfaces;
+- implement SDK Contracts;
+- include automated tests;
+- include documentation;
+- include verification evidence;
+- support production deployment.
+
+---
+
+# Repository Synchronization
+
+The Reference Skill remains synchronized with:
+
+- SDK Architecture
+- SDK Contracts
+- SDK Interfaces
+- SDK Base Classes
+- SDK Generator Framework
+- SDK Builder Framework
+- SDK Testing Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Reference Skill belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Reference Skill establishes the canonical implementation blueprint for Enterprise IMPERIAL Skills, enabling Codex to generate secure, deterministic, reusable, and enterprise-grade AI capabilities while preserving architectural consistency, engineering quality, and governance across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
