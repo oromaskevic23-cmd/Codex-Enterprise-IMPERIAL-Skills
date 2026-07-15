@@ -19658,3 +19658,206 @@ The Observability Engine Framework establishes the enterprise observability arch
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_TELEMETRY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Telemetry Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Telemetry Engine Framework governs how Enterprise IMPERIAL Skills collect, process, transmit, protect, and govern operational telemetry across the IMPERIAL Core ecosystem.
+
+Telemetry provides trusted operational intelligence.
+
+Every telemetry record must remain accurate, secure, policy compliant, and fully auditable.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Telemetry By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Telemetry Engine provides:
+
+- Telemetry Collection
+- Telemetry Processing
+- Telemetry Aggregation
+- Telemetry Analysis
+- Telemetry Distribution
+- Enterprise Visibility
+
+---
+
+# Telemetry Sources
+
+The framework collects telemetry from:
+
+- Enterprise Skills
+- Runtime Engine
+- Services
+- APIs
+- Workflows
+- Infrastructure
+- Monitoring Framework
+- Observability Framework
+
+---
+
+# Telemetry Pipeline
+
+Every telemetry event follows:
+
+Telemetry Generation
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Telemetry Collection
+
+↓
+
+Normalization
+
+↓
+
+Aggregation
+
+↓
+
+Storage
+
+↓
+
+Audit Recording
+
+---
+
+# Telemetry Validation
+
+Before storage the framework validates:
+
+- Repository Integrity
+- Data Integrity
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Runtime Availability
+
+Validation failure blocks telemetry storage.
+
+---
+
+# Telemetry Categories
+
+Supported categories include:
+
+- Runtime Telemetry
+- Performance Telemetry
+- Infrastructure Telemetry
+- API Telemetry
+- Workflow Telemetry
+- Security Telemetry
+- Business Telemetry
+- Operational Telemetry
+
+---
+
+# Continuous Monitoring
+
+The framework continuously evaluates:
+
+- Telemetry Quality
+- Collection Rate
+- Data Completeness
+- Latency
+- Storage Health
+- Transmission Health
+
+---
+
+# Failure Handling
+
+When telemetry validation fails:
+
+- reject telemetry;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Telemetry Audit
+
+Every telemetry operation records:
+
+- Telemetry ID
+- Source
+- Category
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Telemetry Engine remains synchronized with:
+
+- Observability Engine
+- Monitoring Framework
+- Analytics Engine
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Guardian Core
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Telemetry Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Telemetry Engine Framework establishes the enterprise telemetry architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to collect, analyze, and govern enterprise telemetry through secure, scalable, and continuously verified operational intelligence.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
