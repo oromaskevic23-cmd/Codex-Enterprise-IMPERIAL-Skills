@@ -24033,3 +24033,207 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_GENERATOR_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Generator Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Generator Framework governs how Codex and approved engineering systems automatically generate Enterprise IMPERIAL Skills from canonical SDK templates, schemas, and implementation contracts.
+
+Generation must always preserve architectural integrity.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Generation From Standards
+- Zero Trust
+- Deterministic Engineering
+- Reusable Components
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Generator Framework provides:
+
+- Automatic Skill Generation
+- Project Generation
+- Manifest Generation
+- Runtime Generation
+- Policy Generation
+- Test Generation
+- Documentation Generation
+
+---
+
+# Generator Inputs
+
+The Generator uses:
+
+- SDK Templates
+- SDK Contracts
+- SDK Interfaces
+- SDK Base Classes
+- Manifest Schemas
+- Runtime Profiles
+- Policy Profiles
+- Permission Profiles
+
+---
+
+# Generation Pipeline
+
+Every generation follows:
+
+Generation Request
+
+↓
+
+Template Selection
+
+↓
+
+Schema Validation
+
+↓
+
+Manifest Generation
+
+↓
+
+Project Generation
+
+↓
+
+Runtime Generation
+
+↓
+
+Policy Generation
+
+↓
+
+Test Generation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Project Ready
+
+---
+
+# Generation Validation
+
+Before project creation the framework validates:
+
+- SDK Compatibility
+- Template Integrity
+- Manifest Structure
+- Runtime Compatibility
+- Dependency Compatibility
+- Policy Compliance
+
+Validation failure blocks generation.
+
+---
+
+# Generator Rules
+
+Every generated project must:
+
+- inherit approved SDK Base Classes;
+- implement SDK Contracts;
+- implement SDK Interfaces;
+- include complete documentation;
+- include automated tests;
+- include verification evidence;
+- register with the Registry.
+
+---
+
+# Generated Artifacts
+
+The Generator automatically produces:
+
+- Source Code
+- Manifest
+- Configuration
+- Runtime Profile
+- Permission Profile
+- Policy Profile
+- Test Suite
+- Documentation
+
+---
+
+# Repository Synchronization
+
+The Generator Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Factory Framework
+- SDK Template Engine
+- SDK Schema Framework
+- Registry
+- Runtime Engine
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Generator Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Generator Framework establishes the canonical automatic generation architecture for Enterprise IMPERIAL Skills, enabling Codex to produce secure, deterministic, enterprise-grade AI capabilities while preserving architectural consistency, governance, and engineering quality across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
