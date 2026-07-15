@@ -21189,3 +21189,203 @@ SDK Contracts establish the canonical implementation standard for Enterprise IMP
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SDK_BASE_CLASSES.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Base Classes
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Mission
+
+The SDK Base Classes define the canonical implementation foundation for every Enterprise IMPERIAL Skill.
+
+Every production Skill inherits standardized enterprise behavior before implementing business logic.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Inheritance Before Specialization
+- Contract First Engineering
+- Zero Trust
+- Reuse Before Duplication
+- Complete Auditability
+
+---
+
+# Objectives
+
+The SDK Base Classes provide:
+
+- Standard Skill Foundation
+- Shared Enterprise Behavior
+- Common Validation
+- Runtime Integration
+- Policy Enforcement
+- Lifecycle Standardization
+
+---
+
+# Base Classes
+
+The SDK defines:
+
+- BaseEnterpriseSkill
+- BaseWorkflowSkill
+- BaseServiceSkill
+- BaseAPISkill
+- BaseEventSkill
+- BaseConnectorSkill
+- BasePipelineSkill
+- BaseAutomationSkill
+
+Every Skill inherits from one approved base class.
+
+---
+
+# BaseEnterpriseSkill
+
+Provides:
+
+- Manifest Loading
+- Identity Validation
+- AI Passport Integration
+- Permission Validation
+- Policy Evaluation
+- Runtime Initialization
+- Audit Recording
+- Lifecycle Management
+
+---
+
+# Common Components
+
+Every base class provides:
+
+- Skill Metadata
+- Skill Context
+- Runtime Context
+- Configuration
+- Logger
+- Metrics
+- Tracing
+- Telemetry
+- Audit Client
+
+---
+
+# Execution Lifecycle
+
+Every Skill executes through:
+
+Initialize
+
+↓
+
+Validate
+
+↓
+
+Authorize
+
+↓
+
+Execute
+
+↓
+
+Verify Output
+
+↓
+
+Audit
+
+↓
+
+Shutdown
+
+Lifecycle order is mandatory.
+
+---
+
+# Extension Rules
+
+Derived Skills may:
+
+- extend functionality;
+- override approved methods;
+- add business logic;
+- register additional capabilities.
+
+Derived Skills must not bypass enterprise controls.
+
+---
+
+# Validation Rules
+
+Every base class automatically validates:
+
+- Manifest
+- Runtime Profile
+- Permissions
+- Policies
+- Dependencies
+- Trust Tier
+
+Validation cannot be disabled.
+
+---
+
+# Runtime Integration
+
+Every base class integrates with:
+
+- Runtime Engine
+- Registry
+- Verification Framework
+- Trust Framework
+- Audit Ledger
+- Guardian Core
+- Approval Gateway
+
+---
+
+# Repository Synchronization
+
+SDK Base Classes remain synchronized with:
+
+- SDK Architecture
+- SDK Contracts
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Base Classes belong exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+SDK Base Classes establish the canonical implementation foundation for Enterprise IMPERIAL Skills, enabling Codex to generate secure, reusable, governed, and production-ready enterprise AI capabilities with consistent engineering quality across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
