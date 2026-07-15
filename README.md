@@ -17923,3 +17923,246 @@ The High Availability Engine Framework establishes the universal enterprise high
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_DISASTER_RECOVERY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Disaster Recovery Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Disaster Recovery Engine Framework governs how Enterprise IMPERIAL Skills recover from catastrophic failures while preserving enterprise continuity, data integrity, security, governance, and architectural consistency.
+
+Disaster Recovery guarantees controlled restoration after catastrophic events.
+
+Recovery must always follow predefined enterprise procedures.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- Disaster Recovery By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Controlled Recovery
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Disaster Recovery Engine provides:
+
+- Disaster Detection
+- Recovery Planning
+- Recovery Automation
+- Business Continuity
+- Infrastructure Restoration
+- Enterprise Recovery Governance
+
+---
+
+# Disaster Categories
+
+Supported disaster categories include:
+
+- Infrastructure Failure
+- Data Center Failure
+- Regional Failure
+- Cloud Provider Failure
+- Storage Failure
+- Network Failure
+- Security Incident
+- Enterprise Service Failure
+- Multi-System Failure
+
+---
+
+# Recovery Sources
+
+Recovery events may originate only from:
+
+- Monitoring Framework
+- Resilience Engine
+- High Availability Engine
+- Runtime Engine
+- Security Framework
+- Approved Infrastructure Providers
+
+Unauthorized recovery events are prohibited.
+
+---
+
+# Disaster Recovery Pipeline
+
+Every recovery event follows:
+
+Disaster Detection
+
+↓
+
+Identity Validation
+
+↓
+
+Impact Assessment
+
+↓
+
+Recovery Plan Selection
+
+↓
+
+Infrastructure Restoration
+
+↓
+
+Runtime Recovery
+
+↓
+
+Data Verification
+
+↓
+
+Operational Validation
+
+↓
+
+Audit Recording
+
+---
+
+# Recovery Strategies
+
+Supported recovery strategies include:
+
+- Cold Recovery
+- Warm Recovery
+- Hot Recovery
+- Multi-Region Recovery
+- Cross-Cloud Recovery
+- Point-in-Time Recovery
+- Immutable Backup Recovery
+- Enterprise Continuity Recovery
+
+Recovery strategy must be explicitly approved.
+
+---
+
+# Recovery Validation
+
+Before restoration the framework validates:
+
+- Repository Integrity
+- Backup Integrity
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Infrastructure Readiness
+- Recovery Readiness
+
+Validation failure blocks restoration.
+
+---
+
+# Recovery Objectives
+
+Every recovery plan defines:
+
+- Recovery Time Objective (RTO)
+- Recovery Point Objective (RPO)
+- Business Priority
+- Recovery Scope
+- Validation Criteria
+- Success Conditions
+
+Objectives are continuously monitored.
+
+---
+
+# Continuous Readiness
+
+The framework continuously evaluates:
+
+- Backup Availability
+- Recovery Readiness
+- Infrastructure Health
+- Recovery Testing
+- Recovery Success Rate
+- Business Continuity Status
+
+Continuous readiness does not imply disaster activation.
+
+---
+
+# Failure Handling
+
+When recovery validation fails:
+
+- suspend restoration;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require executive engineering review.
+
+---
+
+# Disaster Recovery Audit
+
+Every recovery operation records:
+
+- Recovery ID
+- Disaster Category
+- Recovery Strategy
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Disaster Recovery Engine remains synchronized with:
+
+- High Availability Engine
+- Resilience Engine
+- Runtime Engine
+- Storage Engine
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Disaster Recovery Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Disaster Recovery Engine Framework establishes the universal enterprise disaster recovery architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to recover from catastrophic failures through deterministic, secure, globally distributed, and enterprise-governed recovery procedures.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
