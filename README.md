@@ -26088,3 +26088,205 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_BUILDER_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Builder Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Builder Framework governs how Enterprise IMPERIAL Skills are assembled into verified, reproducible, production-ready engineering artifacts.
+
+Every build must be deterministic, secure, repeatable, and fully auditable.
+
+Manual build procedures are prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Build Before Release
+- Zero Trust
+- Reproducible Builds
+- Immutable Artifacts
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Builder Framework provides:
+
+- Build Orchestration
+- Artifact Generation
+- Dependency Resolution
+- Build Verification
+- Package Assembly
+- Production Preparation
+
+---
+
+# Builder Responsibilities
+
+The Builder is responsible for:
+
+- Preparing build environments
+- Resolving dependencies
+- Compiling source code
+- Packaging artifacts
+- Verifying integrity
+- Publishing build metadata
+
+---
+
+# Build Pipeline
+
+Every build follows:
+
+Build Request
+
+↓
+
+Project Validation
+
+↓
+
+SDK Validation
+
+↓
+
+Dependency Resolution
+
+↓
+
+Compilation
+
+↓
+
+Artifact Generation
+
+↓
+
+Integrity Verification
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Build Complete
+
+---
+
+# Build Validation
+
+Before artifact creation the framework validates:
+
+- SDK Compatibility
+- Project Structure
+- Manifest Integrity
+- Dependency Integrity
+- Runtime Compatibility
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks the build.
+
+---
+
+# Build Artifacts
+
+The Builder produces:
+
+- Compiled Artifacts
+- Skill Package
+- Build Manifest
+- Verification Evidence
+- Runtime Bundle
+- Build Metadata
+- Integrity Hashes
+- Digital Signatures
+
+---
+
+# Build Rules
+
+Every build must be:
+
+- Deterministic
+- Versioned
+- Reproducible
+- Signed
+- Verified
+- Auditable
+
+Unsigned production artifacts are prohibited.
+
+---
+
+# Repository Synchronization
+
+The Builder Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Generator Framework
+- SDK Package Specification
+- SDK Release Framework
+- SDK Testing Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Builder Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Builder Framework establishes the canonical build architecture for Enterprise IMPERIAL Skills, enabling Codex to generate deterministic, secure, reproducible, and enterprise-grade build artifacts while preserving engineering quality and architectural consistency across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
