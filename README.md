@@ -23650,3 +23650,182 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_TEMPLATE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Template Engine
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Template Engine governs how Enterprise IMPERIAL Skills are generated from approved engineering templates.
+
+Templates ensure every Skill follows the same enterprise architecture, coding standards, governance, and security model.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Template First Engineering
+- Zero Trust
+- Standardization Before Customization
+- Reproducible Generation
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Template Engine provides:
+
+- Skill Templates
+- Project Templates
+- Runtime Templates
+- Policy Templates
+- Manifest Templates
+- Test Templates
+
+---
+
+# Template Categories
+
+Supported template categories include:
+
+- Enterprise Skill
+- Workflow Skill
+- API Skill
+- Service Skill
+- Event Skill
+- Connector Skill
+- Pipeline Skill
+- Automation Skill
+
+---
+
+# Template Generation Pipeline
+
+Every template follows:
+
+Template Selection
+
+↓
+
+Schema Validation
+
+↓
+
+SDK Validation
+
+↓
+
+Template Expansion
+
+↓
+
+Project Generation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Ready for Development
+
+---
+
+# Template Validation
+
+Before generation the framework validates:
+
+- SDK Compatibility
+- Schema Integrity
+- Manifest Structure
+- Runtime Profile
+- Policy Compliance
+- Repository Standards
+
+Validation failure blocks generation.
+
+---
+
+# Template Requirements
+
+Every template must include:
+
+- Standard Directory Layout
+- Manifest
+- README
+- Runtime Profile
+- Permission Profile
+- Policy Profile
+- Test Skeleton
+- Documentation
+
+Incomplete templates are prohibited.
+
+---
+
+# Repository Synchronization
+
+The Template Engine remains synchronized with:
+
+- SDK Architecture
+- SDK Project Template
+- SDK Schema Framework
+- SDK Validation Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Template Engine belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Template Engine establishes the canonical project generation architecture for Enterprise IMPERIAL Skills, enabling Codex to automatically generate secure, consistent, enterprise-grade Skill projects while preserving architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
