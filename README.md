@@ -25459,3 +25459,204 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SCAFFOLDING_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Scaffolding Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Scaffolding Framework governs how Enterprise IMPERIAL Skills projects are automatically scaffolded into complete, production-ready engineering workspaces.
+
+Scaffolding guarantees architectural consistency before implementation begins.
+
+Manual project bootstrapping is prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Scaffolding Before Development
+- Zero Trust
+- Deterministic Generation
+- Standardized Engineering
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Scaffolding Framework provides:
+
+- Project Bootstrapping
+- Repository Initialization
+- Directory Generation
+- SDK Integration
+- Runtime Preparation
+- Engineering Standardization
+
+---
+
+# Scaffolding Components
+
+Every generated project includes:
+
+- Repository Structure
+- SDK Configuration
+- Runtime Profile
+- Manifest
+- Policy Profile
+- Permission Profile
+- Documentation
+- Test Framework
+- Verification Assets
+
+---
+
+# Scaffolding Pipeline
+
+Every project follows:
+
+Scaffold Request
+
+↓
+
+Template Selection
+
+↓
+
+Schema Validation
+
+↓
+
+Project Generation
+
+↓
+
+SDK Integration
+
+↓
+
+Runtime Preparation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Project Ready
+
+---
+
+# Generated Structure
+
+The framework automatically creates:
+
+- Source Directory
+- Test Directory
+- Documentation
+- Configuration Files
+- Runtime Files
+- Policy Files
+- Permission Files
+- Verification Assets
+- Build Configuration
+- Deployment Configuration
+
+---
+
+# Validation
+
+Before project creation the framework validates:
+
+- SDK Compatibility
+- Template Integrity
+- Schema Compliance
+- Runtime Compatibility
+- Repository Standards
+- Policy Compliance
+
+Validation failure blocks scaffolding.
+
+---
+
+# Engineering Rules
+
+Every scaffolded project must:
+
+- inherit canonical architecture;
+- implement SDK Contracts;
+- use approved SDK Interfaces;
+- include automated testing;
+- include documentation;
+- include verification evidence;
+- support production deployment.
+
+---
+
+# Repository Synchronization
+
+The Scaffolding Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Generator Framework
+- SDK Factory Framework
+- SDK Project Template
+- SDK Validation Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Scaffolding Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Scaffolding Framework establishes the canonical engineering bootstrap architecture for Enterprise IMPERIAL Skills, enabling Codex to instantly generate complete, secure, deterministic, and enterprise-grade development workspaces while preserving architectural consistency across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
