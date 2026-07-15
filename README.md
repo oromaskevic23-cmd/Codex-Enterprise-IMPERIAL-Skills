@@ -20066,3 +20066,208 @@ The Metrics Engine Framework establishes the enterprise metrics architecture for
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_LOGGING_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Logging Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Logging Engine Framework governs how Enterprise IMPERIAL Skills generate, collect, process, protect, retain, and govern enterprise logs across the IMPERIAL Core ecosystem.
+
+Logs provide authoritative operational evidence.
+
+Every log must remain accurate, immutable, protected, searchable, and fully auditable.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Logging By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Logging Engine provides:
+
+- Log Collection
+- Log Processing
+- Log Storage
+- Log Protection
+- Log Retention
+- Enterprise Traceability
+
+---
+
+# Log Sources
+
+The framework collects logs from:
+
+- Enterprise Skills
+- Runtime Engine
+- Services
+- APIs
+- Workflows
+- Pipelines
+- Infrastructure
+- Monitoring Framework
+- Guardian Core
+
+---
+
+# Logging Pipeline
+
+Every log follows:
+
+Event Generation
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Log Collection
+
+↓
+
+Normalization
+
+↓
+
+Classification
+
+↓
+
+Storage
+
+↓
+
+Audit Recording
+
+---
+
+# Log Validation
+
+Before storage the framework validates:
+
+- Repository Integrity
+- Log Integrity
+- Trust Tier
+- Verification Status
+- Policy Compliance
+- Source Authenticity
+
+Validation failure blocks storage.
+
+---
+
+# Log Categories
+
+Supported categories include:
+
+- Runtime Logs
+- Security Logs
+- API Logs
+- Workflow Logs
+- Infrastructure Logs
+- Audit Logs
+- System Logs
+- Diagnostic Logs
+
+---
+
+# Continuous Monitoring
+
+The framework continuously evaluates:
+
+- Log Availability
+- Collection Rate
+- Storage Health
+- Integrity Status
+- Retention Status
+- Processing Health
+
+---
+
+# Failure Handling
+
+When logging validation fails:
+
+- reject log;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Logging Audit
+
+Every logging operation records:
+
+- Log ID
+- Source
+- Category
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Logging Engine remains synchronized with:
+
+- Metrics Engine
+- Telemetry Engine
+- Observability Engine
+- Monitoring Framework
+- Runtime Engine
+- Verification Framework
+- Trust Framework
+- Guardian Core
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Logging Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Logging Engine Framework establishes the enterprise logging architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to generate, preserve, and govern trusted operational evidence through secure, immutable, and continuously verified enterprise logging.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
