@@ -17697,3 +17697,229 @@ The Resilience Engine Framework establishes the universal enterprise resilience 
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_HIGH_AVAILABILITY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills High Availability Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The High Availability Engine Framework governs how Enterprise IMPERIAL Skills maintain continuous operation through redundancy, automatic failover, intelligent workload distribution, and enterprise-grade availability.
+
+High Availability ensures uninterrupted enterprise operations.
+
+No single infrastructure failure shall interrupt governed Enterprise IMPERIAL Skills.
+
+---
+
+# Architecture Principles
+
+The framework follows:
+
+- Architecture Before Implementation
+- High Availability By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Eliminate Single Points of Failure
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The High Availability Engine provides:
+
+- Service Redundancy
+- Automatic Failover
+- Health Monitoring
+- Workload Distribution
+- Availability Verification
+- Enterprise Continuity
+
+---
+
+# Availability Domains
+
+Supported availability domains include:
+
+- Runtime Availability
+- Service Availability
+- API Availability
+- Workflow Availability
+- Storage Availability
+- Network Availability
+- Orchestrator Availability
+- Enterprise Availability
+
+---
+
+# Availability Sources
+
+Availability information may originate only from:
+
+- Runtime Engine
+- Monitoring Framework
+- Observability Framework
+- Capacity Engine
+- Resilience Engine
+- Infrastructure Providers
+- Approved Enterprise Services
+
+Unauthorized availability sources are prohibited.
+
+---
+
+# High Availability Pipeline
+
+Every availability event follows:
+
+Health Detection
+
+↓
+
+Identity Validation
+
+↓
+
+Health Verification
+
+↓
+
+Failure Analysis
+
+↓
+
+Failover Decision
+
+↓
+
+Traffic Redistribution
+
+↓
+
+Runtime Verification
+
+↓
+
+Recovery Confirmation
+
+↓
+
+Audit Recording
+
+---
+
+# High Availability Strategies
+
+Supported strategies include:
+
+- Active-Active
+- Active-Passive
+- Multi-Region Deployment
+- Automatic Failover
+- Load Balancing
+- Redundant Runtime
+- Distributed Execution
+- Graceful Degradation
+
+---
+
+# Availability Validation
+
+Before failover the framework validates:
+
+- Repository Integrity
+- Runtime Health
+- Verification Status
+- Trust Tier
+- Policy Compliance
+- Resource Availability
+- Recovery Readiness
+
+Validation failure blocks failover.
+
+---
+
+# Continuous Availability
+
+The framework continuously evaluates:
+
+- Service Uptime
+- Runtime Health
+- Node Availability
+- Cluster Stability
+- Regional Availability
+- Infrastructure Health
+
+Continuous monitoring remains active throughout execution.
+
+---
+
+# Failure Handling
+
+When availability validation fails:
+
+- isolate failed resources;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# High Availability Audit
+
+Every availability operation records:
+
+- Availability ID
+- Runtime ID
+- Recovery Strategy
+- Infrastructure Scope
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The High Availability Engine remains synchronized with:
+
+- Runtime Engine
+- Resilience Engine
+- Capacity Engine
+- Monitoring Framework
+- Verification Framework
+- Trust Framework
+- Registry
+- Audit Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+High Availability Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The High Availability Engine Framework establishes the universal enterprise high availability architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to maintain continuous operation, eliminate single points of failure, and achieve enterprise-scale resilience with deterministic governance.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
