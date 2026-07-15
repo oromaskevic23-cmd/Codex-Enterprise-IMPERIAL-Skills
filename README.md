@@ -25660,3 +25660,221 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_EXCEPTION_LIBRARY.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Exception Library
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Exception Library defines the canonical enterprise exception model for Enterprise IMPERIAL Skills.
+
+Every failure must be explicit, deterministic, traceable, recoverable where appropriate, and fully auditable.
+
+Unhandled exceptions are prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Explicit Failure Handling
+- Zero Trust
+- Deterministic Error Processing
+- Fail Secure
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Exception Library provides:
+
+- Standard Exception Types
+- Error Classification
+- Failure Propagation
+- Recovery Policies
+- Audit Integration
+- Enterprise Diagnostics
+
+---
+
+# Exception Categories
+
+The SDK defines:
+
+- Validation Exceptions
+- Runtime Exceptions
+- Security Exceptions
+- Policy Exceptions
+- Permission Exceptions
+- Registry Exceptions
+- Network Exceptions
+- Configuration Exceptions
+- Dependency Exceptions
+- Verification Exceptions
+- Audit Exceptions
+- Internal SDK Exceptions
+
+---
+
+# Core Exception Types
+
+Mandatory enterprise exceptions include:
+
+- InvalidManifestException
+- SchemaValidationException
+- RuntimeInitializationException
+- PermissionDeniedException
+- PolicyViolationException
+- VerificationFailedException
+- RegistryAccessException
+- AuditRecordingException
+- ConfigurationException
+- DependencyResolutionException
+- SkillExecutionException
+- InternalSDKException
+
+---
+
+# Exception Pipeline
+
+Every exception follows:
+
+Exception Raised
+
+↓
+
+Classification
+
+↓
+
+Severity Assessment
+
+↓
+
+Recovery Decision
+
+↓
+
+Audit Recording
+
+↓
+
+Monitoring Notification
+
+↓
+
+Response
+
+---
+
+# Severity Levels
+
+Supported severity levels:
+
+- INFO
+- LOW
+- MEDIUM
+- HIGH
+- CRITICAL
+- FATAL
+
+Severity determines recovery policy.
+
+---
+
+# Recovery Policies
+
+Supported recovery actions:
+
+- Retry
+- Rollback
+- Abort
+- Isolate
+- Escalate
+- Shutdown
+
+Recovery policy must be explicitly defined.
+
+---
+
+# Exception Rules
+
+Every exception must contain:
+
+- Exception ID
+- Exception Type
+- Timestamp
+- Skill ID
+- Runtime Context
+- Severity
+- Root Cause
+- Recovery Action
+- Audit Reference
+
+Incomplete exceptions are prohibited.
+
+---
+
+# Repository Synchronization
+
+The Exception Library remains synchronized with:
+
+- SDK Architecture
+- SDK Validation Framework
+- SDK Runtime Client
+- SDK Audit Client
+- SDK Monitoring Client
+- Runtime Engine
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Exception Library belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Exception Library establishes the canonical enterprise failure-handling architecture for Enterprise IMPERIAL Skills, enabling Codex to produce secure, deterministic, recoverable, and fully auditable software while preserving operational stability and architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
