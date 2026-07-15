@@ -19261,3 +19261,205 @@ The Consistency Engine Framework establishes the enterprise consistency architec
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_COMPLIANCE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Compliance Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Compliance Engine Framework governs how Enterprise IMPERIAL Skills continuously validate compliance with enterprise architecture, governance, security, operational policies, and regulatory requirements.
+
+Compliance is continuously verified.
+
+Compliance is never assumed.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Compliance By Design
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Continuous Verification
+- Policy Enforcement
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Compliance Engine provides:
+
+- Compliance Validation
+- Policy Enforcement
+- Standards Verification
+- Risk Identification
+- Continuous Monitoring
+- Enterprise Governance
+
+---
+
+# Compliance Scope
+
+The framework governs:
+
+- Enterprise Skills
+- Runtime
+- Services
+- APIs
+- Workflows
+- Policies
+- Configurations
+- Security Controls
+- Audit Records
+
+---
+
+# Compliance Pipeline
+
+Every compliance evaluation follows:
+
+Compliance Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Compliance Analysis
+
+↓
+
+Violation Detection
+
+↓
+
+Decision
+
+↓
+
+Audit Recording
+
+---
+
+# Compliance Validation
+
+Before approval the framework validates:
+
+- Repository Integrity
+- Policy Compliance
+- Security Compliance
+- Runtime Compliance
+- Trust Tier
+- Verification Status
+- Governance Rules
+
+Validation failure blocks approval.
+
+---
+
+# Compliance Categories
+
+Supported categories include:
+
+- Architecture Compliance
+- Security Compliance
+- Runtime Compliance
+- Repository Compliance
+- Operational Compliance
+- Governance Compliance
+- Audit Compliance
+- Configuration Compliance
+
+---
+
+# Continuous Monitoring
+
+The framework continuously evaluates:
+
+- Policy Violations
+- Configuration Drift
+- Runtime Violations
+- Security Violations
+- Governance Violations
+- Compliance Status
+
+---
+
+# Failure Handling
+
+When compliance validation fails:
+
+- reject operation;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require governance review.
+
+---
+
+# Compliance Audit
+
+Every compliance operation records:
+
+- Compliance ID
+- Scope
+- Policy
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Compliance Engine remains synchronized with:
+
+- Policy Engine
+- Verification Framework
+- Trust Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Runtime Engine
+- Registry
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Compliance Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Compliance Engine Framework establishes the enterprise compliance architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to continuously verify enterprise compliance, enforce governance, and maintain trusted operations at global scale.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
