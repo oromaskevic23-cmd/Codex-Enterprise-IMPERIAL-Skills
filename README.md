@@ -27591,3 +27591,225 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_COMPOSITION_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Composition Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Composition Framework governs how Enterprise IMPERIAL Skills are combined into reusable, governed, deterministic, and enterprise-grade workflows.
+
+Complex capabilities are constructed through Skill composition rather than duplication.
+
+Composition preserves modularity, interoperability, and architectural consistency.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Composition Before Duplication
+- Zero Trust
+- Modular Engineering
+- Deterministic Execution
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Composition Framework provides:
+
+- Skill Composition
+- Workflow Construction
+- Dependency Coordination
+- Runtime Orchestration
+- Result Aggregation
+- Enterprise Reusability
+
+---
+
+# Composition Types
+
+Supported composition models include:
+
+- Sequential Composition
+- Parallel Composition
+- Conditional Composition
+- Event-Driven Composition
+- Pipeline Composition
+- Hierarchical Composition
+- Federated Composition
+
+---
+
+# Composition Components
+
+Every composition defines:
+
+- Composition ID
+- Parent Skill
+- Child Skills
+- Execution Order
+- Data Flow
+- Runtime Context
+- Trust Level
+- Verification Status
+
+---
+
+# Composition Pipeline
+
+Every composition follows:
+
+Composition Request
+
+↓
+
+Skill Discovery
+
+↓
+
+Dependency Resolution
+
+↓
+
+Compatibility Validation
+
+↓
+
+Policy Validation
+
+↓
+
+Runtime Allocation
+
+↓
+
+Workflow Execution
+
+↓
+
+Result Aggregation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Composition Complete
+
+---
+
+# Validation Rules
+
+Before execution the framework validates:
+
+- SDK Compatibility
+- Skill Compatibility
+- Dependency Integrity
+- Runtime Compatibility
+- Policy Compliance
+- Permission Scope
+- Trust Tier
+- Verification Status
+
+Invalid compositions are prohibited.
+
+---
+
+# Runtime Rules
+
+Every composed workflow must:
+
+- preserve Skill isolation;
+- maintain runtime boundaries;
+- propagate execution context;
+- preserve audit evidence;
+- support deterministic recovery.
+
+Composition must never bypass enterprise controls.
+
+---
+
+# Composition Governance
+
+Every composition requires:
+
+- Registered Skills
+- Approved Dependencies
+- Verified Runtime
+- Policy Compliance
+- Approval Gateway Authorization
+- Audit Registration
+
+Unauthorized compositions are blocked.
+
+---
+
+# Repository Synchronization
+
+The Composition Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Skill Dependency Graph
+- SDK Skill Lifecycle Management
+- Runtime Engine
+- Registry
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Composition Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Composition Framework establishes the canonical composition architecture for Enterprise IMPERIAL Skills, enabling Codex to build scalable, modular, deterministic, and enterprise-grade AI workflows from reusable Skills while preserving governance, interoperability, and architectural integrity across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
