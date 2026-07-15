@@ -26499,3 +26499,210 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_DOCUMENTATION_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Documentation Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Documentation Framework governs how Enterprise IMPERIAL Skills are documented throughout their complete engineering lifecycle.
+
+Documentation is treated as an enterprise engineering artifact and must remain synchronized with the implemented architecture.
+
+Undocumented production components are prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Documentation As Code
+- Documentation Before Release
+- Zero Trust
+- Continuous Synchronization
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Documentation Framework provides:
+
+- Architecture Documentation
+- SDK Documentation
+- API Documentation
+- Runtime Documentation
+- Operational Documentation
+- Developer Documentation
+- User Documentation
+- Verification Documentation
+
+---
+
+# Documentation Categories
+
+Every Enterprise Skill includes:
+
+- Architecture Overview
+- README
+- SKILL.md
+- Manifest Documentation
+- Runtime Documentation
+- Permission Documentation
+- Policy Documentation
+- Verification Evidence
+- API Reference
+- Change History
+
+---
+
+# Documentation Pipeline
+
+Every documentation update follows:
+
+Documentation Request
+
+↓
+
+Architecture Validation
+
+↓
+
+SDK Validation
+
+↓
+
+Consistency Verification
+
+↓
+
+Documentation Generation
+
+↓
+
+Review
+
+↓
+
+Approval
+
+↓
+
+Audit Recording
+
+↓
+
+Publication
+
+---
+
+# Documentation Validation
+
+Before publication the framework validates:
+
+- Architecture Consistency
+- SDK Compatibility
+- Manifest Consistency
+- Runtime Consistency
+- Policy Consistency
+- Version Consistency
+- Verification Evidence
+
+Validation failure blocks publication.
+
+---
+
+# Documentation Rules
+
+Every document must be:
+
+- Versioned
+- Traceable
+- Machine Readable
+- Human Readable
+- Searchable
+- Reproducible
+- Auditable
+
+Documentation drift is prohibited.
+
+---
+
+# Synchronization Rules
+
+Documentation automatically synchronizes with:
+
+- Source Code
+- SDK Contracts
+- SDK Interfaces
+- Runtime Profiles
+- Manifest Schemas
+- Policy Profiles
+- Verification Results
+- Audit Records
+
+Documentation and implementation must remain consistent.
+
+---
+
+# Repository Synchronization
+
+The Documentation Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Validation Framework
+- SDK Generator Framework
+- SDK Builder Framework
+- SDK Validator Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Documentation Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Documentation Framework establishes the canonical documentation architecture for Enterprise IMPERIAL Skills, enabling Codex to automatically generate, validate, synchronize, and maintain enterprise-grade engineering documentation while preserving architectural integrity and long-term maintainability across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
