@@ -18433,3 +18433,216 @@ The Backup Engine Framework establishes the enterprise backup architecture for E
 Author and Owner
 
 Romaskevich Alexander Nikolaevich
+# SKILL_RESTORE_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills Restore Engine Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+
+---
+
+# Mission
+
+The Restore Engine Framework governs how Enterprise IMPERIAL Skills safely restore enterprise assets from verified backups while preserving integrity, governance, security, and operational continuity.
+
+Only verified backups may be restored.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Restore After Verification
+- Multi-Orchestrator Architecture
+- Zero Trust
+- Explicit Approval
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Restore Engine provides:
+
+- Restore Planning
+- Backup Validation
+- Restore Execution
+- Integrity Verification
+- Runtime Recovery
+- Enterprise Continuity
+
+---
+
+# Restore Sources
+
+Restore operations may use:
+
+- Verified Backups
+- Immutable Backups
+- Disaster Recovery Backups
+- Point-in-Time Backups
+- Approved Snapshots
+
+Unverified restore sources are prohibited.
+
+---
+
+# Restore Pipeline
+
+Every restore follows:
+
+Restore Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Authorization
+
+↓
+
+Backup Verification
+
+↓
+
+Integrity Validation
+
+↓
+
+Restore Execution
+
+↓
+
+Runtime Validation
+
+↓
+
+Audit Recording
+
+---
+
+# Restore Validation
+
+Before restoration the framework validates:
+
+- Repository Integrity
+- Backup Integrity
+- Digital Signature
+- Trust Tier
+- Policy Compliance
+- Runtime Compatibility
+- Registry Consistency
+
+Validation failure blocks restoration.
+
+---
+
+# Restore Strategies
+
+Supported strategies include:
+
+- Full Restore
+- Partial Restore
+- Point-in-Time Restore
+- Runtime Restore
+- Configuration Restore
+- Disaster Recovery Restore
+
+---
+
+# Restore Protection
+
+Every restore enforces:
+
+- Approval Gateway
+- Guardian Core
+- Policy Validation
+- Runtime Isolation
+- Audit Logging
+
+Unauthorized restoration is prohibited.
+
+---
+
+# Restore Monitoring
+
+Continuous monitoring evaluates:
+
+- Restore Progress
+- Runtime Health
+- Data Integrity
+- Recovery Status
+- Operational Readiness
+
+---
+
+# Failure Handling
+
+When restoration fails:
+
+- stop restoration;
+- preserve evidence;
+- notify monitoring;
+- create audit record;
+- require engineering review.
+
+---
+
+# Restore Audit
+
+Every restore operation records:
+
+- Restore ID
+- Backup ID
+- Runtime
+- Timestamp
+- Result
+- Audit Reference
+
+Audit history remains immutable.
+
+---
+
+# Repository Synchronization
+
+The Restore Engine remains synchronized with:
+
+- Backup Engine
+- Runtime Engine
+- Data Engine
+- Verification Framework
+- Trust Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+Restore Engine architecture belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The Restore Engine Framework establishes the enterprise restoration architecture for Enterprise IMPERIAL Skills, enabling Codex, HANTER, Nano Core Agents, Legion, ORION, and future IMPERIAL Core systems to safely recover verified enterprise assets through governed, deterministic, and continuously audited restoration procedures.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
