@@ -26931,3 +26931,209 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_CERTIFICATION_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Certification Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Certification Framework governs how Enterprise IMPERIAL Skills are independently evaluated, certified, approved, renewed, suspended, and revoked before entering or remaining in production.
+
+Certification confirms that a Skill satisfies enterprise engineering, security, governance, quality, and operational standards.
+
+Certification is mandatory for every production Skill.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Certification Before Production
+- Zero Trust
+- Independent Verification
+- Continuous Compliance
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Certification Framework provides:
+
+- Skill Certification
+- Engineering Assessment
+- Security Assessment
+- Operational Assessment
+- Certification Renewal
+- Certification Revocation
+
+---
+
+# Certification Levels
+
+Supported certification levels include:
+
+- Development
+- Engineering Verified
+- Enterprise Certified
+- Production Certified
+- Mission Critical Certified
+- Sovereign Certified
+
+Production deployment requires at least **Production Certified** status.
+
+---
+
+# Certification Pipeline
+
+Every certification follows:
+
+Certification Request
+
+↓
+
+Architecture Review
+
+↓
+
+SDK Validation
+
+↓
+
+Testing
+
+↓
+
+Security Assessment
+
+↓
+
+Performance Assessment
+
+↓
+
+Verification
+
+↓
+
+Approval Gateway
+
+↓
+
+Audit Recording
+
+↓
+
+Certification Issued
+
+---
+
+# Certification Requirements
+
+Every Skill must satisfy:
+
+- SDK Compliance
+- Manifest Compliance
+- Runtime Compatibility
+- Security Validation
+- Policy Compliance
+- Permission Validation
+- Verification Evidence
+- Complete Test Coverage
+- Audit Registration
+
+Failure blocks certification.
+
+---
+
+# Certification Renewal
+
+Certified Skills are periodically re-evaluated after:
+
+- major version changes;
+- security updates;
+- dependency changes;
+- policy changes;
+- runtime changes;
+- governance updates.
+
+Certification remains continuously governed.
+
+---
+
+# Revocation Rules
+
+Certification is revoked when:
+
+- critical security failures occur;
+- verification evidence becomes invalid;
+- policy violations are detected;
+- trust level falls below the minimum threshold;
+- audit integrity cannot be verified.
+
+Revoked Skills cannot execute.
+
+---
+
+# Repository Synchronization
+
+The Certification Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Validation Framework
+- SDK Testing Framework
+- SDK Verification Client
+- SDK Audit Client
+- Runtime Engine
+- Registry
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Certification Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Certification Framework establishes the canonical enterprise certification architecture for Enterprise IMPERIAL Skills, enabling Codex to certify secure, deterministic, reusable, and enterprise-grade AI capabilities while preserving engineering excellence, governance, and architectural integrity across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
