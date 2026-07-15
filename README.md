@@ -24631,3 +24631,200 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_AUDIT_CLIENT.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Audit Client
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Audit Client governs how Enterprise IMPERIAL Skills securely communicate with the Enterprise Audit Ledger.
+
+The Audit Client is the only approved interface for recording enterprise audit events.
+
+Direct writes to the Audit Ledger are prohibited.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Audit Client Before Direct Access
+- Zero Trust
+- Immutable Evidence
+- Deterministic Recording
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Audit Client provides:
+
+- Audit Recording
+- Event Registration
+- Evidence Submission
+- Audit Queries
+- Integrity Verification
+- Audit Synchronization
+
+---
+
+# Client Responsibilities
+
+The Audit Client is responsible for:
+
+- Recording execution events
+- Recording lifecycle events
+- Recording security events
+- Recording policy decisions
+- Recording approval decisions
+- Synchronizing audit records
+
+---
+
+# Audit Operations
+
+Supported operations include:
+
+- Record Event
+- Record Evidence
+- Record Approval
+- Record Failure
+- Query Audit History
+- Verify Audit Record
+- Synchronize Audit Ledger
+- Archive Audit Record
+
+---
+
+# Client Pipeline
+
+Every audit operation follows:
+
+Audit Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Audit Recording
+
+↓
+
+Integrity Verification
+
+↓
+
+Ledger Synchronization
+
+↓
+
+Response
+
+---
+
+# Client Validation
+
+Before Audit Ledger access the framework validates:
+
+- SDK Compatibility
+- Identity
+- Trust Tier
+- Permission Scope
+- Policy Compliance
+- Verification Status
+- Audit Integrity
+
+Validation failure blocks audit operations.
+
+---
+
+# Audit Security
+
+Every audit request requires:
+
+- Authenticated Identity
+- Verified AI Passport
+- Approved Permissions
+- Policy Compliance
+- Immutable Evidence
+- Tamper-Evident Recording
+
+Unauthorized audit operations are prohibited.
+
+---
+
+# Repository Synchronization
+
+The Audit Client remains synchronized with:
+
+- SDK Architecture
+- SDK Runtime Client
+- Audit Ledger
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Registry
+- Runtime Engine
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Audit Client belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Audit Client establishes the canonical communication layer between Enterprise IMPERIAL Skills and the Enterprise Audit Ledger, enabling Codex to securely record, verify, synchronize, and preserve immutable engineering evidence while maintaining architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
