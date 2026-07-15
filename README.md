@@ -23456,3 +23456,197 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SCHEMA_FRAMEWORK.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Schema Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Schema Framework defines the canonical data schemas used by Enterprise IMPERIAL Skills for secure, deterministic, and interoperable communication across the IMPERIAL Core ecosystem.
+
+Every enterprise object must conform to an approved schema.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Schema First Engineering
+- Zero Trust
+- Strong Typing
+- Deterministic Validation
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Schema Framework provides:
+
+- Canonical Data Models
+- Schema Validation
+- Version Compatibility
+- Type Safety
+- Enterprise Interoperability
+- Governance Compliance
+
+---
+
+# Schema Categories
+
+Supported schemas include:
+
+- Skill Manifest Schema
+- Runtime Schema
+- Configuration Schema
+- Policy Schema
+- Permission Schema
+- Registry Schema
+- Audit Schema
+- Verification Schema
+- API Schema
+- Event Schema
+
+---
+
+# Schema Lifecycle
+
+Every schema follows:
+
+Design
+
+↓
+
+Validation
+
+↓
+
+Review
+
+↓
+
+Approval
+
+↓
+
+Publication
+
+↓
+
+Production
+
+↓
+
+Version Update
+
+↓
+
+Retirement
+
+---
+
+# Schema Validation
+
+Before approval the framework validates:
+
+- Structural Integrity
+- Type Consistency
+- Required Fields
+- Version Compatibility
+- SDK Compatibility
+- Runtime Compatibility
+- Policy Compliance
+
+Validation failure blocks publication.
+
+---
+
+# Schema Rules
+
+Every schema must be:
+
+- Versioned
+- Typed
+- Documented
+- Machine Readable
+- Backward Compatible
+- Fully Auditable
+
+Undefined schemas are prohibited.
+
+---
+
+# Compatibility
+
+Every schema maintains compatibility with:
+
+- SDK Contracts
+- SDK Interfaces
+- SDK Base Classes
+- Runtime Engine
+- Registry
+- Verification Framework
+- Audit Ledger
+
+---
+
+# Repository Synchronization
+
+The Schema Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Validation Framework
+- SDK Configuration Framework
+- Runtime Engine
+- Registry
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Schema Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Schema Framework establishes the canonical schema architecture for Enterprise IMPERIAL Skills, enabling Codex to generate strongly typed, interoperable, secure, and enterprise-grade AI systems with deterministic data exchange across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
