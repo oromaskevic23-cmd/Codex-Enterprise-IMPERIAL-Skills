@@ -28018,4 +28018,221 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_CATALOG_FRAMEWORK.md
 
+# 💎 Enterprise IMPERIAL Skills SDK Skill Catalog Framework
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Catalog Framework defines the canonical architecture for organizing, classifying, discovering, and governing Enterprise IMPERIAL Skills.
+
+The Skill Catalog provides a structured and searchable enterprise inventory while the Registry remains the authoritative source of truth.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Catalog Before Discovery
+- Registry As Source Of Truth
+- Zero Trust
+- Enterprise Classification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Skill Catalog provides:
+
+- Skill Classification
+- Enterprise Taxonomy
+- Skill Discovery
+- Category Management
+- Search Optimization
+- Catalog Governance
+
+---
+
+# Catalog Structure
+
+Every catalog entry contains:
+
+- Skill ID
+- Skill Name
+- Category
+- Domain
+- Description
+- Version
+- Owner
+- Certification Status
+- Lifecycle State
+- Trust Tier
+- Runtime Compatibility
+
+---
+
+# Skill Categories
+
+Supported categories include:
+
+- Core Skills
+- AI Skills
+- Engineering Skills
+- Security Skills
+- Business Skills
+- Creative Skills
+- Infrastructure Skills
+- Automation Skills
+- Integration Skills
+- Analytics Skills
+
+---
+
+# Catalog Operations
+
+Supported operations include:
+
+- Register Catalog Entry
+- Update Entry
+- Search Catalog
+- Browse Categories
+- Resolve Skill
+- Filter Skills
+- Archive Entry
+- Retire Entry
+
+---
+
+# Catalog Pipeline
+
+Every catalog operation follows:
+
+Catalog Request
+
+↓
+
+Identity Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Catalog Processing
+
+↓
+
+Registry Synchronization
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Catalog Response
+
+---
+
+# Validation Rules
+
+The framework validates:
+
+- Registry Registration
+- SDK Compatibility
+- Metadata Integrity
+- Category Consistency
+- Version Consistency
+- Certification Status
+- Verification Status
+
+Validation failure blocks publication.
+
+---
+
+# Catalog Governance
+
+Every catalog entry must maintain:
+
+- Unique Skill Identifier
+- Canonical Classification
+- Approved Metadata
+- Certification Reference
+- Lifecycle Status
+- Audit Reference
+
+Catalog entries remain synchronized with the Registry.
+
+---
+
+# Repository Synchronization
+
+The Skill Catalog Framework remains synchronized with:
+
+- SDK Architecture
+- SDK Skill Registry Architecture
+- SDK Skill Lifecycle Management
+- SDK Skill Dependency Graph
+- Registry
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Catalog Framework belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Catalog Framework establishes the canonical enterprise catalog architecture for Enterprise IMPERIAL Skills, enabling Codex to organize, discover, classify, and govern enterprise-grade Skills through a secure, searchable, and fully synchronized catalog across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
