@@ -28643,3 +28643,219 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_EXECUTION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Execution Engine
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Execution Engine governs how Enterprise IMPERIAL Skills are executed within approved Runtime Engines across the IMPERIAL Core ecosystem.
+
+Execution must be secure, deterministic, governed, observable, and fully auditable.
+
+No Skill may execute outside the approved execution pipeline.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Execution After Verification
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Execution
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Execution Engine provides:
+
+- Skill Execution
+- Runtime Coordination
+- Resource Allocation
+- Execution Monitoring
+- Result Collection
+- Enterprise Governance
+
+---
+
+# Execution Components
+
+The Execution Engine consists of:
+
+- Execution Scheduler
+- Runtime Adapter
+- Context Manager
+- Resource Allocator
+- Execution Monitor
+- Result Collector
+- Recovery Controller
+- Audit Adapter
+
+---
+
+# Execution Pipeline
+
+Every execution follows:
+
+Execution Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Skill Discovery
+
+↓
+
+Runtime Allocation
+
+↓
+
+Execution Initialization
+
+↓
+
+Skill Execution
+
+↓
+
+Result Validation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Execution Complete
+
+---
+
+# Execution Validation
+
+Before execution the framework validates:
+
+- SDK Compatibility
+- Runtime Compatibility
+- Certification Status
+- Trust Tier
+- Dependency Integrity
+- Policy Compliance
+- Permission Scope
+- Verification Status
+
+Validation failure blocks execution.
+
+---
+
+# Runtime Management
+
+The Execution Engine supports:
+
+- Local Execution
+- Distributed Execution
+- Parallel Execution
+- Isolated Execution
+- Execution Recovery
+- Runtime Failover
+
+---
+
+# Execution Rules
+
+Every execution must:
+
+- use certified Skills;
+- execute inside approved Runtime Engines;
+- preserve execution context;
+- generate audit evidence;
+- support recovery procedures;
+- maintain deterministic behavior.
+
+Execution outside enterprise governance is prohibited.
+
+---
+
+# Repository Synchronization
+
+The Execution Engine remains synchronized with:
+
+- SDK Architecture
+- SDK Skill Routing Engine
+- SDK Skill Discovery Engine
+- SDK Runtime Client
+- Runtime Engine
+- Registry
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Execution Engine belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Execution Engine establishes the canonical enterprise execution architecture for Enterprise IMPERIAL Skills, enabling Codex to execute secure, deterministic, scalable, and enterprise-grade AI capabilities across federated Runtime Engines and Nano Core Agents while preserving governance and architectural integrity throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
