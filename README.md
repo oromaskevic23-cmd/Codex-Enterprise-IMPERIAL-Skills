@@ -29846,3 +29846,253 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_RUNTIME_POLICY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Policy Engine
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Runtime Policy Engine is the canonical policy enforcement component responsible for validating every Enterprise IMPERIAL Skill execution before, during and after Runtime operations.
+
+The Policy Engine ensures that Runtime behavior always complies with Enterprise Governance, Zero Trust Architecture and Federated Multi-Orchestrator Architecture.
+
+No Runtime decision may bypass policy evaluation.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Policy Before Execution
+- Least Privilege
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Runtime Policy Engine provides:
+
+- Policy Evaluation
+- Runtime Authorization
+- Permission Validation
+- Governance Enforcement
+- Compliance Verification
+- Runtime Restrictions
+- Continuous Policy Monitoring
+- Enterprise Audit Support
+
+---
+
+# Policy Engine Components
+
+The Runtime Policy Engine consists of:
+
+- Policy Registry
+- Policy Validator
+- Rule Evaluation Engine
+- Permission Resolver
+- Compliance Manager
+- Runtime Decision Engine
+- Policy Monitor
+- Exception Controller
+- Governance Interface
+- Audit Connector
+
+---
+
+# Policy Evaluation Pipeline
+
+Every Runtime request follows:
+
+Execution Request
+
+↓
+
+AI Passport Validation
+
+↓
+
+Skill Verification
+
+↓
+
+Approval Gateway Authorization
+
+↓
+
+Guardian Core Validation
+
+↓
+
+Policy Resolution
+
+↓
+
+Permission Evaluation
+
+↓
+
+Compliance Verification
+
+↓
+
+Runtime Decision
+
+↓
+
+Execution Authorization
+
+↓
+
+Audit Recording
+
+---
+
+# Policy Categories
+
+The Runtime Policy Engine evaluates:
+
+- Identity Policies
+- Runtime Policies
+- Skill Policies
+- Resource Policies
+- Security Policies
+- Compliance Policies
+- Federation Policies
+- Audit Policies
+
+Every policy category must succeed before execution begins.
+
+---
+
+# Permission Validation
+
+The Policy Engine validates:
+
+- Runtime Permissions
+- Skill Permissions
+- Resource Permissions
+- Data Permissions
+- Tool Permissions
+- Network Permissions
+- Storage Permissions
+- Enterprise Governance Permissions
+
+Permission violations immediately deny execution.
+
+---
+
+# Continuous Enforcement
+
+During execution the Policy Engine continuously verifies:
+
+- Policy Compliance
+- Runtime Integrity
+- Permission Scope
+- Security Events
+- Runtime Configuration
+- Resource Usage
+- Trust Status
+- Governance Compliance
+
+Policy violations trigger immediate enforcement actions.
+
+---
+
+# Enforcement Actions
+
+The Runtime Policy Engine may:
+
+- Approve Execution
+- Deny Execution
+- Suspend Execution
+- Terminate Execution
+- Quarantine Runtime
+- Escalate to Guardian Core
+- Notify Approval Gateway
+- Record Audit Evidence
+
+Every enforcement action is fully auditable.
+
+---
+
+# Governance Rules
+
+Every Runtime Domain must:
+
+- evaluate all mandatory policies;
+- preserve policy integrity;
+- support continuous verification;
+- prevent policy bypass;
+- preserve audit evidence;
+- synchronize approved policy versions.
+
+Unauthorized policy modification is prohibited.
+
+---
+
+# Repository Synchronization
+
+The Runtime Policy Engine remains synchronized with:
+
+- SDK Runtime Engine
+- SDK Runtime Registry
+- SDK Runtime Sandbox
+- SDK Runtime Coordinator
+- Enterprise IMPERIAL Skills Registry
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Verification Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Runtime Policy Engine belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Runtime Policy Engine establishes the canonical enterprise policy enforcement architecture for Enterprise IMPERIAL Skills, enabling Codex to evaluate, enforce and continuously verify Runtime governance across Federated Runtime Domains while preserving Zero Trust, operational integrity, deterministic execution and the canonical architecture of IMPERIAL Core.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
