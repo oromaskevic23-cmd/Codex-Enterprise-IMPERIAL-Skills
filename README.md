@@ -28236,3 +28236,206 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_DISCOVERY_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Discovery Engine
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Discovery Engine governs how Enterprise IMPERIAL Skills are discovered, ranked, selected, and prepared for execution across the IMPERIAL Core ecosystem.
+
+The Discovery Engine guarantees that every Skill selection is deterministic, policy-compliant, and fully auditable.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Discovery Before Execution
+- Zero Trust
+- Deterministic Selection
+- Federated Discovery
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Discovery Engine provides:
+
+- Skill Discovery
+- Capability Matching
+- Version Selection
+- Runtime Selection
+- Dependency Awareness
+- Enterprise Governance
+
+---
+
+# Discovery Sources
+
+The engine discovers Skills from:
+
+- Enterprise Registry
+- Enterprise Catalog
+- Approved SDK Packages
+- Certified Skill Repository
+- Runtime Skill Cache
+- Federated Skill Domains
+
+---
+
+# Discovery Pipeline
+
+Every discovery request follows:
+
+Discovery Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Capability Matching
+
+↓
+
+Version Resolution
+
+↓
+
+Trust Validation
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Selected Skill
+
+---
+
+# Selection Criteria
+
+The Discovery Engine evaluates:
+
+- Capability Match
+- Certification Status
+- Lifecycle Status
+- Trust Tier
+- Runtime Compatibility
+- Dependency Status
+- Policy Compliance
+- Version Compatibility
+
+---
+
+# Discovery Rules
+
+Every discovered Skill must:
+
+- be registered;
+- be certified;
+- be verified;
+- support the requested Runtime;
+- satisfy enterprise policies;
+- satisfy permission requirements.
+
+Non-compliant Skills are excluded.
+
+---
+
+# Ranking Strategy
+
+Skills are ranked using:
+
+- Capability Score
+- Trust Score
+- Certification Level
+- Runtime Readiness
+- Dependency Health
+- Performance History
+
+The highest qualified Skill is selected.
+
+---
+
+# Repository Synchronization
+
+The Discovery Engine remains synchronized with:
+
+- SDK Architecture
+- SDK Skill Registry Architecture
+- SDK Skill Catalog Framework
+- SDK Skill Dependency Graph
+- Runtime Engine
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Discovery Engine belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Discovery Engine establishes the canonical enterprise discovery architecture for Enterprise IMPERIAL Skills, enabling Codex to automatically locate, evaluate, rank, and select the optimal enterprise-grade Skill while preserving deterministic behavior, governance, and architectural integrity across the entire IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
