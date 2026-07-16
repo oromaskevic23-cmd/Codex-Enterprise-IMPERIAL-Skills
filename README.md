@@ -28439,3 +28439,207 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_ROUTING_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Routing Engine
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Routing Engine governs how Enterprise IMPERIAL Skills are routed to the most appropriate Runtime Engine, Nano Core Agent, or federated orchestration domain.
+
+Routing guarantees efficient, deterministic, policy-compliant, and enterprise-grade execution.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Routing Before Execution
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Decision Making
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Routing Engine provides:
+
+- Runtime Selection
+- Agent Selection
+- Workload Distribution
+- Load Balancing
+- Execution Routing
+- Enterprise Governance
+
+---
+
+# Routing Targets
+
+The Routing Engine may route requests to:
+
+- Local Runtime
+- Runtime Cluster
+- Nano Core Agent
+- Professional Team
+- Domain Orchestrator
+- Federated Orchestrator
+
+---
+
+# Routing Pipeline
+
+Every routing request follows:
+
+Execution Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Permission Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Skill Discovery
+
+↓
+
+Runtime Selection
+
+↓
+
+Routing Decision
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Execution Assignment
+
+---
+
+# Routing Criteria
+
+The Routing Engine evaluates:
+
+- Runtime Availability
+- Agent Availability
+- Trust Tier
+- Certification Status
+- Runtime Health
+- Resource Capacity
+- Dependency Readiness
+- Policy Compliance
+
+---
+
+# Routing Strategies
+
+Supported routing strategies include:
+
+- Direct Routing
+- Capability Routing
+- Least Load Routing
+- Priority Routing
+- Trust-Based Routing
+- Cost-Aware Routing
+- Geographic Routing
+- Federated Routing
+
+---
+
+# Routing Rules
+
+Every routing decision must:
+
+- select an approved Runtime;
+- select a certified Skill;
+- satisfy enterprise policies;
+- satisfy permission requirements;
+- preserve audit evidence;
+- support execution recovery.
+
+Unapproved routing is prohibited.
+
+---
+
+# Repository Synchronization
+
+The Routing Engine remains synchronized with:
+
+- SDK Architecture
+- SDK Skill Discovery Engine
+- SDK Skill Registry Architecture
+- SDK Skill Orchestration Framework
+- Runtime Engine
+- Registry
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Routing Engine belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Routing Engine establishes the canonical enterprise routing architecture for Enterprise IMPERIAL Skills, enabling Codex to intelligently route enterprise-grade Skill execution across Runtime Engines, Nano Core Agents, and federated orchestration domains while preserving governance, efficiency, deterministic behavior, and architectural integrity across the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
