@@ -28859,3 +28859,228 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_SKILL_RUNTIME_COORDINATOR.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Skill Runtime Coordinator
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Skill Runtime Coordinator governs the coordination of Runtime Engines responsible for executing Enterprise IMPERIAL Skills across federated execution environments.
+
+The Runtime Coordinator optimizes execution, resource utilization, resilience, and operational stability.
+
+No Runtime Engine operates outside coordinated governance.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Runtime Coordination Before Execution
+- Zero Trust
+- Deterministic Resource Management
+- Complete Auditability
+
+---
+
+# Objectives
+
+The Runtime Coordinator provides:
+
+- Runtime Coordination
+- Resource Scheduling
+- Runtime Synchronization
+- Workload Distribution
+- Runtime Recovery
+- Enterprise Governance
+
+---
+
+# Coordinator Components
+
+The Runtime Coordinator consists of:
+
+- Runtime Scheduler
+- Resource Manager
+- Runtime Allocator
+- Health Manager
+- Recovery Controller
+- Failover Manager
+- Capacity Manager
+- Coordination Monitor
+
+---
+
+# Coordination Pipeline
+
+Every coordination request follows:
+
+Execution Request
+
+↓
+
+Runtime Discovery
+
+↓
+
+Health Verification
+
+↓
+
+Capacity Analysis
+
+↓
+
+Policy Evaluation
+
+↓
+
+Runtime Selection
+
+↓
+
+Resource Allocation
+
+↓
+
+Execution Coordination
+
+↓
+
+Monitoring
+
+↓
+
+Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Execution Completed
+
+---
+
+# Runtime Validation
+
+Before allocation the framework validates:
+
+- Runtime Availability
+- Runtime Health
+- Capacity
+- Trust Tier
+- Certification Status
+- Policy Compliance
+- Verification Status
+
+Validation failure blocks allocation.
+
+---
+
+# Coordination Strategies
+
+Supported strategies include:
+
+- Local Coordination
+- Cluster Coordination
+- Federated Coordination
+- High Availability Coordination
+- Disaster Recovery Coordination
+- Dynamic Load Balancing
+
+---
+
+# Runtime Recovery
+
+The coordinator supports:
+
+- Automatic Retry
+- Runtime Failover
+- Resource Reallocation
+- State Recovery
+- Session Restoration
+- Execution Continuation
+
+Recovery procedures preserve execution integrity.
+
+---
+
+# Governance Rules
+
+Every Runtime Engine must:
+
+- remain registered;
+- remain certified;
+- report health continuously;
+- support verification;
+- preserve audit evidence;
+- comply with enterprise policies.
+
+Non-compliant Runtime Engines are isolated automatically.
+
+---
+
+# Repository Synchronization
+
+The Runtime Coordinator remains synchronized with:
+
+- SDK Architecture
+- SDK Skill Execution Engine
+- SDK Runtime Client
+- Runtime Engine
+- Registry
+- Verification Framework
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Skill Runtime Coordinator belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Skill Runtime Coordinator establishes the canonical runtime coordination architecture for Enterprise IMPERIAL Skills, enabling Codex to coordinate secure, resilient, scalable, and enterprise-grade Runtime Engines across federated execution environments while preserving governance, operational stability, and architectural integrity throughout the IMPERIAL Core ecosystem.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
