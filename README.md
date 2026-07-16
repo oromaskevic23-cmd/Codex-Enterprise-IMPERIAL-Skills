@@ -29084,3 +29084,281 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_RUNTIME_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Engine
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+
+---
+
+# Ownership
+
+Owner: Romaskevich Alexander Nikolaevich
+
+Founder: Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect: Romaskevich Alexander Nikolaevich
+
+---
+
+# Mission
+
+The SDK Runtime Engine is the canonical execution environment responsible for securely executing Enterprise IMPERIAL Skills across Federated Runtime Domains.
+
+The Runtime Engine provides deterministic execution, enterprise governance, security enforcement, runtime isolation and operational stability for every Enterprise IMPERIAL Skill.
+
+No Enterprise Skill may execute outside an approved Runtime Engine.
+
+---
+
+# Architecture Principles
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Runtime Isolation
+- Enterprise Governance
+- Deterministic Execution
+- Continuous Verification
+- Complete Auditability
+
+---
+
+# Primary Responsibilities
+
+The Runtime Engine is responsible for:
+
+- Skill Execution
+- Runtime Isolation
+- Resource Management
+- Security Enforcement
+- Execution Verification
+- Runtime Monitoring
+- Failure Recovery
+- Enterprise Audit Support
+
+---
+
+# Runtime Components
+
+The Runtime Engine consists of:
+
+- Execution Controller
+- Skill Loader
+- Runtime Sandbox
+- Security Manager
+- Resource Manager
+- Policy Validator
+- Health Monitor
+- Runtime Monitor
+- Execution Verifier
+- Audit Connector
+
+---
+
+# Runtime Execution Pipeline
+
+Every execution request follows the canonical sequence:
+
+Execution Request
+
+↓
+
+Skill Discovery
+
+↓
+
+Skill Verification
+
+↓
+
+AI Passport Validation
+
+↓
+
+Approval Gateway Authorization
+
+↓
+
+Guardian Core Policy Validation
+
+↓
+
+Runtime Allocation
+
+↓
+
+Sandbox Initialization
+
+↓
+
+Skill Loading
+
+↓
+
+Execution
+
+↓
+
+Continuous Monitoring
+
+↓
+
+Output Verification
+
+↓
+
+Audit Recording
+
+↓
+
+Execution Completed
+
+---
+
+# Runtime Validation
+
+Before execution the Runtime Engine validates:
+
+- Runtime Health
+- Runtime Capacity
+- Runtime Availability
+- Skill Certification
+- Trust Tier
+- Policy Compliance
+- Permission Scope
+- Resource Availability
+
+Any validation failure immediately terminates the execution request.
+
+---
+
+# Runtime Isolation
+
+Every execution environment provides:
+
+- Process Isolation
+- Memory Isolation
+- Filesystem Isolation
+- Network Isolation
+- Secret Isolation
+- Session Isolation
+- Resource Isolation
+
+Isolation guarantees that Enterprise Skills cannot interfere with one another.
+
+---
+
+# Runtime Monitoring
+
+Continuous monitoring includes:
+
+- CPU Usage
+- Memory Usage
+- Storage Usage
+- Network Activity
+- Runtime Health
+- Execution Duration
+- Policy Compliance
+- Security Events
+- Performance Metrics
+
+All operational events are continuously monitored and recorded.
+
+---
+
+# Runtime Security
+
+Security mechanisms include:
+
+- Zero Trust Enforcement
+- Identity Verification
+- Runtime Authentication
+- Policy Enforcement
+- Secure Communication
+- Runtime Integrity Validation
+- Continuous Threat Monitoring
+
+Security controls remain active throughout the execution lifecycle.
+
+---
+
+# Runtime Recovery
+
+Recovery capabilities include:
+
+- Automatic Retry
+- Runtime Restart
+- Session Recovery
+- Resource Reallocation
+- Runtime Failover
+- Execution Continuation
+
+Recovery preserves execution integrity whenever technically possible.
+
+---
+
+# Governance Rules
+
+Every Runtime Engine must:
+
+- remain registered;
+- remain certified;
+- remain continuously monitored;
+- enforce Enterprise policies;
+- support verification;
+- preserve audit evidence;
+- report operational health.
+
+Runtime Engines violating Enterprise Governance are automatically isolated.
+
+---
+
+# Repository Synchronization
+
+The Runtime Engine remains synchronized with:
+
+- SDK Skill Runtime Coordinator
+- SDK Skill Execution Engine
+- SDK Runtime Client
+- Enterprise IMPERIAL Skills Registry
+- Runtime Registry
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Verification Framework
+
+---
+
+# Repository Classification
+
+Repository Classification:
+
+🔒 PRIVATE
+
+SDK Runtime Engine belongs exclusively to the private engineering repository.
+
+---
+
+# Long-Term Vision
+
+The SDK Runtime Engine establishes the canonical execution platform for Enterprise IMPERIAL Skills, enabling Codex to execute secure, scalable, resilient and enterprise-grade Runtime workloads across Federated Runtime Domains while preserving governance, auditability, operational integrity and the canonical architecture of IMPERIAL Core.
+
+---
+
+Author and Owner
+
+Romaskevich Alexander Nikolaevich
+
+Founder
+
+Romaskevich Alexander Nikolaevich
+
+Chief Systems Architect
+
+Romaskevich Alexander Nikolaevich
