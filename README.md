@@ -31350,3 +31350,836 @@ Romaskevich Alexander Nikolaevich
 Chief Systems Architect
 
 Romaskevich Alexander Nikolaevich
+# SDK_RUNTIME_SECURITY_MANAGER.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Security Manager
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills  
+> Visibility: 🔒 PRIVATE  
+> Project: IMPERIAL Core  
+> System: Enterprise IMPERIAL Skills (EIS)  
+> Status: Codex-Ready Engineering Specification  
+> Document Class: SDK Security Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich  
+**Founder:** Romaskevich Alexander Nikolaevich  
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich  
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Security Manager** is the canonical security coordination component for the Enterprise IMPERIAL Skills SDK runtime.
+
+Its purpose is to evaluate, enforce and continuously supervise runtime security requirements before, during and after every governed Skill operation.
+
+The Security Manager does not replace Guardian Core, Approval Gateway, Audit Ledger, the SDK Policy Engine, identity services or domain-specific security authorities.
+
+It coordinates their decisions inside the bounded runtime execution path and converts verified policy outcomes into enforceable runtime controls.
+
+This document defines architecture and implementation requirements.
+
+It does not claim that the component is already implemented, deployed or independently verified.
+
+---
+
+# 2. Architectural Position
+
+The SDK Runtime Security Manager operates inside the private Enterprise IMPERIAL Skills runtime platform and participates in every protected execution lifecycle.
+
+```text
+Architect Authority
+        │
+        ▼
+HANTER Executive Coordination
+        │
+        ▼
+Federated Multi-Orchestrator Architecture
+        │
+        ▼
+SDK Runtime Coordinator
+        │
+        ▼
+SDK Runtime Security Manager
+        │
+        ├── Guardian Core
+        ├── Approval Gateway
+        ├── Audit Ledger
+        ├── SDK Policy Engine
+        ├── AI Passport
+        ├── EIS Registry
+        ├── Verification Framework
+        └── Runtime Isolation Controls
+        │
+        ▼
+Authorized Skill Execution
+```
+
+No orchestrator, agent, client, Skill, plugin, runtime worker or administrative interface may bypass the SDK Runtime Security Manager for protected runtime operations.
+
+---
+
+# 3. Permanent Architectural Principles
+
+The component shall enforce:
+
+1. **Deny by Default** — absence of explicit verified authorization results in denial.
+2. **Zero Trust** — identity, workload, Skill, context and policy are verified for every protected operation.
+3. **Least Privilege** — only minimum required capabilities may be granted.
+4. **Separation of Duties** — request, approval, execution, verification and audit remain distinct.
+5. **Federated Authority** — bounded domain authority is preserved without a single unrestricted global orchestrator.
+6. **Human Final Authority** — strategic, constitutional and exceptional decisions remain under the Architect.
+7. **Continuous Verification** — authorization is re-evaluated when context, policy, health, trust or risk changes.
+8. **Fail Secure** — uncertainty or missing evidence produces denial, pause, quarantine or escalation.
+9. **Complete Traceability** — every material decision produces tamper-evident evidence.
+10. **No Self-Expansion** — the component cannot expand its own authority or permissions.
+
+---
+
+# 4. Scope
+
+The SDK Runtime Security Manager is responsible for:
+
+- Runtime security decision coordination
+- Pre-execution security admission
+- Continuous execution supervision
+- Post-execution security closure
+- Risk-context aggregation
+- Approved security-control enforcement
+- Security state management
+- Capability validation
+- Policy-decision correlation
+- Approval validation
+- Identity and AI Passport verification coordination
+- Skill integrity and certification verification
+- Runtime isolation selection
+- Security event generation
+- Quarantine and revocation propagation
+- Incident escalation
+- Secure recovery coordination
+- Security evidence delivery to Audit Ledger
+
+---
+
+# 5. Non-Goals
+
+The SDK Runtime Security Manager shall not:
+
+- become a global orchestrator;
+- replace Guardian Core;
+- issue constitutional decisions;
+- approve its own policy exceptions;
+- create identities or AI Passports;
+- store long-lived secrets in plaintext;
+- modify Skill packages;
+- certify Skills independently;
+- silently downgrade security controls;
+- suppress audit evidence;
+- bypass Approval Gateway;
+- execute business missions independently;
+- infer implementation success from documentation;
+- grant permanent authority through temporary runtime decisions.
+
+---
+
+# 6. Core Responsibilities
+
+## 6.1 Security Admission
+
+Before execution, the component shall verify:
+
+- Caller identity
+- AI Passport state
+- Workload identity
+- Skill identity and immutable version
+- Skill certification status
+- Manifest integrity
+- Requested capabilities
+- Runtime Domain
+- Applicable policy set
+- Required approval evidence
+- Trust Tier
+- Current risk score
+- Isolation profile
+- Execution environment health
+- Revocation and quarantine status
+- Data classification
+- Public / Private Boundary
+
+## 6.2 Continuous Runtime Supervision
+
+During execution, it shall monitor:
+
+- Capability use
+- Resource-access attempts
+- Network egress
+- Secrets access
+- Policy changes
+- Trust-score changes
+- Session state
+- Runtime health
+- Unexpected subprocesses
+- Isolation violations
+- Execution drift
+- Anomalous behavior
+- Approval expiration
+- Identity revocation
+- Skill integrity changes
+
+## 6.3 Security Closure
+
+After execution, it shall:
+
+- revoke temporary capabilities;
+- invalidate expired runtime tokens;
+- close the security context;
+- confirm secret-lease termination;
+- verify sandbox cleanup;
+- preserve required evidence;
+- emit the final security outcome;
+- record unresolved anomalies;
+- initiate quarantine when closure is incomplete;
+- submit correlated events to Audit Ledger.
+
+---
+
+# 7. Internal Components
+
+| Component | Responsibility |
+|---|---|
+| Security Admission Controller | Performs pre-execution security evaluation |
+| Security Context Builder | Builds the immutable evaluated runtime context |
+| Policy Decision Adapter | Requests and validates SDK Policy Engine decisions |
+| Approval Evidence Validator | Validates Approval Gateway artifacts, scope and expiration |
+| Identity Verification Adapter | Coordinates identity, workload identity and AI Passport checks |
+| Skill Integrity Validator | Verifies manifest, package digest, provenance and certification |
+| Capability Enforcement Controller | Activates least-privilege runtime capabilities |
+| Isolation Profile Resolver | Selects the required sandbox and isolation level |
+| Continuous Security Supervisor | Re-evaluates active executions and detects violations |
+| Revocation Controller | Propagates capability, identity and Skill revocations |
+| Quarantine Controller | Isolates unsafe sessions, Skills or workers |
+| Incident Escalation Adapter | Escalates events to Guardian Core and authorized operators |
+| Security Evidence Publisher | Delivers structured evidence to Audit Ledger |
+| Security Health Controller | Exposes sanitized component health |
+
+Each component shall have a narrow interface, explicit ownership and independently testable behavior.
+
+---
+
+# 8. Security Decision Model
+
+Every protected operation shall produce one canonical decision:
+
+| Decision | Meaning | Runtime Action |
+|---|---|---|
+| ALLOW | All mandatory evidence is valid | Execute within approved scope |
+| ALLOW_WITH_CONSTRAINTS | Execution is permitted with stronger controls | Reduce capabilities, strengthen isolation or shorten TTL |
+| REQUIRE_APPROVAL | Required approval is missing | Pause and route to Approval Gateway |
+| DENY | Policy or evidence prohibits execution | Reject execution |
+| QUARANTINE | Threat, tampering or unresolved anomaly detected | Isolate execution and preserve evidence |
+| EMERGENCY_STOP | Immediate safety or constitutional risk exists | Stop execution and notify Guardian Core |
+
+Undefined or null decisions must never be interpreted as `ALLOW`.
+
+---
+
+# 9. Security Evaluation Flow
+
+```text
+Execution Request
+        │
+        ▼
+Validate Request Envelope
+        │
+        ▼
+Resolve Identity and AI Passport
+        │
+        ▼
+Resolve Skill Version and Manifest
+        │
+        ▼
+Verify Certification and Provenance
+        │
+        ▼
+Resolve Runtime Domain and Data Boundary
+        │
+        ▼
+Evaluate SDK Policy Engine
+        │
+        ▼
+Validate Approval Gateway Evidence
+        │
+        ▼
+Consult Guardian Core When Required
+        │
+        ▼
+Resolve Isolation and Capability Profile
+        │
+        ▼
+Publish Security Decision to Audit Ledger
+        │
+        ├── ALLOW / ALLOW_WITH_CONSTRAINTS → Runtime Execution
+        ├── REQUIRE_APPROVAL → Approval Workflow
+        ├── DENY → Rejection
+        ├── QUARANTINE → Isolation
+        └── EMERGENCY_STOP → Immediate Stop
+```
+
+The decision flow must be deterministic for identical inputs, policy versions and verified context.
+
+---
+
+# 10. Runtime Security Context
+
+Every evaluation shall use an immutable `RuntimeSecurityContext`.
+
+```yaml
+runtime_security_context:
+  context_id: uuid
+  correlation_id: uuid
+  request_id: uuid
+  session_id: uuid
+  timestamp: RFC3339
+  architect_policy_version: string
+
+  caller:
+    identity_id: string
+    ai_passport_id: string|null
+    workload_identity: string
+    organization_id: string
+    domain_id: string
+
+  skill:
+    skill_id: string
+    version: semver
+    manifest_digest: sha256
+    package_digest: sha256
+    certification_id: string
+    trust_tier: T1|T2|T3|T4
+
+  execution:
+    runtime_domain: string
+    orchestrator_id: string
+    worker_id: string
+    requested_capabilities: []
+    data_classification: PUBLIC|INTERNAL|CONFIDENTIAL|RESTRICTED
+    isolation_profile: string
+
+  approval:
+    required: boolean
+    approval_id: string|null
+    scope_digest: sha256|null
+    expires_at: RFC3339|null
+
+  risk:
+    score: integer
+    signals: []
+    policy_threshold: integer
+
+  decision:
+    outcome: ALLOW|ALLOW_WITH_CONSTRAINTS|REQUIRE_APPROVAL|DENY|QUARANTINE|EMERGENCY_STOP
+    reason_codes: []
+    constraints: []
+    expires_at: RFC3339
+```
+
+Sensitive fields shall be minimized, encrypted where required and excluded from public diagnostics.
+
+---
+
+# 11. Capability Enforcement
+
+Runtime permissions shall be represented by short-lived bounded capability grants.
+
+Every grant shall include:
+
+- Subject identity
+- Skill identity and exact version
+- Permitted action
+- Resource boundary
+- Runtime Domain
+- Session binding
+- Approval binding where required
+- Issue time
+- Expiration time
+- Replay protection
+- Policy version
+- Cryptographic integrity protection
+
+Capability grants shall be:
+
+- Non-transferable
+- Non-expandable
+- Revocable
+- Auditable
+- Time-limited
+- Invalid outside the approved context
+
+---
+
+# 12. Runtime Security States
+
+```text
+UNINITIALIZED
+      │
+      ▼
+INITIALIZING
+      │
+      ▼
+READY
+      │
+      ├── degraded dependency ──► DEGRADED
+      ├── security violation ───► QUARANTINED
+      ├── critical threat ──────► EMERGENCY_STOPPED
+      └── controlled shutdown ──► STOPPING ──► STOPPED
+```
+
+Rules:
+
+- `UNINITIALIZED`, `INITIALIZING`, `STOPPING` and `STOPPED` cannot authorize execution.
+- `DEGRADED` permits only explicitly pre-approved low-risk operations.
+- `QUARANTINED` denies all normal execution.
+- `EMERGENCY_STOPPED` requires an authorized recovery process and cannot self-clear.
+
+---
+
+# 13. Federated Multi-Orchestrator Controls
+
+Each orchestrator operates only within its approved boundary:
+
+- Executive Scope
+- Domain Scope
+- Organizational Scope
+- Professional Team Scope
+- Mission Scope
+- Regional Scope
+- Runtime Scope
+
+Cross-domain execution requires:
+
+1. Verified identities for participating domains
+2. Compatible policy decisions
+3. Explicit data-boundary evaluation
+4. Bounded cross-domain capability grants
+5. Required approvals
+6. Correlated Audit Ledger evidence
+7. Denial when unresolved domain-policy conflicts exist
+
+No local orchestrator may convert local authority into global authority.
+
+---
+
+# 14. Guardian Core Integration
+
+Guardian Core remains an independent security authority.
+
+The Security Manager shall consult or notify Guardian Core for:
+
+- Constitutional policy violations
+- Critical trust degradation
+- Suspected tampering
+- Repeated bypass attempts
+- Emergency-stop conditions
+- Quarantined Skills or workers
+- Anomalous privilege expansion
+- Unresolved cross-domain conflicts
+- Recovery from critical security states
+
+The Security Manager shall never suppress, rewrite or reinterpret a binding Guardian Core denial.
+
+---
+
+# 15. Approval Gateway Integration
+
+Approval evidence shall be validated for:
+
+- Issuer authority
+- Subject identity
+- Action scope
+- Resource scope
+- Skill version
+- Runtime Domain
+- Policy version
+- Required approval quorum
+- Creation time
+- Expiration time
+- Revocation state
+- Cryptographic integrity
+- Replay protection
+
+Expired, mismatched, revoked or unverifiable approval evidence results in denial or renewed approval routing.
+
+---
+
+# 16. Audit Ledger Integration
+
+The following events shall be recorded:
+
+- Security evaluation started
+- Identity verification result
+- Skill integrity result
+- Policy decision received
+- Approval evidence result
+- Capability grant issued
+- Capability grant denied
+- Execution constraints applied
+- Security context changed
+- Anomaly detected
+- Revocation received
+- Quarantine initiated
+- Emergency stop initiated
+- Recovery requested
+- Recovery completed or denied
+- Security context closed
+
+Audit events shall contain correlation identifiers and reason codes without raw secrets or unnecessary protected data.
+
+---
+
+# 17. Public / Private Boundary
+
+The SDK Runtime Security Manager belongs to the private operational domain of IMPERIAL Core.
+
+It shall enforce:
+
+- Explicit data classification
+- Approved disclosure paths
+- Prevention of restricted data flow into public services
+- Output filtering and policy validation
+- Secure cross-boundary gateways
+- Evidence for every authorized transition
+
+Enterprise IMPERIAL Skills internals, credentials, security policies, trust evidence, private manifests and protected telemetry shall not be exposed through public interfaces.
+
+---
+
+# 18. Secrets Security
+
+The Security Manager shall never persist plaintext secrets in logs, events, caches or security contexts.
+
+Secrets access requires:
+
+- Approved secrets provider
+- Workload-bound authentication
+- Short-lived leases
+- Least-privilege scopes
+- Automatic revocation
+- Access auditing
+- Memory-handling controls
+- Diagnostic redaction
+- Rotation support
+
+Secrets-provider unavailability shall never trigger fallback to hard-coded credentials.
+
+---
+
+# 19. Isolation Requirements
+
+Isolation profiles may include:
+
+- Process isolation
+- Filesystem isolation
+- Network isolation
+- Container or microVM isolation
+- Read-only root filesystem
+- Resource quotas
+- Syscall restrictions
+- Device restrictions
+- Egress allowlists
+- Ephemeral workspaces
+- Controlled inter-process communication
+- Secure cleanup
+- Forensic evidence preservation
+
+Higher-risk execution shall never receive weaker isolation merely for performance or convenience.
+
+---
+
+# 20. Revocation and Quarantine
+
+Revocation signals may target:
+
+- Identity
+- AI Passport
+- Skill version
+- Certification
+- Capability grant
+- Approval artifact
+- Session
+- Worker
+- Orchestrator boundary
+- Runtime Domain
+
+Critical revocations shall propagate immediately to active execution.
+
+Quarantine shall:
+
+1. Stop or suspend affected execution safely
+2. Revoke temporary capabilities
+3. Isolate affected resources
+4. Preserve evidence
+5. Notify Guardian Core
+6. Publish Audit Ledger events
+7. Require authorized recovery or retirement
+
+---
+
+# 21. Failure Handling
+
+| Failure | Required Response |
+|---|---|
+| Guardian Core unavailable for a mandatory decision | DENY or pause safely |
+| Approval Gateway unavailable when approval is required | REQUIRE_APPROVAL and pause |
+| Audit Ledger unavailable for mandatory critical evidence | Stop protected execution or use explicitly approved controlled degradation |
+| SDK Policy Engine unavailable | DENY |
+| Identity verification unavailable | DENY |
+| Skill integrity mismatch | QUARANTINE |
+| Certification revoked | DENY and terminate affected execution |
+| Isolation activation failure | DENY |
+| Secrets lease failure | DENY affected operation |
+| Security Manager integrity failure | EMERGENCY_STOP |
+| Conflicting domain policies | DENY pending authorized resolution |
+
+Retry behavior shall be bounded, observable and incapable of bypassing security decisions.
+
+---
+
+# 22. Security API Contract
+
+```text
+EvaluateSecurity(request) -> SecurityDecision
+ActivateSecurityContext(decision) -> ActiveSecurityContext
+ReevaluateSecurityContext(context_id, signals) -> SecurityDecision
+RevokeCapability(capability_id, reason) -> RevocationResult
+QuarantineTarget(target, reason) -> QuarantineResult
+CloseSecurityContext(context_id) -> ClosureResult
+GetSecurityHealth() -> SanitizedSecurityHealth
+```
+
+All mutating operations require authenticated workload identity, explicit authorization, idempotency protection and Audit Ledger correlation.
+
+---
+
+# 23. Observability
+
+Security observability shall include:
+
+- Evaluation latency
+- Decision rates
+- Policy-decision failures
+- Approval-validation failures
+- Integrity-validation failures
+- Capability revocation latency
+- Quarantine activation latency
+- Dependency health
+- Degraded-mode duration
+- Abnormal access attempts
+- Cross-domain denial reasons
+
+Metrics shall never include raw tokens, secrets, sensitive payloads or unnecessary personal data.
+
+---
+
+# 24. Performance and Availability
+
+The implementation shall support:
+
+- Stateless evaluation workers where practical
+- Horizontal scalability
+- Deterministic policy-version pinning
+- Bounded verified metadata caches
+- Signed cache entries with explicit TTL
+- Multi-zone resilience
+- Controlled failover
+- Backpressure
+- Fail-secure circuit breakers
+- Authorization-storm protection
+- Priority handling for revocation and emergency events
+
+Performance optimization shall never weaken mandatory security validation.
+
+---
+
+# 25. Configuration Governance
+
+Security configuration shall be:
+
+- Version-controlled
+- Schema-validated
+- Integrity-protected where required
+- Reviewed through approved governance
+- Environment-specific without hidden divergence
+- Deployed through controlled procedures
+- Reversible through approved rollback
+- Correlated with Audit Ledger evidence
+
+Configuration changes affecting security boundaries require Approval Gateway authorization according to policy.
+
+---
+
+# 26. Testing Requirements
+
+## 26.1 Unit Tests
+
+- Decision mapping
+- State transitions
+- TTL validation
+- Scope matching
+- Reason-code generation
+- Secure error handling
+
+## 26.2 Integration Tests
+
+- Guardian Core integration
+- Approval Gateway integration
+- Audit Ledger integration
+- SDK Policy Engine integration
+- AI Passport integration
+- EIS Registry integration
+- Isolation integration
+- Secrets-provider integration
+
+## 26.3 Security Tests
+
+- Privilege escalation attempts
+- Replay attacks
+- Forged approvals
+- Manifest tampering
+- Identity substitution
+- Cross-domain boundary violations
+- Log and metric leakage
+- Dependency-failure behavior
+- Revocation races
+- Sandbox escape simulations
+- Failover security consistency
+
+## 26.4 Resilience Tests
+
+- Partial dependency outage
+- Network partition
+- Delayed revocation
+- Duplicate events
+- Coordinator failover
+- Worker restart
+- Audit Ledger backpressure
+- Policy-version mismatch
+
+---
+
+# 27. Verification Gates
+
+| Gate | Requirement |
+|---|---|
+| G1 — Architecture | Approved architecture and threat model |
+| G2 — Implementation | Code review, SBOM, signed artifacts and dependency verification |
+| G3 — Security | Independent security testing and remediation of critical findings |
+| G4 — Operational | Failover, recovery, monitoring and incident-response validation |
+
+Production approval must remain separate from architecture approval.
+
+---
+
+# 28. Acceptance Criteria
+
+The SDK Runtime Security Manager is implementation-ready when:
+
+- All interfaces are versioned and documented
+- Every incomplete decision path denies by default
+- No protected path bypasses security evaluation
+- Guardian Core independence is preserved
+- Approval Gateway evidence is fully validated
+- Audit Ledger correlation is mandatory
+- AI Passport and Skill identity are verified
+- Capability grants are scoped, short-lived and revocable
+- Isolation profiles are deterministic
+- Revocations affect active execution
+- Public / Private Boundary controls are enforced
+- Critical dependency failure produces safe behavior
+- Security state transitions are tested
+- Cross-domain execution respects federated authority
+- Critical events are auditable
+- Secrets never appear in logs or diagnostics
+- Architecture, implementation, verification and production status remain separate
+
+---
+
+# 29. Codex Implementation Directives
+
+Codex shall:
+
+1. Treat this document as the canonical module specification.
+2. Preserve all canonical IMPERIAL Core component names.
+3. Preserve Federated Multi-Orchestrator Architecture.
+4. Implement interfaces before provider-specific integrations.
+5. Use deny-by-default behavior for incomplete decision paths.
+6. Create typed schemas for contexts, decisions, reason codes and events.
+7. Avoid hard-coded credentials and hidden fallback permissions.
+8. Create unit, integration, security and resilience tests.
+9. Document assumptions and unresolved dependencies.
+10. Never claim implementation without executable evidence.
+11. Request Architect review for constitutional ambiguity.
+12. Avoid modifying unrelated modules.
+
+---
+
+# 30. Required Implementation Artifacts
+
+```text
+sdk/security/runtime-security-manager/
+├── README.md
+├── interfaces/
+├── domain/
+├── admission/
+├── policy/
+├── approvals/
+├── identity/
+├── integrity/
+├── capabilities/
+├── isolation/
+├── supervision/
+├── revocation/
+├── quarantine/
+├── audit/
+├── health/
+├── config/
+├── tests/
+│   ├── unit/
+│   ├── integration/
+│   ├── security/
+│   └── resilience/
+└── docs/
+```
+
+Programming language, deployment platform, cryptographic provider and secrets backend remain separate implementation decisions requiring approval.
+
+---
+
+# 31. Architecture Status
+
+| Area | Status |
+|---|---|
+| Architecture | Defined |
+| Specification | Codex-Ready |
+| Architect Approval | Pending explicit repository acceptance |
+| Software Implementation | Not Started |
+| Security Verification | Not Performed |
+| Production Deployment | Not Performed |
+
+---
+
+# 32. Final Principle
+
+> The SDK Runtime Security Manager does not create trust. It continuously verifies whether a specific operation has earned enough bounded trust to proceed safely.
+
+The component ensures that every Enterprise IMPERIAL Skills runtime action remains authenticated, authorized, isolated, policy-governed, approval-aware, auditable and subject to the final architectural authority of Romaskevich Alexander Nikolaevich.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**  
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**  
+**IMPERIAL Core — Architecture Before Implementation**
