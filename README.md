@@ -39101,3 +39101,203 @@ The HANTER Executive Analytics Engine establishes the canonical executive analyt
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_REPORTING_ENGINE.md
+
+# 💎 HANTER Executive Reporting Engine
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Reporting Architecture
+> File: HANTER_EXECUTIVE_REPORTING_ENGINE.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Reporting Engine** is the canonical reporting component responsible for generating executive reports across the IMPERIAL Core ecosystem.
+
+Its mission is to transform verified operational, governance and analytical information into trusted executive reports while preserving the Federated Multi-Orchestrator Architecture, Runtime Domain sovereignty and constitutional governance.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Reporting Engine follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Executive Reporting Before Decision
+- Zero Trust
+- Verified Information Only
+- Deterministic Report Generation
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Reporting Engine governs:
+
+- Executive Report Generation
+- Strategic Reporting
+- Governance Reporting
+- Runtime Reporting
+- Cross-Domain Reporting
+- Compliance Reporting
+- Executive Dashboards
+- Report Audit
+
+---
+
+# 4. Reporting Sources
+
+Reports may include verified information from:
+
+- Executive Analytics Engine
+- Executive Monitoring Manager
+- Runtime Domains
+- Enterprise IMPERIAL Skills
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Enterprise Registry
+
+Only verified enterprise information may appear in executive reports.
+
+---
+
+# 5. Reporting Pipeline
+
+```text
+Enterprise Data
+
+↓
+
+Data Validation
+
+↓
+
+Evidence Correlation
+
+↓
+
+Executive Report Generation
+
+↓
+
+Policy Validation
+
+↓
+
+Executive Distribution
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Report Categories
+
+Supported reports include:
+
+| Category | Description |
+|----------|-------------|
+| Executive | Executive Reports |
+| Strategic | Strategic Reports |
+| Governance | Governance Reports |
+| Runtime | Runtime Reports |
+| Security | Security Reports |
+| Federation | Cross-Domain Reports |
+| Compliance | Compliance Reports |
+| Capacity | Capacity Reports |
+| Performance | Performance Reports |
+| Enterprise | Enterprise Reports |
+
+---
+
+# 7. Governance Rules
+
+The Executive Reporting Engine guarantees:
+
+- deterministic reporting;
+- evidence-based reporting;
+- Runtime Domain sovereignty;
+- constitutional governance;
+- federation consistency;
+- complete audit evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Analytics Engine
+- Executive Monitoring Manager
+- Executive Governance Model
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Reporting Tests
+- Dashboard Tests
+- Federation Tests
+- Evidence Validation Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- executive reports are generated deterministically;
+- unauthorized report generation is rejected;
+- Runtime Domain sovereignty is preserved;
+- executive reports contain only verified information;
+- federation reporting remains consistent;
+- Audit Ledger records every executive reporting event.
+
+---
+
+# 11. Final Principle
+
+> Executive reports shall always represent verified enterprise reality rather than assumptions or estimates.
+
+The HANTER Executive Reporting Engine establishes the canonical executive reporting architecture for IMPERIAL Core, enabling trusted enterprise reporting while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
