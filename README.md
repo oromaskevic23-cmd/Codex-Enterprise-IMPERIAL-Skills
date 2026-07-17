@@ -35529,3 +35529,210 @@ The SDK Runtime Notification Manager establishes the canonical enterprise notifi
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_LOGGING_MANAGER.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Logging Manager
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Runtime Logging Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Logging Manager** is the canonical logging component responsible for collecting, validating, protecting and governing runtime logs generated across Enterprise IMPERIAL Skills.
+
+Its mission is to provide reliable operational logging while preserving the Federated Multi-Orchestrator Architecture, Zero Trust principles and enterprise governance.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Runtime Logging Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Logging
+- Immutable Log Integrity
+- Secure Log Retention
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Runtime Logging Manager governs:
+
+- Runtime Log Collection
+- Log Validation
+- Log Classification
+- Log Normalization
+- Log Correlation
+- Log Retention
+- Log Protection
+- Log Archiving
+- Log Publication
+
+---
+
+# 4. Logging Sources
+
+Logs are collected from:
+
+- SDK Runtime Engine
+- SDK Runtime Coordinator
+- SDK Runtime Security Manager
+- SDK Runtime Policy Engine
+- SDK Runtime Metrics Manager
+- SDK Runtime Telemetry Manager
+- SDK Runtime Event Manager
+- Guardian Core
+- Approval Gateway
+- Runtime Domains
+
+Only authenticated runtime components may publish logs.
+
+---
+
+# 5. Logging Pipeline
+
+```text
+Runtime Activity
+
+↓
+
+Log Collection
+
+↓
+
+Validation
+
+↓
+
+Classification
+
+↓
+
+Normalization
+
+↓
+
+Correlation
+
+↓
+
+Secure Storage
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Log Categories
+
+Supported categories:
+
+| Category | Description |
+|----------|-------------|
+| Runtime | Runtime Operations |
+| Security | Security Events |
+| Policy | Policy Processing |
+| Performance | Performance Logs |
+| Telemetry | Telemetry Logs |
+| Metrics | Metrics Logs |
+| Federation | Cross-Domain Logs |
+| Recovery | Recovery Logs |
+| Administration | Administrative Logs |
+| Diagnostics | Diagnostic Logs |
+
+---
+
+# 7. Runtime Governance
+
+The Runtime Logging Manager guarantees:
+
+- trusted log collection;
+- deterministic log processing;
+- secure log retention;
+- federation-wide consistency;
+- log integrity;
+- complete audit evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- SDK Runtime Engine
+- SDK Runtime Metrics Manager
+- SDK Runtime Telemetry Manager
+- SDK Runtime Event Manager
+- SDK Runtime Audit Manager
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Logging Tests
+- Retention Tests
+- Correlation Tests
+- Federation Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- runtime logs are collected continuously;
+- log integrity is verified;
+- unauthorized log modification is prevented;
+- federation log consistency is preserved;
+- secure retention policies are enforced;
+- Audit Ledger records every critical logging event.
+
+---
+
+# 11. Final Principle
+
+> Reliable enterprise governance depends upon trustworthy, protected and verifiable runtime logs.
+
+The SDK Runtime Logging Manager establishes the canonical enterprise logging architecture for Enterprise IMPERIAL Skills, enabling secure operational visibility while preserving federation, governance and architectural integrity throughout IMPERIAL Core.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
