@@ -33464,3 +33464,212 @@ The SDK Runtime Policy Validator guarantees that Enterprise IMPERIAL Skills exec
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_POLICY_REGISTRY.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Policy Registry
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Runtime Policy Registry Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Policy Registry** is the canonical repository responsible for maintaining the governed collection of runtime policies used by Enterprise IMPERIAL Skills.
+
+It guarantees that every Runtime Domain references approved, versioned and verifiable policy artifacts.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Runtime Policy Registry follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Immutable Policy Records
+- Version Governance
+- Policy Traceability
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The registry provides:
+
+- Policy Registration
+- Policy Versioning
+- Policy Discovery
+- Policy Distribution
+- Policy Synchronization
+- Policy Status Management
+- Policy Metadata Management
+- Policy Deprecation
+- Policy Revocation
+
+---
+
+# 4. Registry Contents
+
+Every policy record contains:
+
+- Policy ID
+- Policy Name
+- Version
+- Status
+- Runtime Scope
+- Trust Tier
+- Risk Classification
+- Dependencies
+- Approval Reference
+- Guardian Core Reference
+- Audit Reference
+- Publication Date
+
+---
+
+# 5. Registry Pipeline
+
+```text
+Policy Submission
+
+↓
+
+Identity Verification
+
+↓
+
+Schema Validation
+
+↓
+
+Version Validation
+
+↓
+
+Registry Registration
+
+↓
+
+Approval Verification
+
+↓
+
+Publication
+
+↓
+
+Runtime Synchronization
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Policy Status
+
+Supported lifecycle states:
+
+| Status | Meaning |
+|----------|---------|
+| Draft | Under Development |
+| Review | Validation Running |
+| Approved | Available for Runtime |
+| Active | In Production |
+| Deprecated | Scheduled for Removal |
+| Revoked | Disabled |
+| Archived | Historical Record |
+
+Policy history shall never be deleted.
+
+---
+
+# 7. Runtime Governance
+
+The Runtime Policy Registry guarantees:
+
+- immutable policy identity;
+- deterministic version management;
+- federated synchronization;
+- runtime consistency;
+- policy traceability;
+- complete audit evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- SDK Runtime Policy Validator
+- SDK Runtime Policy Coordinator
+- SDK Runtime Authorization Engine
+- SDK Policy Engine
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Enterprise IMPERIAL Skills Registry
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Registry Tests
+- Synchronization Tests
+- Federation Tests
+- Versioning Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- every runtime policy is uniquely registered;
+- version history remains immutable;
+- policy synchronization is deterministic;
+- deprecated policies remain traceable;
+- Audit Ledger records every registry operation;
+- federated Runtime Domains remain synchronized.
+
+---
+
+# 11. Final Principle
+
+> Every runtime policy used by Enterprise IMPERIAL Skills must originate from one governed, versioned and auditable policy registry.
+
+The SDK Runtime Policy Registry guarantees trusted policy lifecycle management while preserving federated governance, architectural integrity and complete traceability across IMPERIAL Core.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
