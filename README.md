@@ -34081,3 +34081,203 @@ The SDK Runtime Policy Synchronizer guarantees deterministic policy synchronizat
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_POLICY_CONFLICT_RESOLVER.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Policy Conflict Resolver
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Runtime Policy Conflict Resolution Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Policy Conflict Resolver** is the canonical component responsible for identifying, evaluating and resolving policy conflicts across Enterprise IMPERIAL Skills Runtime Domains.
+
+Its purpose is to guarantee deterministic policy decisions while preserving the Federated Multi-Orchestrator Architecture.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Runtime Policy Conflict Resolver follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Conflict Resolution
+- Policy Integrity
+- Runtime Consistency
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Conflict Resolver manages:
+
+- Policy Conflict Detection
+- Policy Comparison
+- Version Conflict Resolution
+- Runtime Policy Prioritization
+- Federation Conflict Analysis
+- Resolution Verification
+- Resolution Publication
+- Resolution Audit
+
+---
+
+# 4. Conflict Sources
+
+Conflicts may originate from:
+
+- Runtime Domains
+- Organization Policies
+- Mission Policies
+- SDK Policy Engine
+- Guardian Core Restrictions
+- Approval Gateway Decisions
+- Runtime Configuration
+- Policy Version Differences
+
+---
+
+# 5. Resolution Pipeline
+
+```text
+Policy Evaluation
+
+↓
+
+Conflict Detection
+
+↓
+
+Conflict Classification
+
+↓
+
+Guardian Core Verification
+
+↓
+
+Priority Resolution
+
+↓
+
+Resolution Validation
+
+↓
+
+Runtime Distribution
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Conflict Types
+
+Supported conflict categories:
+
+| Conflict | Resolution |
+|----------|------------|
+| Version Conflict | Highest Approved Version |
+| Runtime Conflict | Runtime Policy Priority |
+| Domain Conflict | Federated Resolution |
+| Approval Conflict | Approval Gateway Authority |
+| Trust Conflict | Guardian Core Authority |
+| Configuration Conflict | Approved Configuration |
+| Unknown Conflict | DENY |
+
+Unknown conflicts are never resolved automatically.
+
+---
+
+# 7. Runtime Governance
+
+The Runtime Policy Conflict Resolver guarantees:
+
+- deterministic conflict resolution;
+- policy integrity;
+- federation consistency;
+- runtime stability;
+- complete audit evidence;
+- preservation of constitutional authority.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- SDK Runtime Policy Synchronizer
+- SDK Runtime Policy Distributor
+- SDK Runtime Policy Registry
+- SDK Runtime Policy Coordinator
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Conflict Resolution Tests
+- Federation Tests
+- Version Conflict Tests
+- Runtime Consistency Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- policy conflicts are detected automatically;
+- deterministic resolutions are applied;
+- Guardian Core authority is preserved;
+- Approval Gateway decisions remain authoritative;
+- every resolution is recorded in Audit Ledger;
+- Runtime Domains remain policy consistent.
+
+---
+
+# 11. Final Principle
+
+> Policy conflicts shall never produce undefined runtime behavior. Every conflict must be resolved deterministically, transparently and under the constitutional governance of IMPERIAL Core.
+
+The SDK Runtime Policy Conflict Resolver guarantees consistent policy execution across Enterprise IMPERIAL Skills while preserving federation, security and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
