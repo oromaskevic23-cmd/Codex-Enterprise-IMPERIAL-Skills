@@ -33248,3 +33248,219 @@ The SDK Runtime Policy Coordinator guarantees that Enterprise IMPERIAL Skills ex
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_POLICY_VALIDATOR.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Policy Validator
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Runtime Policy Validation Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Policy Validator** is the canonical validation component responsible for verifying that every runtime policy applied to Enterprise IMPERIAL Skills is authentic, complete, compatible and approved before execution.
+
+No policy may become active without successful validation.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Runtime Policy Validator follows:
+
+- Architecture Before Implementation
+- Zero Trust
+- Policy Before Execution
+- Deterministic Validation
+- Deny by Default
+- Continuous Verification
+- Federated Governance
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The validator performs:
+
+- Policy Integrity Validation
+- Policy Schema Validation
+- Policy Signature Verification
+- Policy Version Validation
+- Dependency Validation
+- Compatibility Validation
+- Runtime Policy Approval Validation
+- Policy Compliance Verification
+- Validation Audit Recording
+
+---
+
+# 4. Validation Sources
+
+Every policy is validated against:
+
+- Architect Approved Policies
+- Guardian Core
+- SDK Policy Engine
+- Approval Gateway
+- Runtime Domain Policies
+- Enterprise Policy Registry
+- Skill Manifest Requirements
+- Runtime Configuration
+
+Invalid references immediately fail validation.
+
+---
+
+# 5. Validation Pipeline
+
+```text
+Policy Request
+
+↓
+
+Schema Validation
+
+↓
+
+Integrity Verification
+
+↓
+
+Signature Verification
+
+↓
+
+Version Validation
+
+↓
+
+Dependency Validation
+
+↓
+
+Guardian Core Review
+
+↓
+
+Approval Verification
+
+↓
+
+Compliance Validation
+
+↓
+
+Audit Recording
+
+↓
+
+Validated Policy
+```
+
+---
+
+# 6. Validation Decisions
+
+Supported results:
+
+| Decision | Result |
+|----------|--------|
+| VALID | Policy Approved |
+| VALID_WITH_LIMITS | Restricted Usage |
+| REQUIRE_APPROVAL | Manual Approval Required |
+| INVALID | Policy Rejected |
+| EXPIRED | Validation Failed |
+| QUARANTINE | Policy Isolated |
+
+Undefined validation results become **INVALID**.
+
+---
+
+# 7. Runtime Governance
+
+The Runtime Policy Validator guarantees:
+
+- validated policy integrity;
+- trusted policy origin;
+- approved policy versions;
+- dependency consistency;
+- federated compatibility;
+- complete validation evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- SDK Runtime Policy Coordinator
+- SDK Runtime Authorization Engine
+- SDK Runtime Security Manager
+- SDK Policy Engine
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Enterprise Policy Registry
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Schema Validation Tests
+- Signature Verification Tests
+- Dependency Tests
+- Federation Tests
+- Runtime Validation Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- every runtime policy is validated;
+- invalid policies are rejected automatically;
+- Guardian Core restrictions remain authoritative;
+- approval requirements are enforced;
+- validation evidence is recorded in Audit Ledger;
+- policy integrity is continuously preserved.
+
+---
+
+# 11. Final Principle
+
+> A runtime policy is trusted only after its identity, integrity, approval and compatibility have been independently verified.
+
+The SDK Runtime Policy Validator guarantees that Enterprise IMPERIAL Skills execute exclusively under validated, approved and auditable enterprise policies.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
