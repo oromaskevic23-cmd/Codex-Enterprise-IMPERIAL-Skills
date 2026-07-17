@@ -35107,3 +35107,214 @@ The SDK Runtime Audit Manager establishes the canonical enterprise audit archite
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_EVENT_MANAGER.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Event Manager
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Runtime Event Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Event Manager** is the canonical event coordination component responsible for managing, routing and governing runtime events generated across Enterprise IMPERIAL Skills.
+
+Its mission is to provide deterministic event processing while preserving the Federated Multi-Orchestrator Architecture and maintaining enterprise-grade operational integrity.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Runtime Event Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Event Processing
+- Event Integrity
+- Reliable Delivery
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Runtime Event Manager governs:
+
+- Runtime Event Collection
+- Event Validation
+- Event Classification
+- Event Routing
+- Event Prioritization
+- Event Delivery
+- Event Retry
+- Event Persistence
+- Event Monitoring
+
+---
+
+# 4. Event Sources
+
+Runtime events originate from:
+
+- SDK Runtime Engine
+- SDK Runtime Coordinator
+- SDK Runtime Security Manager
+- SDK Runtime Policy Engine
+- SDK Runtime Metrics Manager
+- SDK Runtime Telemetry Manager
+- SDK Runtime Audit Manager
+- Guardian Core
+- Approval Gateway
+- Runtime Domains
+
+Only authenticated runtime components may publish events.
+
+---
+
+# 5. Event Pipeline
+
+```text
+Runtime Event
+
+↓
+
+Event Collection
+
+↓
+
+Validation
+
+↓
+
+Classification
+
+↓
+
+Priority Assignment
+
+↓
+
+Routing
+
+↓
+
+Delivery
+
+↓
+
+Confirmation
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Event Categories
+
+Supported categories:
+
+| Category | Description |
+|----------|-------------|
+| Runtime | Execution events |
+| Security | Security events |
+| Policy | Policy events |
+| Metrics | Metrics events |
+| Telemetry | Telemetry events |
+| Audit | Audit events |
+| Federation | Cross-domain events |
+| Recovery | Recovery events |
+| Administration | Administrative events |
+| Emergency | Critical events |
+
+---
+
+# 7. Runtime Governance
+
+The Runtime Event Manager guarantees:
+
+- trusted event processing;
+- deterministic routing;
+- reliable delivery;
+- federation-wide event coordination;
+- event integrity;
+- complete audit evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- SDK Runtime Engine
+- SDK Runtime Coordinator
+- SDK Runtime Metrics Manager
+- SDK Runtime Telemetry Manager
+- SDK Runtime Audit Manager
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Event Routing Tests
+- Delivery Tests
+- Retry Tests
+- Federation Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- runtime events are processed deterministically;
+- event delivery remains reliable;
+- routing follows approved policies;
+- unauthorized events are rejected;
+- federation event integrity is preserved;
+- Audit Ledger records every critical event.
+
+---
+
+# 11. Final Principle
+
+> Every Enterprise IMPERIAL Skills runtime event shall be authenticated, validated, routed and recorded under governed enterprise control.
+
+The SDK Runtime Event Manager establishes the canonical enterprise event architecture for Enterprise IMPERIAL Skills, enabling reliable event coordination while preserving federation, governance and architectural integrity throughout IMPERIAL Core.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
