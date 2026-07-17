@@ -32530,3 +32530,295 @@ The SDK Runtime Permission Manager guarantees that every Enterprise IMPERIAL Ski
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_PERMISSION_ENFORCEMENT.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Permission Enforcement
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Authorization Enforcement Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Permission Enforcement** layer guarantees that every permission granted by the SDK Runtime Permission Manager is enforced consistently throughout the complete Enterprise IMPERIAL Skills execution lifecycle.
+
+No runtime component may bypass permission enforcement.
+
+---
+
+# 2. Enforcement Principles
+
+Permission Enforcement follows:
+
+- Deny by Default
+- Zero Trust
+- Least Privilege
+- Continuous Validation
+- Runtime Isolation
+- Federated Authority
+- Complete Auditability
+- Immediate Revocation
+- Fail Secure
+
+---
+
+# 3. Enforcement Responsibilities
+
+The component enforces:
+
+- Runtime Capability Validation
+- Resource Authorization
+- API Authorization
+- Tool Authorization
+- Model Authorization
+- Data Authorization
+- Filesystem Authorization
+- Network Authorization
+- Secret Authorization
+- Cross-Domain Authorization
+- Runtime Isolation
+- Revocation Enforcement
+
+---
+
+# 4. AI Passport Integration
+
+Every protected execution validates:
+
+- Identity
+- AI Passport
+- Organization
+- Runtime Domain
+- Trust Tier
+- Professional Role
+- Active Restrictions
+- Revocation Status
+
+Invalid AI Passport blocks execution.
+
+---
+
+# 5. Guardian Core Integration
+
+Guardian Core may:
+
+- deny execution;
+- revoke permissions;
+- quarantine sessions;
+- stop runtime execution;
+- reduce trust level;
+- suspend authorization.
+
+Guardian Core decisions are final.
+
+---
+
+# 6. Approval Gateway Integration
+
+Protected operations require validation of:
+
+- Approval Scope
+- Approval Authority
+- Approval Expiration
+- Approval Integrity
+- Approval Revocation
+- Required Quorum
+
+Expired approvals invalidate runtime permissions.
+
+---
+
+# 7. Runtime Enforcement Pipeline
+
+```text
+Runtime Request
+
+↓
+
+Capability Validation
+
+↓
+
+Policy Validation
+
+↓
+
+Guardian Core Check
+
+↓
+
+Approval Verification
+
+↓
+
+Permission Enforcement
+
+↓
+
+Audit Recording
+
+↓
+
+Runtime Execution
+```
+
+---
+
+# 8. Runtime Revocation
+
+Permissions may be revoked because of:
+
+- Trust Reduction
+- Policy Change
+- AI Passport Suspension
+- Approval Expiration
+- Session Termination
+- Runtime Compromise
+- Guardian Core Decision
+- Administrative Revocation
+
+Revocation immediately terminates affected capabilities.
+
+---
+
+# 9. Cross-Domain Enforcement
+
+Cross-domain execution requires:
+
+- Verified Identity
+- Verified Domain
+- Matching Policies
+- Approval Validation
+- Data Boundary Validation
+- Audit Correlation
+- Runtime Isolation
+
+Unauthorized domain transitions are denied.
+
+---
+
+# 10. Audit Ledger Integration
+
+The following events are recorded:
+
+- Permission Granted
+- Permission Denied
+- Permission Revoked
+- Runtime Started
+- Runtime Finished
+- Capability Activated
+- Capability Expired
+- Cross-Domain Access
+- Approval Validation
+- Guardian Decision
+- Enforcement Failure
+
+Every enforcement decision is auditable.
+
+---
+
+# 11. Failure Handling
+
+| Failure | Runtime Response |
+|----------|------------------|
+| Invalid Permission | DENY |
+| Missing Approval | REQUIRE APPROVAL |
+| Guardian Denial | STOP |
+| Runtime Isolation Failure | DENY |
+| Policy Engine Failure | DENY |
+| Audit Failure | SAFE FAILURE |
+| Permission Expired | REVOKE |
+| AI Passport Revoked | STOP |
+
+---
+
+# 12. Security Controls
+
+The Runtime Permission Enforcement layer protects against:
+
+- Privilege Escalation
+- Permission Forgery
+- Replay Attacks
+- Session Hijacking
+- Cross-Domain Abuse
+- Unauthorized API Calls
+- Runtime Drift
+- Hidden Permissions
+- Unauthorized Delegation
+- Capability Reuse
+
+---
+
+# 13. Testing Requirements
+
+Testing includes:
+
+### Unit Tests
+
+- Permission Validation
+- Revocation Logic
+- Enforcement Rules
+
+### Integration Tests
+
+- Guardian Core
+- Approval Gateway
+- AI Passport
+- Audit Ledger
+- Runtime Coordinator
+
+### Security Tests
+
+- Permission Escalation
+- Replay Protection
+- Forged Capability
+- Runtime Isolation
+- Cross-Domain Access
+
+---
+
+# 14. Acceptance Criteria
+
+Implementation is considered ready when:
+
+- every permission is enforced;
+- every capability is validated;
+- Guardian Core decisions are respected;
+- Approval Gateway is mandatory where required;
+- revocations terminate execution;
+- runtime isolation is preserved;
+- Audit Ledger records every enforcement event;
+- architecture and implementation remain explicitly separated.
+
+---
+
+# 15. Final Principle
+
+> Permissions have value only when they are continuously enforced throughout runtime execution.
+
+The SDK Runtime Permission Enforcement layer guarantees that Enterprise IMPERIAL Skills operate exclusively inside verified, approved and continuously monitored authorization boundaries.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
