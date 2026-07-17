@@ -34484,3 +34484,211 @@ The SDK Runtime Policy Version Manager guarantees deterministic policy version g
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_METRICS_MANAGER.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Metrics Manager
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Runtime Metrics Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Metrics Manager** is the canonical metrics collection and analysis component for Enterprise IMPERIAL Skills Runtime.
+
+Its purpose is to continuously collect, validate, aggregate and publish operational metrics from every Runtime Domain while preserving the Federated Multi-Orchestrator Architecture.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Runtime Metrics Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Metrics Collection
+- Complete Auditability
+- High Availability
+- Enterprise Observability
+
+---
+
+# 3. Responsibilities
+
+The Runtime Metrics Manager governs:
+
+- Runtime Metrics Collection
+- Metrics Validation
+- Metrics Aggregation
+- Runtime Performance Measurement
+- Capacity Metrics
+- Health Metrics
+- Resource Utilization Metrics
+- Execution Metrics
+- Federation Metrics
+- Metrics Publication
+
+---
+
+# 4. Metrics Sources
+
+Metrics are collected from:
+
+- SDK Runtime Engine
+- SDK Runtime Coordinator
+- Runtime Workers
+- Runtime Client
+- Runtime Registry
+- Runtime Security Manager
+- Runtime Policy Engine
+- Runtime Domains
+- Guardian Core
+- Approval Gateway
+
+Only authenticated runtime components may publish metrics.
+
+---
+
+# 5. Metrics Pipeline
+
+```text
+Runtime Event
+
+↓
+
+Metrics Collection
+
+↓
+
+Validation
+
+↓
+
+Normalization
+
+↓
+
+Aggregation
+
+↓
+
+Analysis
+
+↓
+
+Publication
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Metrics Categories
+
+Supported categories:
+
+| Category | Description |
+|----------|-------------|
+| Performance | Runtime execution performance |
+| Capacity | Resource utilization |
+| Availability | Runtime availability |
+| Health | Component health |
+| Security | Runtime security metrics |
+| Policy | Policy execution metrics |
+| Federation | Cross-domain metrics |
+| Reliability | Runtime stability |
+| Recovery | Recovery statistics |
+| Audit | Metrics publication history |
+
+---
+
+# 7. Runtime Governance
+
+The Runtime Metrics Manager guarantees:
+
+- deterministic metrics collection;
+- trusted measurements;
+- federation-wide visibility;
+- runtime consistency;
+- metrics integrity;
+- complete audit evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- SDK Runtime Engine
+- SDK Runtime Coordinator
+- SDK Runtime Health Monitor
+- SDK Runtime Capacity Manager
+- SDK Runtime Security Manager
+- SDK Runtime Policy Engine
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Metrics Collection Tests
+- Aggregation Tests
+- Federation Tests
+- Performance Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- runtime metrics are collected continuously;
+- metric integrity is verified;
+- aggregation remains deterministic;
+- federation metrics remain synchronized;
+- unauthorized metrics are rejected;
+- Audit Ledger records every metrics publication.
+
+---
+
+# 11. Final Principle
+
+> Reliable Runtime decisions require reliable Runtime metrics.
+
+The SDK Runtime Metrics Manager establishes the canonical enterprise metrics architecture for Enterprise IMPERIAL Skills, enabling trusted observability, operational intelligence and continuous optimization while preserving federation, governance and architectural integrity throughout IMPERIAL Core.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
