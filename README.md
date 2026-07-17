@@ -36575,3 +36575,211 @@ The SDK Runtime Observability Manager establishes the canonical enterprise obser
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_DIAGNOSTICS_MANAGER.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Diagnostics Manager
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Runtime Diagnostics Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Diagnostics Manager** is the canonical diagnostics component responsible for identifying, analyzing and coordinating the resolution of runtime anomalies across Enterprise IMPERIAL Skills.
+
+Its mission is to provide deterministic diagnostic capabilities while preserving the Federated Multi-Orchestrator Architecture, Zero Trust principles and enterprise governance.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Runtime Diagnostics Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Diagnostics
+- Root Cause Analysis
+- Non-Intrusive Investigation
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Runtime Diagnostics Manager governs:
+
+- Runtime Diagnostics
+- Anomaly Detection
+- Root Cause Analysis
+- Health Investigation
+- Dependency Diagnostics
+- Runtime Verification
+- Failure Classification
+- Diagnostic Reporting
+- Diagnostics Audit
+
+---
+
+# 4. Diagnostics Sources
+
+Diagnostics information is collected from:
+
+- SDK Runtime Metrics Manager
+- SDK Runtime Telemetry Manager
+- SDK Runtime Logging Manager
+- SDK Runtime Audit Manager
+- SDK Runtime Event Manager
+- SDK Runtime Observability Manager
+- SDK Runtime Health Monitor
+- Guardian Core
+- Approval Gateway
+- Runtime Domains
+
+Only authenticated enterprise diagnostic sources may participate.
+
+---
+
+# 5. Diagnostics Pipeline
+
+```text
+Runtime Anomaly
+
+↓
+
+Signal Collection
+
+↓
+
+Validation
+
+↓
+
+Correlation
+
+↓
+
+Root Cause Analysis
+
+↓
+
+Diagnostic Report
+
+↓
+
+Recovery Recommendation
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Diagnostics Categories
+
+Supported categories:
+
+| Category | Description |
+|----------|-------------|
+| Runtime | Runtime Diagnostics |
+| Performance | Performance Analysis |
+| Health | Health Investigation |
+| Security | Security Diagnostics |
+| Policy | Policy Diagnostics |
+| Federation | Cross-Domain Diagnostics |
+| Recovery | Recovery Analysis |
+| Capacity | Capacity Investigation |
+| Infrastructure | Infrastructure Diagnostics |
+| Compliance | Compliance Diagnostics |
+
+---
+
+# 7. Runtime Governance
+
+The Runtime Diagnostics Manager guarantees:
+
+- deterministic diagnostics;
+- trusted root cause analysis;
+- federation-wide diagnostics;
+- runtime integrity;
+- diagnostic traceability;
+- complete audit evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- SDK Runtime Metrics Manager
+- SDK Runtime Telemetry Manager
+- SDK Runtime Logging Manager
+- SDK Runtime Audit Manager
+- SDK Runtime Observability Manager
+- SDK Runtime Recovery Manager
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Diagnostics Tests
+- Root Cause Analysis Tests
+- Federation Tests
+- Recovery Recommendation Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- runtime anomalies are detected automatically;
+- diagnostic reports are deterministic;
+- root causes are traceable;
+- federation diagnostics remain consistent;
+- unauthorized diagnostic access is prevented;
+- Audit Ledger records every diagnostic investigation.
+
+---
+
+# 11. Final Principle
+
+> Reliable recovery begins with reliable diagnostics.
+
+The SDK Runtime Diagnostics Manager establishes the canonical enterprise diagnostics architecture for Enterprise IMPERIAL Skills, enabling accurate runtime investigation and root cause analysis while preserving federation, governance and architectural integrity throughout IMPERIAL Core.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
