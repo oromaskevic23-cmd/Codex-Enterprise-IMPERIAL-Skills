@@ -32822,3 +32822,219 @@ The SDK Runtime Permission Enforcement layer guarantees that Enterprise IMPERIAL
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_AUTHORIZATION_ENGINE.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Authorization Engine
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Authorization Engine Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Authorization Engine** is the canonical decision engine responsible for producing deterministic authorization decisions for Enterprise IMPERIAL Skills.
+
+It evaluates every protected runtime request before execution begins.
+
+No runtime operation may proceed without an authorization decision.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Authorization Engine follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deny by Default
+- Least Privilege
+- Deterministic Decisions
+- Continuous Authorization
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The engine performs:
+
+- Authorization Evaluation
+- Policy Resolution
+- Capability Validation
+- Context Analysis
+- Runtime Authorization
+- Cross-Domain Authorization
+- Approval Verification
+- Guardian Core Coordination
+- Authorization Logging
+
+---
+
+# 4. Authorization Inputs
+
+Every decision evaluates:
+
+- Identity
+- AI Passport
+- Skill Manifest
+- Runtime Session
+- Runtime Domain
+- Requested Action
+- Resource
+- Trust Tier
+- Policy Version
+- Approval Evidence
+- Guardian Core Restrictions
+
+Incomplete input results in denial.
+
+---
+
+# 5. Authorization Pipeline
+
+```text
+Authorization Request
+
+↓
+
+Identity Resolution
+
+↓
+
+AI Passport Validation
+
+↓
+
+Skill Validation
+
+↓
+
+Policy Evaluation
+
+↓
+
+Guardian Core Verification
+
+↓
+
+Approval Verification
+
+↓
+
+Authorization Decision
+
+↓
+
+Capability Creation
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Authorization Decisions
+
+Supported outcomes:
+
+| Decision | Result |
+|----------|--------|
+| AUTHORIZE | Execution Allowed |
+| AUTHORIZE_WITH_LIMITS | Reduced Scope |
+| REQUIRE_APPROVAL | Approval Required |
+| DENY | Execution Blocked |
+| REVOKE | Authorization Removed |
+| QUARANTINE | Runtime Isolated |
+
+Undefined decisions become **DENY**.
+
+---
+
+# 7. Runtime Governance
+
+The Authorization Engine shall ensure:
+
+- no privilege escalation;
+- no hidden permissions;
+- no unauthorized delegation;
+- no policy bypass;
+- no cross-domain authority expansion;
+- no execution without audit evidence.
+
+---
+
+# 8. Integration
+
+Integrated with:
+
+- SDK Runtime Permission Manager
+- SDK Runtime Security Manager
+- SDK Policy Engine
+- AI Passport
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Runtime Coordinator
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Integration Tests
+- Security Tests
+- Authorization Tests
+- Federation Tests
+- Runtime Resilience Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- every request receives a deterministic authorization decision;
+- deny-by-default is enforced;
+- Guardian Core restrictions are respected;
+- Approval Gateway validation is mandatory;
+- Audit Ledger evidence exists for every decision;
+- authorization remains fully bounded and revocable.
+
+---
+
+# 11. Final Principle
+
+> Authorization is the controlled decision that determines whether a runtime action is permitted within the constitutional boundaries of IMPERIAL Core.
+
+The SDK Runtime Authorization Engine guarantees that Enterprise IMPERIAL Skills execute only after verified, policy-compliant and fully auditable authorization.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
