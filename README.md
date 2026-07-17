@@ -41185,3 +41185,217 @@ The HANTER Executive Risk Manager establishes the canonical enterprise risk arch
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_RECOVERY_MANAGER.md
+
+# 💎 HANTER Executive Recovery Manager
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Recovery Architecture
+> File: HANTER_EXECUTIVE_RECOVERY_MANAGER.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Recovery Manager** is the canonical enterprise recovery governance component responsible for coordinating controlled recovery of executive services, Runtime Domains and enterprise operations following failures, incidents or emergency conditions.
+
+Its mission is to restore enterprise capabilities safely, deterministically and under constitutional governance while preserving the Federated Multi-Orchestrator Architecture.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Recovery Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Recovery Before Resumption
+- Zero Trust
+- Deterministic Recovery
+- Controlled Restoration
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Recovery Manager governs:
+
+- Enterprise Recovery Planning
+- Runtime Recovery
+- Session Recovery
+- Service Restoration
+- Cross-Domain Recovery
+- Recovery Validation
+- Recovery Monitoring
+- Recovery Audit
+
+---
+
+# 4. Recovery Scope
+
+Recovery coordination applies to:
+
+- Runtime Domains
+- Domain Orchestrators
+- Enterprise IMPERIAL Skills
+- Executive Services
+- AI Passport Services
+- Enterprise Infrastructure
+- Executive Workflows
+- Cross-Domain Operations
+
+Recovery shall never bypass constitutional governance or approved authorization procedures.
+
+---
+
+# 5. Recovery Pipeline
+
+```text
+Failure Detection
+
+↓
+
+Incident Verification
+
+↓
+
+Impact Assessment
+
+↓
+
+Recovery Planning
+
+↓
+
+Policy Validation
+
+↓
+
+Recovery Authorization
+
+↓
+
+Controlled Restoration
+
+↓
+
+Health Verification
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Recovery Modes
+
+Supported recovery modes include:
+
+| Mode | Description |
+|------|-------------|
+| Automatic | Low-Risk Automated Recovery |
+| Controlled | Policy-Governed Recovery |
+| Assisted | Recovery with Operator Support |
+| Executive | Executive-Level Recovery |
+| Emergency | Guardian Core Coordinated Recovery |
+| Disaster | Enterprise Disaster Recovery |
+
+Recovery mode selection shall be determined by verified operational evidence and applicable governance policies.
+
+---
+
+# 7. Governance Rules
+
+The Executive Recovery Manager guarantees:
+
+- deterministic recovery workflows;
+- Runtime Domain sovereignty;
+- federation-aware recovery coordination;
+- Zero Trust enforcement;
+- controlled restoration;
+- complete audit evidence.
+
+Recovery operations cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Executive Policies;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Risk Manager
+- Executive Compliance Manager
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+- Executive Monitoring Manager
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Recovery Workflow Tests
+- Failover Tests
+- Federation Tests
+- Disaster Recovery Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- recovery workflows remain deterministic;
+- unauthorized recovery is rejected;
+- Runtime Domain sovereignty is preserved;
+- enterprise restoration remains policy-compliant;
+- recovery evidence is complete;
+- Audit Ledger records every recovery event.
+
+---
+
+# 11. Final Principle
+
+> Enterprise recovery restores trusted operation, not merely service availability. Every recovery shall preserve governance, evidence and constitutional authority.
+
+The HANTER Executive Recovery Manager establishes the canonical enterprise recovery architecture for IMPERIAL Core, enabling secure and controlled operational restoration while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
