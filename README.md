@@ -40971,3 +40971,217 @@ The HANTER Executive Compliance Manager establishes the canonical compliance gov
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_RISK_MANAGER.md
+
+# 💎 HANTER Executive Risk Manager
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Risk Architecture
+> File: HANTER_EXECUTIVE_RISK_MANAGER.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Risk Manager** is the canonical enterprise risk governance component responsible for identifying, evaluating and continuously managing operational, security and governance risks throughout the IMPERIAL Core ecosystem.
+
+Its mission is to ensure that executive decisions are supported by deterministic risk evaluation while preserving the Federated Multi-Orchestrator Architecture, Runtime Domain sovereignty and constitutional governance.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Risk Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Risk Assessment Before Execution
+- Zero Trust
+- Continuous Risk Evaluation
+- Deterministic Decision Support
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Risk Manager governs:
+
+- Enterprise Risk Assessment
+- Risk Classification
+- Continuous Risk Monitoring
+- Cross-Domain Risk Analysis
+- Executive Risk Reporting
+- Risk Escalation
+- Risk Mitigation Coordination
+- Risk Audit
+
+---
+
+# 4. Risk Scope
+
+Risk evaluation applies to:
+
+- Executive Decisions
+- Runtime Domains
+- Domain Orchestrators
+- Enterprise IMPERIAL Skills
+- AI Passport Operations
+- Infrastructure Services
+- Enterprise Policies
+- Cross-Domain Operations
+
+Risk evaluation shall occur before, during and after every critical enterprise operation.
+
+---
+
+# 5. Risk Assessment Pipeline
+
+```text
+Enterprise Request
+
+↓
+
+Identity Verification
+
+↓
+
+Policy Validation
+
+↓
+
+Risk Identification
+
+↓
+
+Risk Classification
+
+↓
+
+Impact Analysis
+
+↓
+
+Mitigation Evaluation
+
+↓
+
+Executive Decision Support
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Risk Levels
+
+Supported enterprise risk levels include:
+
+| Level | Description |
+|--------|-------------|
+| R0 | Negligible |
+| R1 | Low Risk |
+| R2 | Moderate Risk |
+| R3 | High Risk |
+| R4 | Critical Risk |
+| R5 | Executive Emergency |
+
+Risk levels shall be continuously updated based on verified operational evidence.
+
+---
+
+# 7. Governance Rules
+
+The Executive Risk Manager guarantees:
+
+- deterministic risk evaluation;
+- evidence-based risk analysis;
+- Runtime Domain sovereignty;
+- federation-aware risk governance;
+- Zero Trust enforcement;
+- complete audit evidence.
+
+Risk evaluation cannot override:
+
+- Guardian Core decisions;
+- Approval Gateway requirements;
+- Architect authority;
+- constitutional governance;
+- executive security policies.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Compliance Manager
+- Executive Audit Manager
+- Executive Trust Manager
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Risk Assessment Tests
+- Risk Classification Tests
+- Federation Tests
+- Governance Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- enterprise risks are evaluated deterministically;
+- critical risks trigger automatic escalation;
+- Runtime Domain sovereignty is preserved;
+- risk analysis remains evidence-based;
+- mitigation workflows remain auditable;
+- Audit Ledger records every executive risk event.
+
+---
+
+# 11. Final Principle
+
+> Enterprise risk shall never be ignored, assumed or hidden. Every significant decision shall be supported by transparent, evidence-based risk evaluation.
+
+The HANTER Executive Risk Manager establishes the canonical enterprise risk architecture for IMPERIAL Core, enabling continuous executive risk governance while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
