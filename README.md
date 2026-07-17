@@ -38287,3 +38287,207 @@ The HANTER Executive Coordination Engine establishes the canonical executive coo
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_POLICY_ENGINE.md
+
+# 💎 HANTER Executive Policy Engine
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Policy Architecture
+> File: HANTER_EXECUTIVE_POLICY_ENGINE.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Policy Engine** is the canonical executive policy governance component responsible for evaluating, coordinating and enforcing enterprise executive policies throughout the IMPERIAL Core ecosystem.
+
+Its mission is to ensure deterministic policy governance while preserving the Federated Multi-Orchestrator Architecture, constitutional authority and Runtime Domain sovereignty.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Policy Engine follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Executive Policy Before Execution
+- Zero Trust
+- Deterministic Policy Evaluation
+- Separation of Duties
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Policy Engine governs:
+
+- Executive Policy Evaluation
+- Executive Policy Validation
+- Policy Distribution
+- Policy Synchronization
+- Cross-Domain Policy Coordination
+- Policy Compliance
+- Executive Policy Enforcement
+- Policy Audit
+
+---
+
+# 4. Policy Sources
+
+Executive policies may originate from:
+
+- Architect
+- Guardian Core
+- Executive Governance Model
+- Enterprise Governance
+- Security Policies
+- Runtime Policies
+- Organizational Policies
+- Constitutional Policies
+
+Only approved enterprise authorities may create executive policies.
+
+---
+
+# 5. Policy Pipeline
+
+```text
+Policy Request
+
+↓
+
+Identity Verification
+
+↓
+
+Policy Validation
+
+↓
+
+Executive Evaluation
+
+↓
+
+Policy Synchronization
+
+↓
+
+Approval Verification
+
+↓
+
+Policy Activation
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Policy Categories
+
+Supported categories:
+
+| Category | Description |
+|----------|-------------|
+| Executive | Executive Policies |
+| Strategic | Strategic Policies |
+| Governance | Governance Policies |
+| Security | Security Policies |
+| Runtime | Runtime Policies |
+| Federation | Federation Policies |
+| Compliance | Compliance Policies |
+| Recovery | Recovery Policies |
+| Organization | Organizational Policies |
+| Constitutional | Constitutional Policies |
+
+---
+
+# 7. Governance Rules
+
+The Executive Policy Engine guarantees:
+
+- deterministic policy evaluation;
+- federation-aware policy governance;
+- Runtime Domain sovereignty;
+- constitutional compliance;
+- enterprise consistency;
+- complete audit evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Governance Model
+- Executive Decision Engine
+- Executive Coordination Engine
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Policy Validation Tests
+- Governance Tests
+- Federation Tests
+- Compliance Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- executive policies are validated deterministically;
+- unauthorized policy activation is rejected;
+- Runtime Domain sovereignty is preserved;
+- federation policy synchronization remains consistent;
+- enterprise governance is maintained;
+- Audit Ledger records every executive policy event.
+
+---
+
+# 11. Final Principle
+
+> Executive policy establishes enterprise direction while preserving federated operational autonomy.
+
+The HANTER Executive Policy Engine establishes the canonical executive policy architecture for IMPERIAL Core, enabling secure enterprise governance while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
