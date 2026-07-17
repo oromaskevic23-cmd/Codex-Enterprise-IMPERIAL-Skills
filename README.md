@@ -37883,3 +37883,207 @@ The HANTER Executive Governance Model establishes the canonical executive govern
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_DECISION_ENGINE.md
+
+# 💎 HANTER Executive Decision Engine
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Decision Architecture
+> File: HANTER_EXECUTIVE_DECISION_ENGINE.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Decision Engine** is the canonical executive decision coordination component responsible for evaluating, prioritizing and coordinating enterprise decisions throughout the IMPERIAL Core ecosystem.
+
+Its mission is to ensure deterministic, transparent and constitutionally governed decision-making while preserving the Federated Multi-Orchestrator Architecture.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Decision Engine follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Decision Processing
+- Executive Governance
+- Separation of Duties
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Decision Engine governs:
+
+- Executive Decision Evaluation
+- Strategic Decision Coordination
+- Decision Prioritization
+- Executive Workflow Control
+- Cross-Domain Decision Support
+- Decision Validation
+- Executive Recommendation
+- Decision Audit
+
+---
+
+# 4. Decision Sources
+
+Executive decisions may originate from:
+
+- Architect
+- HANTER Executive Dashboard
+- Runtime Domains
+- Domain Orchestrators
+- Enterprise Policies
+- Guardian Core
+- Approval Gateway
+- Executive Analytics
+
+Only authorized enterprise sources may initiate executive decisions.
+
+---
+
+# 5. Decision Pipeline
+
+```text
+Decision Request
+
+↓
+
+Identity Verification
+
+↓
+
+Policy Validation
+
+↓
+
+Priority Assessment
+
+↓
+
+Executive Evaluation
+
+↓
+
+Approval Verification
+
+↓
+
+Decision Coordination
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Decision Categories
+
+Supported categories:
+
+| Category | Description |
+|----------|-------------|
+| Strategic | Strategic Decisions |
+| Operational | Operational Decisions |
+| Governance | Governance Decisions |
+| Security | Security Decisions |
+| Runtime | Runtime Decisions |
+| Federation | Cross-Domain Decisions |
+| Recovery | Recovery Decisions |
+| Compliance | Compliance Decisions |
+| Executive | Executive Directives |
+| Architect | Architect Reserved Decisions |
+
+---
+
+# 7. Governance Rules
+
+The Executive Decision Engine guarantees:
+
+- deterministic decision processing;
+- executive transparency;
+- federation-aware coordination;
+- Runtime Domain sovereignty;
+- constitutional governance;
+- complete audit evidence.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+- Executive Governance Model
+- Executive Dashboard
+- Enterprise Registry
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Decision Engine Tests
+- Governance Tests
+- Federation Tests
+- Executive Workflow Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- executive decisions remain deterministic;
+- decision authority is validated;
+- unauthorized decisions are rejected;
+- Runtime Domain independence is preserved;
+- governance evidence remains complete;
+- Audit Ledger records every executive decision.
+
+---
+
+# 11. Final Principle
+
+> Enterprise intelligence depends upon governed decisions, not centralized control.
+
+The HANTER Executive Decision Engine establishes the canonical executive decision architecture for IMPERIAL Core, enabling secure strategic decision coordination while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
