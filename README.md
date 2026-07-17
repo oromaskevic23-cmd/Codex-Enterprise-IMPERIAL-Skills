@@ -32183,3 +32183,350 @@ The component ensures that every Enterprise IMPERIAL Skills runtime action remai
 **Author and Owner — Romaskevich Alexander Nikolaevich**  
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**  
 **IMPERIAL Core — Architecture Before Implementation**
+# SDK_RUNTIME_PERMISSION_MANAGER.md
+
+# 💎 Enterprise IMPERIAL Skills SDK Runtime Permission Manager
+
+> Repository: Codex-Enterprise-IMPERIAL-Skills
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: Enterprise IMPERIAL Skills (EIS)
+> Status: Codex-Ready Engineering Specification
+> Document Class: SDK Authorization Architecture
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **SDK Runtime Permission Manager** is the canonical authorization component responsible for resolving, validating and issuing runtime permissions for Enterprise IMPERIAL Skills.
+
+Its mission is to ensure that every runtime action remains explicitly authorized, least-privileged, context-aware, time-limited and fully auditable.
+
+The Runtime Permission Manager converts verified identity, AI Passport, policy, approval evidence and Skill metadata into deterministic runtime authorization decisions.
+
+This document defines architecture only.
+
+It does not claim software implementation, testing or production deployment.
+
+---
+
+# 2. Architectural Position
+
+```text
+Architect Authority
+        │
+        ▼
+HANTER
+        │
+        ▼
+Federated Multi-Orchestrator Architecture
+        │
+        ▼
+SDK Runtime Coordinator
+        │
+        ▼
+SDK Runtime Security Manager
+        │
+        ▼
+SDK Runtime Permission Manager
+        │
+        ├── AI Passport
+        ├── EIS Registry
+        ├── SDK Policy Engine
+        ├── Guardian Core
+        ├── Approval Gateway
+        ├── Audit Ledger
+        └── Runtime Session Manager
+        │
+        ▼
+Authorized Runtime Capability
+```
+
+---
+
+# 3. Architecture Principles
+
+The Runtime Permission Manager enforces:
+
+- Deny by Default
+- Least Privilege
+- Zero Trust
+- Explicit Authorization
+- Context-Based Permissions
+- Short-Lived Capabilities
+- Continuous Verification
+- Immediate Revocation
+- Complete Auditability
+- Federated Authority
+- No Self-Elevation
+
+---
+
+# 4. Scope
+
+The Runtime Permission Manager governs:
+
+- Skill permissions
+- Runtime permissions
+- Tool permissions
+- Data permissions
+- API permissions
+- Storage permissions
+- Network permissions
+- Secrets permissions
+- Model permissions
+- Administrative permissions
+- Delegated permissions
+- Cross-domain permissions
+- Temporary permissions
+- Emergency permissions
+
+---
+
+# 5. Permission Model
+
+Every permission is bound to:
+
+- Identity
+- AI Passport
+- Skill
+- Skill Version
+- Runtime Domain
+- Mission
+- Session
+- Resource
+- Action
+- Policy Version
+- Trust Tier
+- Approval Evidence
+- Expiration Time
+
+Incomplete permission bindings are invalid.
+
+---
+
+# 6. Permission Categories
+
+Supported categories include:
+
+- Identity Permissions
+- Runtime Permissions
+- Skill Permissions
+- Data Permissions
+- API Permissions
+- Filesystem Permissions
+- Model Permissions
+- Secrets Permissions
+- Registry Permissions
+- Administrative Permissions
+- Delegation Permissions
+- Federation Permissions
+
+Administrative permissions always require stronger governance.
+
+---
+
+# 7. Permission Decision Model
+
+Every evaluation produces exactly one result.
+
+| Decision | Meaning |
+|----------|---------|
+| GRANT | Permission Approved |
+| GRANT_WITH_CONSTRAINTS | Permission Reduced |
+| REQUIRE_APPROVAL | Human Approval Required |
+| DENY | Permission Rejected |
+| REVOKE | Existing Permission Removed |
+| QUARANTINE | Unsafe Runtime Isolated |
+
+Undefined states shall always become **DENY**.
+
+---
+
+# 8. Permission Resolution Pipeline
+
+```text
+Permission Request
+
+↓
+
+Identity Validation
+
+↓
+
+AI Passport Validation
+
+↓
+
+Skill Manifest Validation
+
+↓
+
+Runtime Context Resolution
+
+↓
+
+Policy Evaluation
+
+↓
+
+Approval Validation
+
+↓
+
+Guardian Core Verification
+
+↓
+
+Permission Calculation
+
+↓
+
+Capability Generation
+
+↓
+
+Audit Recording
+
+↓
+
+Permission Active
+```
+
+---
+
+# 9. Effective Permission
+
+Effective Permission equals:
+
+```text
+Identity
+
+∩
+
+AI Passport
+
+∩
+
+Skill Manifest
+
+∩
+
+Runtime Domain
+
+∩
+
+Mission Scope
+
+∩
+
+Policy
+
+∩
+
+Approval
+
+∩
+
+Guardian Restrictions
+
+∩
+
+Resource Constraints
+```
+
+The smallest valid permission always wins.
+
+---
+
+# 10. Runtime Capability
+
+Every granted permission generates a Runtime Capability containing:
+
+- Capability ID
+- Subject
+- Skill
+- Skill Version
+- Session
+- Runtime Domain
+- Resource
+- Allowed Action
+- Constraints
+- TTL
+- Policy Version
+- Approval Reference
+- Audit Reference
+
+Capabilities are:
+
+- Time Limited
+- Revocable
+- Non-Transferable
+- Context Bound
+- Fully Auditable
+
+---
+
+# 11. Permission Lifecycle
+
+```text
+Requested
+
+↓
+
+Evaluating
+
+↓
+
+Granted
+
+↓
+
+Active
+
+↓
+
+Revalidated
+
+↓
+
+Expired
+
+↓
+
+Revoked
+
+↓
+
+Closed
+```
+
+Permissions never become permanent.
+
+---
+
+# 12. Final Principle
+
+> Runtime permissions represent temporary, bounded authority for one approved execution context. They never become permanent ownership or unrestricted administrative power.
+
+The SDK Runtime Permission Manager guarantees that every Enterprise IMPERIAL Skills execution remains explicitly authorized, continuously verified and fully governed by the canonical architecture of IMPERIAL Core.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
