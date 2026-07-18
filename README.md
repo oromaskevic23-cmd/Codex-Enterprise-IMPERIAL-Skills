@@ -41827,3 +41827,219 @@ The HANTER Executive Capacity Manager establishes the canonical enterprise capac
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_RESOURCE_MANAGER.md
+
+# 💎 HANTER Executive Resource Manager
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Resource Architecture
+> File: HANTER_EXECUTIVE_RESOURCE_MANAGER.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Resource Manager** is the canonical enterprise resource governance component responsible for coordinating the allocation, utilization and optimization of enterprise resources throughout the IMPERIAL Core ecosystem.
+
+Its mission is to ensure that every enterprise resource is managed securely, efficiently and according to constitutional governance while preserving the Federated Multi-Orchestrator Architecture and Runtime Domain sovereignty.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Resource Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Resource Governance Before Allocation
+- Zero Trust
+- Least Privilege
+- Deterministic Resource Allocation
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Resource Manager governs:
+
+- Enterprise Resource Allocation
+- Resource Registration
+- Resource Classification
+- Resource Scheduling
+- Resource Optimization
+- Resource Monitoring
+- Cross-Domain Resource Coordination
+- Resource Audit
+
+---
+
+# 4. Resource Scope
+
+The Executive Resource Manager governs:
+
+- Compute Resources
+- Storage Resources
+- Network Resources
+- Runtime Resources
+- Enterprise IMPERIAL Skills Resources
+- AI Services
+- Enterprise Infrastructure
+- Shared Federated Resources
+
+Every managed resource shall possess a unique enterprise identity and an explicitly defined ownership boundary.
+
+---
+
+# 5. Resource Management Pipeline
+
+```text
+Resource Request
+
+↓
+
+Identity Verification
+
+↓
+
+Resource Discovery
+
+↓
+
+Policy Validation
+
+↓
+
+Capacity Verification
+
+↓
+
+Resource Allocation
+
+↓
+
+Runtime Monitoring
+
+↓
+
+Optimization
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Resource Categories
+
+Supported resource categories include:
+
+| Category | Description |
+|----------|-------------|
+| Compute | CPU, GPU and Processing Resources |
+| Storage | Persistent and Temporary Storage |
+| Network | Enterprise Network Resources |
+| Runtime | Runtime Execution Resources |
+| Security | Security Infrastructure |
+| Federation | Shared Federated Resources |
+| Infrastructure | Enterprise Infrastructure |
+| Executive | Executive Reserved Resources |
+
+Each category follows independent lifecycle and governance policies.
+
+---
+
+# 7. Governance Rules
+
+The Executive Resource Manager guarantees:
+
+- deterministic resource allocation;
+- Runtime Domain sovereignty;
+- federation-aware resource governance;
+- Zero Trust enforcement;
+- efficient resource utilization;
+- complete audit evidence.
+
+Resource allocation cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Executive Policies;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Capacity Manager
+- Executive Monitoring Manager
+- Executive Recovery Manager
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Resource Allocation Tests
+- Resource Optimization Tests
+- Federation Tests
+- Performance Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- resource allocation remains deterministic;
+- unauthorized resource requests are rejected;
+- Runtime Domain sovereignty is preserved;
+- enterprise resources remain optimized;
+- resource utilization remains observable;
+- Audit Ledger records every resource event.
+
+---
+
+# 11. Final Principle
+
+> Enterprise resources are strategic assets. Every allocation, optimization and lifecycle transition shall remain transparent, governed and fully auditable.
+
+The HANTER Executive Resource Manager establishes the canonical enterprise resource architecture for IMPERIAL Core, enabling secure and efficient resource governance while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
