@@ -42467,3 +42467,217 @@ The HANTER Executive State Manager establishes the canonical enterprise state ar
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_HEALTH_MANAGER.md
+
+# 💎 HANTER Executive Health Manager
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Health Architecture
+> File: HANTER_EXECUTIVE_HEALTH_MANAGER.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Health Manager** is the canonical enterprise health governance component responsible for continuously evaluating the operational health of executive services, Runtime Domains and federated enterprise infrastructure.
+
+Its mission is to maintain real-time operational awareness, detect degradation before service disruption occurs and coordinate health-driven governance while preserving the Federated Multi-Orchestrator Architecture.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Health Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Health Verification Before Coordination
+- Zero Trust
+- Continuous Health Evaluation
+- Predictive Operational Stability
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Health Manager governs:
+
+- Enterprise Health Monitoring
+- Runtime Health Evaluation
+- Cross-Domain Health Coordination
+- Service Availability Validation
+- Health Trend Analysis
+- Degradation Detection
+- Health Reporting
+- Health Audit
+
+---
+
+# 4. Health Scope
+
+Health monitoring applies to:
+
+- Runtime Domains
+- Domain Orchestrators
+- Enterprise IMPERIAL Skills
+- Executive Services
+- AI Passport Services
+- Enterprise Infrastructure
+- Enterprise APIs
+- Federated Components
+
+Health evaluation shall remain continuous throughout the operational lifecycle.
+
+---
+
+# 5. Health Evaluation Pipeline
+
+```text
+Health Signal
+
+↓
+
+Identity Verification
+
+↓
+
+Metric Validation
+
+↓
+
+Health Analysis
+
+↓
+
+Policy Evaluation
+
+↓
+
+Health Classification
+
+↓
+
+Executive Notification
+
+↓
+
+Continuous Monitoring
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Health States
+
+Supported health states include:
+
+| State | Description |
+|--------|-------------|
+| Healthy | Normal Enterprise Operation |
+| Stable | Fully Operational |
+| Warning | Minor Degradation Detected |
+| Degraded | Reduced Operational Capacity |
+| Critical | Immediate Attention Required |
+| Recovering | Controlled Recovery in Progress |
+
+Health state transitions shall be based exclusively on verified operational evidence.
+
+---
+
+# 7. Governance Rules
+
+The Executive Health Manager guarantees:
+
+- deterministic health evaluation;
+- Runtime Domain sovereignty;
+- federation-aware health coordination;
+- Zero Trust enforcement;
+- proactive degradation detection;
+- complete audit evidence.
+
+Health evaluation cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Executive Policies;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Monitoring Manager
+- Executive Recovery Manager
+- Executive Failover Manager
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Health Evaluation Tests
+- Degradation Detection Tests
+- Federation Tests
+- Recovery Validation Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- health evaluation remains deterministic;
+- degraded services are detected automatically;
+- Runtime Domain sovereignty is preserved;
+- predictive monitoring remains accurate;
+- operational health evidence is complete;
+- Audit Ledger records every health event.
+
+---
+
+# 11. Final Principle
+
+> Enterprise health is a continuously verified operational condition. Every executive decision shall rely upon trusted, current and evidence-based health information.
+
+The HANTER Executive Health Manager establishes the canonical enterprise health architecture for IMPERIAL Core, enabling continuous operational awareness while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
