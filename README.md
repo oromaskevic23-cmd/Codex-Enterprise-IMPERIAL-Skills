@@ -42043,3 +42043,215 @@ The HANTER Executive Resource Manager establishes the canonical enterprise resou
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_REGISTRY.md
+
+# 💎 HANTER Executive Registry
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Registry Architecture
+> File: HANTER_EXECUTIVE_REGISTRY.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Registry** is the canonical enterprise registry responsible for maintaining the authoritative inventory of executive components, Runtime Domains, orchestrators, enterprise services and governed architectural entities throughout the IMPERIAL Core ecosystem.
+
+Its mission is to provide a single trusted registry for enterprise governance while preserving the Federated Multi-Orchestrator Architecture, Runtime Domain sovereignty and constitutional authority.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Registry follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Registry Before Coordination
+- Zero Trust
+- Verified Registration
+- Deterministic Discovery
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Registry governs:
+
+- Executive Component Registration
+- Runtime Domain Registry
+- Enterprise Service Registry
+- Orchestrator Registry
+- Enterprise Metadata
+- Registry Synchronization
+- Registry Validation
+- Registry Audit
+
+---
+
+# 4. Registry Scope
+
+The Executive Registry maintains records for:
+
+- Runtime Domains
+- Domain Orchestrators
+- Enterprise IMPERIAL Skills
+- Executive Services
+- AI Passport Services
+- Guardian Core
+- Approval Gateway
+- Enterprise Infrastructure
+
+Every registered entity shall possess a globally unique identifier and verified ownership.
+
+---
+
+# 5. Registry Lifecycle
+
+```text
+Registration Request
+
+↓
+
+Identity Verification
+
+↓
+
+Metadata Validation
+
+↓
+
+Policy Verification
+
+↓
+
+Registry Approval
+
+↓
+
+Registry Publication
+
+↓
+
+Continuous Synchronization
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Registry Categories
+
+Supported registry categories include:
+
+| Category | Description |
+|----------|-------------|
+| Executive | Executive Components |
+| Runtime | Runtime Domains |
+| Orchestrator | Domain Orchestrators |
+| Skills | Enterprise IMPERIAL Skills |
+| Services | Enterprise Services |
+| Infrastructure | Infrastructure Components |
+| Security | Security Components |
+| Federation | Federated Resources |
+
+Each registry category follows approved governance and lifecycle policies.
+
+---
+
+# 7. Governance Rules
+
+The Executive Registry guarantees:
+
+- deterministic registration;
+- verified ownership;
+- Runtime Domain sovereignty;
+- federation-aware discovery;
+- Zero Trust enforcement;
+- complete audit evidence.
+
+Registry operations cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Executive Policies;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Resource Manager
+- Executive Identity Manager
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+- AI Passport
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Registry Validation Tests
+- Registration Tests
+- Federation Tests
+- Synchronization Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- registry operations remain deterministic;
+- duplicate registrations are prevented;
+- Runtime Domain sovereignty is preserved;
+- enterprise discovery remains consistent;
+- registry synchronization remains reliable;
+- Audit Ledger records every registry event.
+
+---
+
+# 11. Final Principle
+
+> The Executive Registry serves as the authoritative source of enterprise identity and architectural truth. Every governed component shall be uniquely registered, continuously validated and fully auditable.
+
+The HANTER Executive Registry establishes the canonical enterprise registry architecture for IMPERIAL Core, enabling trusted component discovery, governance and federation while preserving constitutional authority and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
