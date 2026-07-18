@@ -44441,3 +44441,167 @@ It establishes the permanent architectural foundation for HANTER, ensuring long-
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_ARCHITECTURE_INDEX.md
+
+# 💎 HANTER Architecture Index
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Architecture Index
+> File: HANTER_ARCHITECTURE_INDEX.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Architecture Index** is the canonical navigation document for the complete HANTER architecture.
+
+Its purpose is to provide a single authoritative index of every approved architectural component, ensuring consistent navigation, governance and long-term maintainability across the IMPERIAL Core ecosystem.
+
+This document defines architecture only.
+
+---
+
+# 2. Architectural Principles
+
+The Architecture Index follows:
+
+- Architecture Before Implementation
+- Single Source of Architectural Truth
+- Canonical Document Identification
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Version-Controlled Documentation
+- Complete Auditability
+
+---
+
+# 3. Executive Architecture
+
+Executive Architecture includes:
+
+- Executive Decision Engine
+- Executive Coordination Engine
+- Executive Policy Engine
+- Executive Workflow Manager
+- Executive Monitoring Manager
+- Executive Analytics Engine
+- Executive Reporting Engine
+- Executive Notification Engine
+- Executive Event Engine
+
+---
+
+# 4. Governance Architecture
+
+Governance Architecture includes:
+
+- Executive Authorization Manager
+- Executive Identity Manager
+- Executive Trust Manager
+- Executive Compliance Manager
+- Executive Audit Manager
+- Executive Risk Manager
+- Executive Governance Framework
+
+---
+
+# 5. Runtime Architecture
+
+Runtime Architecture includes:
+
+- Executive Recovery Manager
+- Executive Failover Manager
+- Executive Capacity Manager
+- Executive Resource Manager
+- Executive Registry
+- Executive State Manager
+- Executive Health Manager
+- Executive Telemetry Manager
+
+---
+
+# 6. Enterprise Services
+
+Enterprise Services include:
+
+- Executive Knowledge Manager
+- Executive Configuration Manager
+- Executive Version Manager
+- Executive Backup Manager
+- Executive Disaster Recovery Manager
+
+---
+
+# 7. Reference Documents
+
+Canonical reference documents include:
+
+- HANTER Canonical Reference Architecture
+- Architecture Decision Records (ADR)
+- Architecture Registry
+- Repository Specification
+- Codex Implementation Guide
+- AGENTS.md
+- CODEX.md
+- Architecture Map
+
+---
+
+# 8. Integration Points
+
+The indexed architecture integrates with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- AI Passport
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+- Federated Domain Orchestrators
+
+Every integration shall remain independently governed and fully auditable.
+
+---
+
+# 9. Governance Rules
+
+The Architecture Index guarantees:
+
+- canonical document organization;
+- deterministic architecture navigation;
+- Runtime Domain sovereignty;
+- federation-aware documentation;
+- Zero Trust governance;
+- complete audit evidence.
+
+No architectural document may become canonical without Architect approval.
+
+---
+
+# 10. Final Principle
+
+> The Architecture Index is the authoritative navigation layer of HANTER. Every canonical document shall be uniquely identified, version-controlled and traceable throughout the lifetime of the IMPERIAL Core ecosystem.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
