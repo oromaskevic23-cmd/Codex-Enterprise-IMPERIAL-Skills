@@ -43973,3 +43973,248 @@ The HANTER Executive Disaster Recovery Manager establishes the canonical disaste
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_GOVERNANCE_FRAMEWORK.md
+
+# 💎 HANTER Executive Governance Framework
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Governance Architecture
+> File: HANTER_EXECUTIVE_GOVERNANCE_FRAMEWORK.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Governance Framework** is the canonical governance framework that defines how executive authority, architectural control and operational governance are exercised across the IMPERIAL Core ecosystem.
+
+Its mission is to establish a deterministic governance model ensuring that every executive action, architectural decision and enterprise operation follows approved constitutional principles while preserving the Federated Multi-Orchestrator Architecture.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Governance Framework follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Governance Before Execution
+- Zero Trust
+- Constitutional Authority
+- Separation of Duties
+- Complete Auditability
+
+---
+
+# 3. Governance Objectives
+
+The framework governs:
+
+- Executive Governance
+- Enterprise Decision Governance
+- Architectural Governance
+- Runtime Governance
+- Security Governance
+- Policy Governance
+- Cross-Domain Governance
+- Enterprise Compliance
+
+Every governance decision shall remain transparent, explainable and fully auditable.
+
+---
+
+# 4. Governance Hierarchy
+
+The canonical governance hierarchy is:
+
+```text
+Architect
+
+↓
+
+HANTER Executive Governance
+
+↓
+
+Guardian Core
+
+↓
+
+Approval Gateway
+
+↓
+
+Audit Ledger
+
+↓
+
+Federated Domain Orchestrators
+
+↓
+
+Runtime Domains
+
+↓
+
+Enterprise IMPERIAL Skills
+
+↓
+
+Enterprise Services
+```
+
+No component may bypass the governance hierarchy.
+
+---
+
+# 5. Governance Lifecycle
+
+```text
+Governance Request
+
+↓
+
+Identity Verification
+
+↓
+
+Policy Validation
+
+↓
+
+Architectural Evaluation
+
+↓
+
+Risk Assessment
+
+↓
+
+Executive Decision
+
+↓
+
+Governance Enforcement
+
+↓
+
+Continuous Monitoring
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Governance Domains
+
+The framework governs:
+
+| Domain | Responsibility |
+|---------|----------------|
+| Executive | Executive Coordination |
+| Architecture | Architectural Integrity |
+| Runtime | Runtime Governance |
+| Security | Enterprise Security |
+| Federation | Cross-Domain Coordination |
+| Compliance | Policy Compliance |
+| Operations | Enterprise Operations |
+| Recovery | Business Continuity |
+
+Each governance domain remains autonomous within its approved enterprise boundary.
+
+---
+
+# 7. Governance Rules
+
+The Executive Governance Framework guarantees:
+
+- deterministic governance;
+- constitutional authority;
+- Runtime Domain sovereignty;
+- federation-aware governance;
+- Zero Trust enforcement;
+- complete audit evidence.
+
+Governance authority cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Audit Ledger;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Decision Engine
+- Executive Policy Engine
+- Executive Compliance Manager
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Governance Validation Tests
+- Federation Tests
+- Policy Compliance Tests
+- Security Tests
+- Resilience Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- governance remains deterministic;
+- unauthorized governance actions are rejected;
+- Runtime Domain sovereignty is preserved;
+- enterprise governance remains consistent;
+- constitutional authority is maintained;
+- Audit Ledger records every governance event.
+
+---
+
+# 11. Final Principle
+
+> Enterprise governance exists to preserve architectural integrity, constitutional authority and trusted executive coordination. Every enterprise decision shall remain accountable, verifiable and permanently auditable.
+
+The HANTER Executive Governance Framework establishes the canonical governance architecture for IMPERIAL Core, enabling trusted executive governance while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
