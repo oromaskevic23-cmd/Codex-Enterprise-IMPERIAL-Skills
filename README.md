@@ -42897,3 +42897,219 @@ The HANTER Executive Telemetry Manager establishes the canonical enterprise tele
 **Founder • Owner •Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_KNOWLEDGE_MANAGER.md
+
+# 💎 HANTER Executive Knowledge Manager
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Knowledge Architecture
+> File: HANTER_EXECUTIVE_KNOWLEDGE_MANAGER.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Knowledge Manager** is the canonical enterprise knowledge governance component responsible for organizing, validating, protecting and coordinating architectural and operational knowledge throughout the IMPERIAL Core ecosystem.
+
+Its mission is to ensure that executive knowledge remains consistent, verifiable, version-controlled and available to authorized enterprise components while preserving the Federated Multi-Orchestrator Architecture and Runtime Domain sovereignty.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Knowledge Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Knowledge Before Decision
+- Zero Trust
+- Verified Knowledge
+- Version-Controlled Knowledge
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Knowledge Manager governs:
+
+- Enterprise Knowledge Management
+- Knowledge Validation
+- Knowledge Classification
+- Knowledge Synchronization
+- Cross-Domain Knowledge Sharing
+- Knowledge Versioning
+- Knowledge Lifecycle
+- Knowledge Audit
+
+---
+
+# 4. Knowledge Scope
+
+Knowledge governance applies to:
+
+- Architectural Documentation
+- Executive Policies
+- Architecture Decision Records (ADR)
+- Enterprise IMPERIAL Skills
+- AI Passport Knowledge
+- Runtime Documentation
+- Operational Procedures
+- Executive Governance Standards
+
+Every knowledge artifact shall possess a unique identifier, ownership metadata and version history.
+
+---
+
+# 5. Knowledge Lifecycle
+
+```text
+Knowledge Submission
+
+↓
+
+Identity Verification
+
+↓
+
+Content Validation
+
+↓
+
+Classification
+
+↓
+
+Policy Verification
+
+↓
+
+Knowledge Approval
+
+↓
+
+Publication
+
+↓
+
+Continuous Synchronization
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Knowledge Categories
+
+Supported knowledge categories include:
+
+| Category | Description |
+|----------|-------------|
+| Architecture | Canonical Architecture |
+| Governance | Enterprise Governance |
+| Runtime | Runtime Documentation |
+| Security | Security Knowledge |
+| Skills | Enterprise IMPERIAL Skills |
+| Operations | Operational Procedures |
+| Compliance | Compliance Documentation |
+| Executive | Executive Knowledge |
+
+Knowledge categories remain logically separated while supporting federated enterprise discovery.
+
+---
+
+# 7. Governance Rules
+
+The Executive Knowledge Manager guarantees:
+
+- deterministic knowledge governance;
+- verified knowledge integrity;
+- Runtime Domain sovereignty;
+- federation-aware knowledge synchronization;
+- Zero Trust enforcement;
+- complete audit evidence.
+
+Knowledge operations cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Executive Policies;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Registry
+- Executive Analytics Engine
+- Enterprise IMPERIAL Skills
+- AI Passport
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Knowledge Validation Tests
+- Synchronization Tests
+- Federation Tests
+- Version Control Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- knowledge governance remains deterministic;
+- unauthorized knowledge publication is rejected;
+- Runtime Domain sovereignty is preserved;
+- enterprise knowledge remains synchronized;
+- version history is maintained;
+- Audit Ledger records every knowledge event.
+
+---
+
+# 11. Final Principle
+
+> Enterprise knowledge is a strategic asset. Every architectural decision, operational procedure and governance standard shall remain verified, version-controlled, discoverable and permanently auditable.
+
+The HANTER Executive Knowledge Manager establishes the canonical enterprise knowledge architecture for IMPERIAL Core, enabling trusted knowledge governance while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
