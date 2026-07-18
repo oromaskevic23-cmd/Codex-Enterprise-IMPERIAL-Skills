@@ -44218,3 +44218,226 @@ The HANTER Executive Governance Framework establishes the canonical governance a
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_CANONICAL_REFERENCE_ARCHITECTURE.md
+
+# 💎 HANTER Canonical Reference Architecture
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Reference Architecture
+> File: HANTER_CANONICAL_REFERENCE_ARCHITECTURE.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Canonical Reference Architecture** defines the official architectural reference model for the HANTER executive platform within the IMPERIAL Core ecosystem.
+
+It serves as the primary architectural blueprint used to validate every future component, repository, implementation, integration and engineering decision.
+
+This document is architectural only and shall not be interpreted as evidence of implementation.
+
+---
+
+# 2. Architectural Mission
+
+HANTER serves as the executive coordination platform responsible for strategic governance, enterprise orchestration and executive supervision across IMPERIAL Core.
+
+Its mission is to provide trusted executive coordination while preserving:
+
+- Federated Multi-Orchestrator Architecture;
+- Runtime Domain sovereignty;
+- constitutional governance;
+- Zero Trust;
+- enterprise resilience;
+- complete auditability.
+
+---
+
+# 3. Canonical Position
+
+HANTER occupies the executive coordination layer inside the canonical hierarchy.
+
+```text
+Architect
+
+↓
+
+HANTER
+
+↓
+
+Guardian Core
+
+↓
+
+Approval Gateway
+
+↓
+
+Audit Ledger
+
+↓
+
+Federated Domain Orchestrators
+
+↓
+
+Runtime Domains
+
+↓
+
+Enterprise IMPERIAL Skills
+
+↓
+
+Enterprise Services
+```
+
+No component may change this hierarchy without explicit Architect approval.
+
+---
+
+# 4. Architectural Layers
+
+The HANTER Reference Architecture consists of the following layers:
+
+| Layer | Purpose |
+|--------|---------|
+| Executive Layer | Strategic coordination |
+| Governance Layer | Enterprise governance |
+| Security Layer | Zero Trust and trust enforcement |
+| Runtime Layer | Runtime coordination |
+| Federation Layer | Domain orchestration |
+| Knowledge Layer | Enterprise knowledge |
+| Infrastructure Layer | Shared enterprise infrastructure |
+
+Each layer remains independently governed while participating in the federated architecture.
+
+---
+
+# 5. Core Architectural Components
+
+The Reference Architecture includes:
+
+- Executive Decision Engine
+- Executive Coordination Engine
+- Executive Policy Engine
+- Executive Workflow Manager
+- Executive Monitoring Manager
+- Executive Analytics Engine
+- Executive Reporting Engine
+- Executive Notification Engine
+- Executive Event Engine
+- Executive Authorization Manager
+- Executive Identity Manager
+- Executive Trust Manager
+- Executive Compliance Manager
+- Executive Audit Manager
+- Executive Risk Manager
+- Executive Recovery Manager
+- Executive Failover Manager
+- Executive Capacity Manager
+- Executive Resource Manager
+- Executive Registry
+- Executive State Manager
+- Executive Health Manager
+- Executive Telemetry Manager
+- Executive Knowledge Manager
+- Executive Configuration Manager
+- Executive Version Manager
+- Executive Backup Manager
+- Executive Disaster Recovery Manager
+
+---
+
+# 6. Enterprise Integrations
+
+The Reference Architecture integrates with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- AI Passport
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+- Federated Domain Orchestrators
+- Executive Governance Framework
+
+All integrations remain policy-governed and independently auditable.
+
+---
+
+# 7. Architectural Constraints
+
+The HANTER Reference Architecture shall always preserve:
+
+- Architecture Before Implementation;
+- Federated Multi-Orchestrator Architecture;
+- Runtime Domain sovereignty;
+- Public/Private Boundary;
+- Zero Trust;
+- Separation of Duties;
+- Complete Auditability;
+- Deterministic Governance;
+- Explicit Architect Authority.
+
+---
+
+# 8. Verification Principles
+
+Every implementation claiming compliance with this architecture shall demonstrate:
+
+- architectural conformity;
+- policy compliance;
+- security validation;
+- runtime compatibility;
+- federation compatibility;
+- governance compliance;
+- audit completeness.
+
+Architecture approval does not imply software implementation.
+
+---
+
+# 9. Acceptance Criteria
+
+The Reference Architecture is considered complete when:
+
+- all canonical components are defined;
+- architectural relationships are documented;
+- governance boundaries are preserved;
+- integrations remain deterministic;
+- constitutional authority is maintained;
+- implementation guidance remains Codex-ready.
+
+---
+
+# 10. Final Principle
+
+> The HANTER Canonical Reference Architecture defines the enterprise blueprint that every implementation shall follow. Architecture governs implementation—not the reverse.
+
+It establishes the permanent architectural foundation for HANTER, ensuring long-term consistency, governance and engineering quality throughout the IMPERIAL Core ecosystem.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
