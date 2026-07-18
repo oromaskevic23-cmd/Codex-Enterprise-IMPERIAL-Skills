@@ -43329,3 +43329,217 @@ The HANTER Executive Configuration Manager establishes the canonical enterprise 
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_VERSION_MANAGER.md
+
+# 💎 HANTER Executive Version Manager
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Version Architecture
+> File: HANTER_EXECUTIVE_VERSION_MANAGER.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Version Manager** is the canonical enterprise version governance component responsible for controlling architectural, configuration, policy and enterprise component versions throughout the IMPERIAL Core ecosystem.
+
+Its mission is to guarantee deterministic version lifecycle management, controlled evolution and complete traceability while preserving the Federated Multi-Orchestrator Architecture, Runtime Domain sovereignty and constitutional governance.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Version Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Version Governance Before Deployment
+- Zero Trust
+- Immutable Version History
+- Deterministic Version Control
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Version Manager governs:
+
+- Version Registration
+- Version Validation
+- Version Lifecycle
+- Version Synchronization
+- Version Compatibility
+- Version Rollback
+- Cross-Domain Version Governance
+- Version Audit
+
+---
+
+# 4. Version Scope
+
+Version governance applies to:
+
+- Runtime Domains
+- Domain Orchestrators
+- Enterprise IMPERIAL Skills
+- Executive Services
+- Runtime Policies
+- Security Policies
+- Configuration Packages
+- Architecture Documents
+
+Every governed artifact shall possess a unique version identifier and immutable version history.
+
+---
+
+# 5. Version Lifecycle
+
+```text
+Version Submission
+
+↓
+
+Identity Verification
+
+↓
+
+Version Validation
+
+↓
+
+Policy Verification
+
+↓
+
+Compatibility Check
+
+↓
+
+Version Approval
+
+↓
+
+Controlled Publication
+
+↓
+
+Synchronization
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Version States
+
+Supported version states include:
+
+| State | Description |
+|--------|-------------|
+| Draft | Under Development |
+| Review | Pending Validation |
+| Approved | Architect Approved |
+| Active | Production Version |
+| Deprecated | Scheduled for Retirement |
+| Archived | Historical Version |
+
+Version transitions shall occur only through approved governance workflows.
+
+---
+
+# 7. Governance Rules
+
+The Executive Version Manager guarantees:
+
+- deterministic version control;
+- immutable version history;
+- Runtime Domain sovereignty;
+- federation-aware synchronization;
+- Zero Trust enforcement;
+- complete audit evidence.
+
+Version operations cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Executive Policies;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Configuration Manager
+- Executive Registry
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+- Architecture Repository
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Version Lifecycle Tests
+- Compatibility Tests
+- Federation Tests
+- Rollback Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- version management remains deterministic;
+- unauthorized version publication is rejected;
+- Runtime Domain sovereignty is preserved;
+- compatibility validation succeeds;
+- version history remains immutable;
+- Audit Ledger records every version event.
+
+---
+
+# 11. Final Principle
+
+> Enterprise evolution shall always be controlled, reproducible and traceable. Every architectural change begins with a governed version and ends with permanent historical evidence.
+
+The HANTER Executive Version Manager establishes the canonical enterprise version governance architecture for IMPERIAL Core, enabling deterministic version lifecycle management while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
