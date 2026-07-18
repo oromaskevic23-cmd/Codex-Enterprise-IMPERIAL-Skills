@@ -43755,3 +43755,221 @@ The HANTER Executive Backup Manager establishes the canonical enterprise backup 
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_EXECUTIVE_DISASTER_RECOVERY_MANAGER.md
+
+# 💎 HANTER Executive Disaster Recovery Manager
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Executive Disaster Recovery Architecture
+> File: HANTER_EXECUTIVE_DISASTER_RECOVERY_MANAGER.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Executive Disaster Recovery Manager** is the canonical enterprise disaster recovery governance component responsible for coordinating strategic recovery following catastrophic failures affecting multiple Runtime Domains, enterprise services or critical infrastructure.
+
+Its mission is to restore enterprise operational capability in a controlled, deterministic and auditable manner while preserving constitutional governance, the Federated Multi-Orchestrator Architecture and Runtime Domain sovereignty.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Executive Disaster Recovery Manager follows:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Disaster Recovery Before Normal Operations
+- Zero Trust
+- Controlled Recovery
+- Deterministic Disaster Response
+- Complete Auditability
+
+---
+
+# 3. Responsibilities
+
+The Executive Disaster Recovery Manager governs:
+
+- Enterprise Disaster Recovery Planning
+- Cross-Domain Recovery Coordination
+- Recovery Prioritization
+- Critical Infrastructure Restoration
+- Recovery Validation
+- Business Continuity Coordination
+- Recovery Readiness Verification
+- Disaster Recovery Audit
+
+---
+
+# 4. Disaster Recovery Scope
+
+Disaster Recovery governance applies to:
+
+- Runtime Domains
+- Domain Orchestrators
+- Enterprise IMPERIAL Skills
+- Executive Services
+- Enterprise Infrastructure
+- AI Passport Services
+- Enterprise Registries
+- Critical Knowledge Assets
+
+Recovery priorities shall always follow approved constitutional governance and enterprise continuity policies.
+
+---
+
+# 5. Disaster Recovery Pipeline
+
+```text
+Disaster Event
+
+↓
+
+Incident Verification
+
+↓
+
+Impact Classification
+
+↓
+
+Recovery Strategy Selection
+
+↓
+
+Policy Validation
+
+↓
+
+Executive Authorization
+
+↓
+
+Recovery Execution
+
+↓
+
+Operational Verification
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Recovery Priorities
+
+Recovery shall prioritize:
+
+| Priority | Description |
+|----------|-------------|
+| P1 | Guardian Core |
+| P2 | Approval Gateway |
+| P3 | Audit Ledger |
+| P4 | Executive Governance Services |
+| P5 | Runtime Domains |
+| P6 | Enterprise IMPERIAL Skills |
+| P7 | Enterprise Infrastructure |
+| P8 | Supporting Enterprise Services |
+
+Priority order may only be modified through approved constitutional governance.
+
+---
+
+# 7. Governance Rules
+
+The Executive Disaster Recovery Manager guarantees:
+
+- deterministic disaster recovery;
+- Runtime Domain sovereignty;
+- federation-aware recovery coordination;
+- Zero Trust enforcement;
+- controlled enterprise restoration;
+- complete audit evidence.
+
+Disaster recovery operations cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Executive Policies;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Executive Recovery Manager
+- Executive Failover Manager
+- Executive Backup Manager
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Disaster Recovery Tests
+- Recovery Validation Tests
+- Federation Tests
+- Business Continuity Tests
+- Security Tests
+
+Regular disaster recovery exercises shall be performed to validate operational readiness.
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- disaster recovery remains deterministic;
+- unauthorized recovery procedures are rejected;
+- Runtime Domain sovereignty is preserved;
+- enterprise continuity objectives are achieved;
+- recovery readiness remains continuously validated;
+- Audit Ledger records every disaster recovery event.
+
+---
+
+# 11. Final Principle
+
+> Enterprise disaster recovery shall restore trusted operations rather than merely restarting systems. Every recovery action shall preserve governance, security, architectural integrity and verifiable operational continuity.
+
+The HANTER Executive Disaster Recovery Manager establishes the canonical disaster recovery architecture for IMPERIAL Core, enabling resilient enterprise restoration while preserving constitutional authority, federation and architectural integrity.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
