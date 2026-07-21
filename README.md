@@ -44819,3 +44819,206 @@ Implementation is accepted when:
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_CODEX_IMPLEMENTATION_GUIDE.md
+
+# 💎 HANTER Codex Implementation Guide
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Codex Engineering Guide
+> Document Class: Implementation Guide
+> File: HANTER_CODEX_IMPLEMENTATION_GUIDE.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Codex Implementation Guide** defines the official engineering methodology that Codex shall follow when implementing HANTER.
+
+Its purpose is to ensure that implementation remains fully aligned with the approved architecture and never introduces undocumented behavior, architectural drift or governance violations.
+
+This document defines implementation guidance only and does not represent implementation evidence.
+
+---
+
+# 2. Implementation Principles
+
+Codex shall always follow:
+
+- Architecture Before Implementation
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Runtime Domain Sovereignty
+- Separation of Duties
+- Deterministic Engineering
+- Complete Auditability
+
+---
+
+# 3. Required Engineering Workflow
+
+Every implementation shall follow this sequence:
+
+```text
+Architecture Review
+
+↓
+
+Dependency Analysis
+
+↓
+
+Interface Design
+
+↓
+
+Implementation
+
+↓
+
+Unit Testing
+
+↓
+
+Integration Testing
+
+↓
+
+Security Validation
+
+↓
+
+Documentation Update
+
+↓
+
+Architect Review
+
+↓
+
+Repository Integration
+```
+
+Implementation stages shall never be skipped.
+
+---
+
+# 4. Mandatory Engineering Rules
+
+Codex shall:
+
+- preserve all canonical component names;
+- preserve repository structure;
+- preserve architectural boundaries;
+- implement interfaces before providers;
+- avoid hidden dependencies;
+- avoid hardcoded secrets;
+- maintain deterministic behavior;
+- document every assumption;
+- produce reproducible builds;
+- generate corresponding tests.
+
+---
+
+# 5. Implementation Constraints
+
+Codex shall never:
+
+- redesign approved architecture;
+- rename canonical components;
+- merge independent Runtime Domains;
+- bypass Guardian Core;
+- bypass Approval Gateway;
+- bypass Audit Ledger;
+- introduce a global orchestrator;
+- claim implementation without evidence;
+- claim testing without execution;
+- claim production readiness without approval.
+
+---
+
+# 6. Required Deliverables
+
+Each implemented module shall include:
+
+- source code;
+- interface definitions;
+- configuration;
+- documentation;
+- unit tests;
+- integration tests;
+- security tests;
+- validation report;
+- changelog.
+
+---
+
+# 7. Repository Standards
+
+Every implementation shall preserve:
+
+- repository hierarchy;
+- versioning policy;
+- documentation standards;
+- architectural traceability;
+- dependency transparency;
+- coding standards;
+- audit evidence.
+
+---
+
+# 8. Verification Gates
+
+Implementation progresses through:
+
+| Gate | Requirement |
+|------|-------------|
+| G1 | Architecture Approved |
+| G2 | Implementation Completed |
+| G3 | Tests Passed |
+| G4 | Security Verified |
+| G5 | Architect Approval |
+| G6 | Production Approval |
+
+Passing one gate shall not imply completion of subsequent gates.
+
+---
+
+# 9. Acceptance Criteria
+
+Implementation guidance is considered complete when:
+
+- engineering workflow is deterministic;
+- architectural integrity is preserved;
+- repository standards are maintained;
+- implementation remains traceable;
+- governance remains enforceable;
+- Codex behavior remains reproducible.
+
+---
+
+# 10. Final Principle
+
+> Codex exists to implement architecture—not redefine it. Every engineering decision shall remain subordinate to the approved architectural specification and constitutional governance of IMPERIAL Core.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
