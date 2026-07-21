@@ -45022,3 +45022,223 @@ Implementation guidance is considered complete when:
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_REPOSITORY_SPECIFICATION.md
+
+# 💎 HANTER Repository Specification
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Repository Specification
+> Document Class: Repository Architecture
+> File: HANTER_REPOSITORY_SPECIFICATION.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Repository Specification** defines the canonical repository structure, engineering standards and governance requirements for the HANTER platform.
+
+Its purpose is to ensure that every repository remains organized, deterministic, scalable and fully aligned with the approved IMPERIAL Core architecture.
+
+This document defines repository architecture only.
+
+---
+
+# 2. Repository Principles
+
+The repository shall always follow:
+
+- Architecture Before Implementation
+- Repository Before Code
+- Federated Multi-Orchestrator Architecture
+- Zero Trust
+- Deterministic Repository Structure
+- Complete Traceability
+- Complete Auditability
+
+---
+
+# 3. Repository Objectives
+
+The repository provides:
+
+- Canonical Project Structure
+- Engineering Consistency
+- Documentation Governance
+- Version Governance
+- Source Organization
+- Test Organization
+- Architecture Traceability
+- Codex Readiness
+
+---
+
+# 4. Canonical Repository Structure
+
+```text
+hanter/
+
+├── architecture/
+├── docs/
+├── adr/
+├── specifications/
+├── runtime/
+├── governance/
+├── security/
+├── integrations/
+├── sdk/
+├── interfaces/
+├── services/
+├── shared/
+├── infrastructure/
+├── configuration/
+├── scripts/
+├── tests/
+│   ├── unit/
+│   ├── integration/
+│   ├── security/
+│   └── resilience/
+├── tools/
+├── examples/
+├── assets/
+├── AGENTS.md
+├── CODEX.md
+├── README.md
+├── CHANGELOG.md
+├── LICENSE
+└── MANIFEST.md
+```
+
+The repository hierarchy shall remain deterministic and version-controlled.
+
+---
+
+# 5. Documentation Standards
+
+Every repository shall contain:
+
+- Architecture Specifications
+- Architecture Decision Records
+- Engineering Specifications
+- Interface Documentation
+- Security Documentation
+- Operational Documentation
+- Testing Documentation
+- Repository Manifest
+
+Documentation shall always be synchronized with architectural changes.
+
+---
+
+# 6. Engineering Standards
+
+Every implementation shall:
+
+- preserve canonical component names;
+- follow repository conventions;
+- maintain architectural boundaries;
+- include documentation;
+- include automated tests;
+- include version history;
+- preserve dependency transparency;
+- generate audit evidence.
+
+---
+
+# 7. Repository Governance
+
+The repository guarantees:
+
+- deterministic organization;
+- Runtime Domain sovereignty;
+- federation-aware engineering;
+- Zero Trust governance;
+- complete architectural traceability;
+- complete audit evidence.
+
+Repository governance cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Audit Ledger;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Repository Lifecycle
+
+```text
+Architecture Approved
+
+↓
+
+Repository Preparation
+
+↓
+
+Documentation
+
+↓
+
+Implementation
+
+↓
+
+Testing
+
+↓
+
+Validation
+
+↓
+
+Architect Review
+
+↓
+
+Repository Release
+```
+
+No implementation shall begin without an approved repository structure.
+
+---
+
+# 9. Acceptance Criteria
+
+The repository specification is considered complete when:
+
+- repository structure is canonical;
+- documentation is organized;
+- engineering standards are preserved;
+- architectural traceability is complete;
+- governance remains deterministic;
+- Codex can implement directly from repository specifications.
+
+---
+
+# 10. Final Principle
+
+> A repository is not merely a collection of files. It is the executable representation of enterprise architecture. Every directory, document and implementation artifact shall preserve the architectural integrity of IMPERIAL Core.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
