@@ -44605,3 +44605,217 @@ No architectural document may become canonical without Architect approval.
 **Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
 
 **IMPERIAL Core — Architecture Before Implementation**
+# HANTER_ARCHITECTURE_REGISTRY.md
+
+# 💎 HANTER Architecture Registry
+
+> Repository: IMPERIAL Core
+> Visibility: 🔒 PRIVATE
+> Project: IMPERIAL Core
+> System: HANTER
+> Status: Canonical Architecture Specification
+> Document Class: Architecture Registry
+> File: HANTER_ARCHITECTURE_REGISTRY.md
+
+---
+
+# Ownership
+
+**Owner:** Romaskevich Alexander Nikolaevich
+
+**Founder:** Romaskevich Alexander Nikolaevich
+
+**Chief Systems Architect:** Romaskevich Alexander Nikolaevich
+
+**Final Architectural Decision Authority:** Romaskevich Alexander Nikolaevich
+
+---
+
+# 1. Purpose
+
+The **HANTER Architecture Registry** is the canonical architectural registry responsible for maintaining the official inventory of all HANTER architectural artifacts, components, interfaces and governance specifications.
+
+Its mission is to provide a single authoritative architectural registry ensuring consistency, traceability and long-term governance throughout the IMPERIAL Core ecosystem.
+
+This document defines architecture only.
+
+---
+
+# 2. Architecture Principles
+
+The Architecture Registry follows:
+
+- Architecture Before Implementation
+- Single Source of Architectural Truth
+- Federated Multi-Orchestrator Architecture
+- Canonical Component Registration
+- Zero Trust
+- Deterministic Traceability
+- Complete Auditability
+
+---
+
+# 3. Registry Objectives
+
+The Architecture Registry provides:
+
+- Canonical Architecture Inventory
+- Component Registration
+- Architectural Traceability
+- Dependency Mapping
+- Interface Registry
+- Version Governance
+- Cross-Reference Management
+- Registry Audit
+
+---
+
+# 4. Registry Scope
+
+The registry maintains authoritative records for:
+
+- Executive Components
+- Runtime Components
+- Governance Components
+- Enterprise Services
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+- Federated Domain Orchestrators
+- Canonical Architecture Documents
+
+Every registered artifact shall possess a unique architectural identifier and explicit ownership.
+
+---
+
+# 5. Registry Lifecycle
+
+```text
+Architecture Artifact
+
+↓
+
+Identity Verification
+
+↓
+
+Registry Validation
+
+↓
+
+Dependency Analysis
+
+↓
+
+Policy Verification
+
+↓
+
+Architect Approval
+
+↓
+
+Registry Publication
+
+↓
+
+Synchronization
+
+↓
+
+Audit Recording
+```
+
+---
+
+# 6. Registry Categories
+
+Supported registry categories include:
+
+| Category | Description |
+|----------|-------------|
+| Architecture | Canonical Architecture |
+| Governance | Governance Components |
+| Runtime | Runtime Components |
+| Security | Security Components |
+| Enterprise | Enterprise Services |
+| Skills | Enterprise IMPERIAL Skills |
+| Documentation | Canonical Documents |
+| Interfaces | Enterprise Interfaces |
+
+Each category follows independent governance and versioning policies.
+
+---
+
+# 7. Governance Rules
+
+The Architecture Registry guarantees:
+
+- deterministic architectural registration;
+- unique architectural identifiers;
+- Runtime Domain sovereignty;
+- federation-aware traceability;
+- Zero Trust governance;
+- complete audit evidence.
+
+Registry operations cannot bypass:
+
+- Guardian Core;
+- Approval Gateway;
+- Executive Policies;
+- Architect Authority;
+- constitutional governance.
+
+---
+
+# 8. Integrations
+
+Integrated with:
+
+- Guardian Core
+- Approval Gateway
+- Audit Ledger
+- Architecture Index
+- Executive Registry
+- Enterprise IMPERIAL Skills
+- Runtime Domains
+- Architecture Repository
+
+---
+
+# 9. Testing
+
+Required validation:
+
+- Unit Tests
+- Registry Validation Tests
+- Dependency Verification Tests
+- Federation Tests
+- Traceability Tests
+- Security Tests
+
+---
+
+# 10. Acceptance Criteria
+
+Implementation is accepted when:
+
+- every canonical component is registered;
+- duplicate registrations are rejected;
+- dependency mapping remains deterministic;
+- Runtime Domain sovereignty is preserved;
+- architectural traceability remains complete;
+- Audit Ledger records every registry event.
+
+---
+
+# 11. Final Principle
+
+> The Architecture Registry is the permanent memory of the HANTER architecture. Every canonical artifact shall remain uniquely identified, traceable, version-controlled and governed throughout the evolution of the IMPERIAL Core ecosystem.
+
+---
+
+**Author and Owner — Romaskevich Alexander Nikolaevich**
+
+**Founder • Owner • Chief Systems Architect • Final Architectural Decision Authority**
+
+**IMPERIAL Core — Architecture Before Implementation**
