@@ -32,7 +32,7 @@
 **IMPERIAL Core** is architecturally intended as a **digital corporation of Universal NCA**, developed by **one human founder with LLM assistance**. Intended NCA identity scale: **1–1,000,000,000** as a **future goal**, not verified active/concurrent agents. Specializations are assigned per mission under signed permits, not unrestricted powers. No single global runtime orchestrator.
 
 **Core safety invariants:** Zero Trust · Identity ≠ Authority · Capability ≠ Approval · Deny by Default · Fail Closed · Public/Private Boundary.  
-**Legal boundary:** Proposed IMPERIAL Core, Inc. is not confirmed formed; 10,000,000 proposed authorized corporate shares are not legal proof of issued equity. Tokens are not corporate stock.
+**Legal boundary:** Any future legal entity remains proposed; incorporation is not established by this repository.
 
 ## Next acceptance tasks
 
