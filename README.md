@@ -9,7 +9,7 @@ No internal skill bodies, private operational material or closed evidence are re
 
 **Public project identity:** Alexander Romaskevich — RomaskevicH. Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority. HANTER — Chief Systems.
 
-[Public-safe ecosystem overview](https://github.com/oromaskevic23-cmd/Capital--Core-Public) · [Responsible disclosure](https://github.com/oromaskevic23-cmd/Capital--Core-Public/blob/main/SECURITY.md).
+[Public-safe ecosystem overview](https://github.com/oromaskevic23-cmd/Capital-Core-Public) · [Responsible disclosure](https://github.com/oromaskevic23-cmd/Capital-Core-Public/blob/main/SECURITY.md).
 
 Existing rights, licenses and history are unchanged. No repository visibility or access-control change is made by this documentation update.
 
