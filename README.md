@@ -1,5 +1,7 @@
 # Publication boundary notice
 
+<img src="https://raw.githubusercontent.com/oromaskevic23-cmd/oromaskevic23-cmd/main/assets/alexander-romaskevich-portrait-20261110.jpg" alt="Alexander Nikolaevich Romaskevich, Founder, Owner and CEO of IMPERIAL Core" width="160" />
+
 **Founding architect:** Alexander Nikolaevich Romaskevich (RomaskevicH). [Authorship](AUTHORS.md) · [License review](governance/LICENSE_INVENTORY.md).
 
 
@@ -7,7 +9,7 @@ This repository is currently public. Its previous landing document described an 
 
 No internal skill bodies, private operational material or closed evidence are reproduced in this replacement. This repository is excluded from the founder's public technology navigation pending classification review.
 
-**Public project identity:** Alexander Romaskevich — RomaskevicH. Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority. HANTER — Chief Systems.
+**Public project identity:** Alexander Romaskevich — RomaskevicH. Founder • Owner • CEO of IMPERIAL Core. Architect / Final Architectural Decision Authority. HANTER — AI Command Center.
 
 [Public-safe ecosystem overview](https://github.com/oromaskevic23-cmd/Capital-Core-Public) · [Responsible disclosure](https://github.com/oromaskevic23-cmd/Capital-Core-Public/blob/main/SECURITY.md).
 
